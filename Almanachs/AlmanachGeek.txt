@@ -46,3 +46,7 @@ Hotline :
 - Exact.
 Utilisateur néophyte :
 - Et, les chiffres, je les mets en minuscule aussi.
+
+=====
+09/01
+Chuck Norris est seul à avoir fait fonctionner deux 9600 GT SLI sur des ports CROSSFIRE.
