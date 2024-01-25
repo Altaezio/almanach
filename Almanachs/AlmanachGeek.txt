@@ -115,3 +115,25 @@ Pourquoi les geeks sont-ils fiers ?
 > Parce qu'ils ont une Gigabyte.
 
 =====
+22/01
+Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+> Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture et essaie de redémarrer.
+
+=====
+23/01
+- Comment voulez-vous appeler votre bébé ? demande une sage-femme geek à la femme qui vient d'aider à accoucher.
+- Mon mari et moi pensions à Hugo. lui répond-elle.
+Mais la sage-femme lui rétorque alors :
+- Impossible, Hugo est un nom déjà pris, mais hugo_128 ou Hugo3434 est disponible !
+
+=====
+24/01
+- Siri, marions-nous.
+- Désolé, ma licence utilisateur ne couvre pas le mariage.
+
+=====
+25/01
+Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
+> Je n'arrive pas à reproduire cette erreur.
+
+=====
