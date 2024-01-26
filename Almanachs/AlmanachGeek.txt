@@ -137,3 +137,8 @@ Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
 > Je n'arrive pas à reproduire cette erreur.
 
 =====
+26/01
+Pourquoi les geeks savent-ils toujours parfaitement ce qu'ils ont à faire dans leur travail ?
+> Parce qu'ils ont une feuille de root (route) !
+
+=====
