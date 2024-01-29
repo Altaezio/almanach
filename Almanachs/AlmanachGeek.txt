@@ -146,3 +146,14 @@ Pourquoi les geeks savent-ils toujours parfaitement ce qu'ils ont à faire dans 
 Deux informaticiens discutent :
 - Qu'est-ce que t'as pris comme résolution cette année ? 
 - 1024x768, et toi ?
+
+=====
+28/01
+Quel est le nombre le plus laid ?
+> -1 car -1 = i² (hideux).
+
+=====
+29/01
+Quel est l'animal qui a le plus de mémoire ? L'agneau, car il a une mémoire d'au moins 2 gigots (gigas) !
+
+=====
