@@ -178,3 +178,16 @@ Le premier fou répond "miaou, miaou" pour faire croire qu'il est un chat.
 - C'est un chat ! répond l'autre fou.
 
 =====
+01/02
+Un fou demande à un autre :
+- Tu connais l'histoire de la chaise ?
+- Non. Raconte !
+- Tu vas voir, elle est pliante !
+
+=====
+02/02
+Le docteur interroge un fou :
+- Si vous avez deux tablettes de chocolat à 3€ et un paquet de bonbons à 2 €, ça fait combien ?
+- Avec moi, ça fait deux heures !
+
+=====
