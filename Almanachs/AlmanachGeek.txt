@@ -294,3 +294,23 @@ Où partent les geeks en vacances ?
 > Au C-Shell.
 
 =====
+27/02
+Combien de programmeurs faut-il pour changer une ampoule ?
+> Aucun, c'est un problème de hardware.
+
+=====
+28/02
+Qu'utilise un geek pour faire la lessive ?
+> La barre des tâches !
+
+=====
+29/02
+Le manuel disait "Nécessite Windows XP ou mieux".
+J'ai donc installé Linux.
+
+=====
+01/03
+Quelle est la chanteuse la plus douée en informatique ?
+> Taylor Swift
+
+=====

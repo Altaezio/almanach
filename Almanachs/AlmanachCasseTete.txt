@@ -1,0 +1,40 @@
+=====
+14/01
+Avant-hier, je n'avais encore que 15 ans, mais, l'année prochaine, je serai majeur !
+Quelle est ma date d'anniversaire et quel jour sommes-nous ?
+> Je suis né un 31 décembre et nous sommes le 1er janvier.
+
+=====
+15/01
+J'ai quelque chose dans ma poche. Pourtant, je n'ai rien dans ma poche. 
+Qu'ai-je dans ma poche ?
+> Un trou
+
+=====
+16/01
+Utilisez une fois au maximum chaque opérateur pour que cette égalité soit juste.
+Les parethèses sont permises.
+1 1 1 1 1 1 1 1 1 1 = 5
+> (11 * 11 - 11) / (11 + 11) = 5
+
+=====
+17/01
+Trouvez l'intrus :
+ALLELUIA
+CALQUE
+ARRIERE
+BAOBAB
+> CALQUE
+
+=====
+19/01
+Vous aurez beau m'ôter une, plusieurs ou même toutes mes lettres, je ne changerai pas.
+Qui suis-je ?
+> Je suis une boîte aux lettres.
+
+=====
+20/01
+Quel nombre complète logiquement cette série ?
+41 67 19 11
+73, 45 ou 63 ?
+> 
