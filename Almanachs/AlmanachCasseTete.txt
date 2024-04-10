@@ -37,4 +37,25 @@ Qui suis-je ?
 Quel nombre complète logiquement cette série ?
 41 67 19 11
 73, 45 ou 63 ?
-> 
+> 73
+
+=====
+21/01
+Léa se demande où est Sacha lorsqu'elle découvre ce message :
+GÉTHTDCD
+Que doit-elle comprendre ?
+> J'ai été acheté des CD
+
+=====
+22/01
+Lucie a deux boîtes à bijoux et trois bagues, qu'elle souhaite ranger dedans.
+Supersitieuse, elle veut que chacune des boîtes contienne un nombre impair de bagues.
+Comment peut-elle s'y prendre ?
+> Elle place 3 bagues dans une boîte et place cette boîte dans l'autre.
+
+=====
+23/01
+Mon premier ajouté à mon troisième fait rire les jeunes enfants.
+Mon deuxième est loupé.
+Mon tout est sportif.
+>
