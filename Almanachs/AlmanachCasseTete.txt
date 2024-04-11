@@ -58,4 +58,49 @@ Comment peut-elle s'y prendre ?
 Mon premier ajouté à mon troisième fait rire les jeunes enfants.
 Mon deuxième est loupé.
 Mon tout est sportif.
->
+> Karatéka
+
+=====
+24/01
+Chaque jour, je tombe, sans jamais me faire mal.
+Qui suis-je ?
+> La nuit
+
+=====
+26/01
+Si CANET vaut zéro, comme BOON.
+Que MERAD vaut un, comme DEMAISON.
+Que DEPARDIEU vaut deux, comme DUJARDIN.
+Combien vaut CORNILLAC ?
+> Zéro (nombre de "D")
+
+=====
+27/01
+Jonas a quatre fois l'âge de Baptiste alors qu'il y a quatre ans, le ratio était deux fois plus important.
+Quel est l'âge de chacun ?
+> 28 et 7
+
+=====
+28/01
+Combien obtient-on en multipliant tous les nombres de 0 à 100 ?
+> 0
+
+=====
+29/01
+Je ne fais jamais défaut à celui qui me donne.
+Je n'appartiens à personne même si l'on cherche souvent à m'avoir.
+Qui suis-je ?
+> L'heure
+
+=====
+30/01
+Un inspecteur arrive sur une scène de crime et découvre le corps d'une femme pieds nus, une rose, entre les dents, tenant une louche dans sa main gauche et un roi de pique dans sa main droite.
+Qui de David Froment, Alex Martin ou Charles Thiébaut est probablement coupable ?
+> Le coupable est probablement David Froment, carte roi de pique se prénomme David
+
+=====
+31/01
+Combien de combinaisons sont possibles pour constituer une file indienne de huit enfants ?
+> 8!
+
+=====
