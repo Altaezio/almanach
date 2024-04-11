@@ -104,3 +104,31 @@ Combien de combinaisons sont possibles pour constituer une file indienne de huit
 > 8!
 
 =====
+01/02
+Fille des arts, je prolonge la vie.
+Plus je vieillis, plus mon sujet semble avoir rajeuni.
+Qui suis-je ?
+> Une photographie
+
+=====
+02/02
+Complétez l'équation pour qu'elle soit vraie.
+4 4 4 4 = 10
+> (4 4 - 4) / 4 = 10
+
+=====
+03/02
+Ôtez un vêtement, il restera une chaussure.
+P E S O I U G N L I O E R I R
+> PEIGNOIR SOULIER
+
+=====
+04/02
+Trouvez l'intrus.
+TACITURNE
+ATRABILAIRE
+ÉLÉGIAQUE
+MORBIDE
+> MORBIDE (tous les autres sont des synonymes de triste)
+
+
