@@ -131,4 +131,27 @@ ATRABILAIRE
 MORBIDE
 > MORBIDE (tous les autres sont des synonymes de triste)
 
+=====
+05/02
+Corrigez cette égalité en ne déplaçant qu'une seule barre.
+XII + XII = XIX
+> XII + VII = XIX
 
+=====
+06/02
+Camille, Léna et Louise se promènent. Léna marche devant sa soeur Louise, elle-même la soeur de Camille, qui n'est pas la soeur de Léna.
+Comment l'expliquer ?
+> Camille est un garçon
+
+=====
+07/02
+Miss France pèse 45 kilos plus un quart de son poids.
+Combien sa balance affiche-t-elle ?
+> 60kg
+
+=====
+08/02
+Qu'est-ce qui fait un lien entre les Dalton, les points cardinaux et les saisons ?
+> 4
+
+=====
