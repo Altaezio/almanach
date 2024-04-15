@@ -35,7 +35,7 @@ Qui suis-je ?
 =====
 20/01
 Quel nombre complète logiquement cette série ?
-41 67 19 11
+41 67 19 11 ??
 73, 45 ou 63 ?
 > 73
 
@@ -153,5 +153,61 @@ Combien sa balance affiche-t-elle ?
 08/02
 Qu'est-ce qui fait un lien entre les Dalton, les points cardinaux et les saisons ?
 > 4
+
+=====
+10/02
+Quelle expression se cache ci-dessous ?
+LUNDI
+JEUDI
+MARDI
+MERCREDI
+JEUDI
+VENDREDI
+JEUDI
+SAMEDI
+DIMANCHE
+JEUDI
+> La semaine des quatres jeudis
+
+=====
+11/02
+Résolvez cette addition, sachant qu'un symbol correspond toujours au même chiffre.
+   &*¤
++  ¤&*
++ *&¤¤
++ &*&¤
+= ¤**&
+> &=5 *=1 ¤=8
+
+=====
+12/02
+On demande à une personne de tirer une carte dans un jeu de 32 cartes.
+La carte est remise dans le jeu, puis on recommence avec une autre personne.
+Quelle est la probabilité, en pourcentage, pour que les deux personnes tirent la même carte ?
+> 1/32
+
+=====
+13/02
+Je fixe les pensées et fige la parole,
+Je guéris les malades, ressuscite les morts,
+Je révèle les secrets, sans que les mots s'envolent,
+Je peux parler aux sourds avec tout mon corps.
+Qui suis-je ?
+> L'écriture
+
+=====
+14/02
+Le légiste est formel : le meurtre a eu lieu à 2 heures du matin.
+Pour cette heure-là, le principal suspect dispose d'un alibi incontestable.
+Cela n'empêche pas l'inspecteur de le placer en garde à vue.
+Pourquoi ?
+> Passage à l'heure d'hiver
+
+=====
+15/02
+Quel nombre complète logiquement cette série ?
+64 97 53 86 ??
+51, 42 ou 74 ?
+> 
 
 =====

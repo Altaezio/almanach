@@ -368,3 +368,17 @@ Que fait un mathématicien quand il est triste ?
 Baigneware : logiciel de nettoyage du disque dur.
 
 =====
+13/03
+Qui est Bob Marlex ?
+> Un chanteur de regex !
+
+=====
+14/03
+Dans quoi boit-on une super-soupe ?
+> Dans un(e) Hyperbol(e).
+
+=====
+15/03
+Un geek ne grandit pas, il level up.
+
+=====
