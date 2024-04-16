@@ -171,6 +171,13 @@ JEUDI
 
 =====
 11/02
+Mon premier est vide, mais il possède un fond.
+Mon deuxième, tout homme est couvert.
+Plus d'un corps forme mon tout, qui ne forme qu'un seul corps.
+> Troupeau (trou peau)
+
+=====
+12/02
 Résolvez cette addition, sachant qu'un symbol correspond toujours au même chiffre.
    &*¤
 +  ¤&*
@@ -180,14 +187,14 @@ Résolvez cette addition, sachant qu'un symbol correspond toujours au même chif
 > &=5 *=1 ¤=8
 
 =====
-12/02
+13/02
 On demande à une personne de tirer une carte dans un jeu de 32 cartes.
 La carte est remise dans le jeu, puis on recommence avec une autre personne.
 Quelle est la probabilité, en pourcentage, pour que les deux personnes tirent la même carte ?
 > 1/32
 
 =====
-13/02
+14/02
 Je fixe les pensées et fige la parole,
 Je guéris les malades, ressuscite les morts,
 Je révèle les secrets, sans que les mots s'envolent,
@@ -196,7 +203,7 @@ Qui suis-je ?
 > L'écriture
 
 =====
-14/02
+15/02
 Le légiste est formel : le meurtre a eu lieu à 2 heures du matin.
 Pour cette heure-là, le principal suspect dispose d'un alibi incontestable.
 Cela n'empêche pas l'inspecteur de le placer en garde à vue.
@@ -204,10 +211,56 @@ Pourquoi ?
 > Passage à l'heure d'hiver
 
 =====
-15/02
+16/02
 Quel nombre complète logiquement cette série ?
 64 97 53 86 ??
 51, 42 ou 74 ?
+> 42 (diff de 2 au sein des nombres)
+
+=====
+17/02
+Peu inspirée par son devoir de philo, Tiphaine écrit :
+LNAVGTOPIDID
+C'est à dire ?
+> Hélèna végétait au pays des idées
+
+=====
+18/02
+Il est rare que les enfants m'aiment,
+Les adultes eux-mêmes me redoutent parfois,
+J'ai beau être une vieille dame,
+Je peux me vanter d'avoir toujours mes règles.
+Qui quis-je ?
+> Je suis la grammaire
+
+=====
+19/02
+Que comprenez vous ?
+RISSEAU	    VENT        PAR
+-------   ---------  ---------
+  UN	  S'ATTRAPE    PRISE
+> Un souriceau s'attrape souvent par surprise
+
+=====
+20/02
+J'ai trois filles.
+Céline a trois ans de plus que Stéphanie,
+qui a cinq ans de plus que Claire,
+qui est trois fois moins agée que Céline.
+Quel est l'âge de chaque fille ?
+> 12, 9 et 4
+
+=====
+21/02
+Doit-on dire "la plupart des saumons est blanche"
+ou "la plupart des saumons sont blancs" ?
+> Ni l'un ni l'autre, les saumons sont roses !
+
+=====
+22/02
+Quelle lettre complète logiquement cette série ?
+C G K O ??
+S, U ou V ?
 > 
 
 =====
