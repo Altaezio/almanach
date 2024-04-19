@@ -301,6 +301,26 @@ Mon tout est parfois tatillon.
 =====
 29/02
 Comment obtenir 30 en multipliant 10 par 10 ?
+> X X X
+
+=====
+01/03
+Quel jour serons-nous après-demain, sachant que le dernier jour du week-end était deux jours après avant-hier
+> Mardi
+
+=====
+03/03
+Quel est l'intrus ?
+JANVIER
+JUILLET
+OCTOBRE
+NOVEMBRE
+> NOVEMBRE (8 lettres)
+
+=====
+04/03
+La capacité d'un bateau de croisière est de 300 passagers.
+Combien de personnes peut-il accueillir simultanément au maximum, sachant que le capitaine souhaite pouvoir diviser - en fonction des activités proposés - l'ensemble des passagers par groupes de 2, 3, 5, 6 ou 7 ?
 > 
 
 =====
