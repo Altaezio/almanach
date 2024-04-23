@@ -506,3 +506,28 @@ Quel est le comblre pour Windows ?
 > C'est que pour l'arrêter il faut cliquer sur "Démarrer".
 
 =====
+11/04
+Quel est le point commum entre l'arithmétique et l'amour ?
+> Ça commence par des Bézout, s'envoie Euler dans Lagrange et finit par des Gauss.
+
+=====
+12/04
+"Nous autres, mordus d'informatique, préférons par-dessous tout passer notre temps à bidouiller nos ordinateurs, plutôt que de les utiliser pour faire quelque chose de productif."
+~Dave Barry
+
+=====
+13/04
+Combien de programmeurs Windows faut-il pour changer une ampoule ?
+> Trois 472. Un pour écrire WinGetLightBulbHandle. Un pour écrire WinQueryStatusLightBulb. Un pour écrire WinGetLightSwitch-Handle.
+
+=====
+14/04
+Quelle est la différence entre Windows 95 et Windows 98 ?
+> Le reboot est plus rapide...
+
+=====
+15/04
+Qu'est-ce qu'un ours polaire ?
+> Un ours cartésien qui a changé de coordonnées.
+
+=====
