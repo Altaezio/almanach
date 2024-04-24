@@ -391,3 +391,65 @@ PLTUALTAIPENE
 > PLATANE TULIPE
 
 =====
+16/03
+Faites le calcul ligne par ligne
+ 1000
++40
++1000
++30
++1000
++20
++1000
++10
+> 4100
+
+=====
+17/03
+Changez de plateau trois poids pour équilibrer cette balance.
+|35|9|14|2|5|16|6| __ |12|22|7|3|15|
+> 5, 7 et 16
+
+=====
+18/03
+Quelle plante courante se trouve aussi bien en ville qu'à la campagne,
+Grandit sans avoir besoin d'être arrosée,
+Se cache plus souvent qu'elle ne se montre,
+Est piétinée sans être écrasée ?
+> La plante de pieds
+
+=====
+19/03
+Un trader gagne 100 euros le premier jour du mois,
+200 le deuxième, 300 le troisème, etc.
+Est-il mieux ou moins payé que son collègue, qui gagne 750 euros chaque jour ?
+> Oui bien mieux : 46 500 >> 22 500
+
+=====
+21/03
+Assez collet monté, on peut me trouver dans les bois et dans les énigmes.
+Qui sui-je ?
+> Un piège.
+
+=====
+22/03
+ABC est un nombre impair.
+Quel est ce nombre sachant que :
+A + B + C = 10
+A + B = 3 (B + C)
+C + 1 = B
+> 721
+
+=====
+23/03
+Quelle lettre remplace logiquement le point d'interrogation ?
+L I A I 
+B R R ?
+> E (pour faire LIBRAIRE)
+
+=====
+24/03
+Quelle expression se cache ci-dessous ?
+DÉDIABLETAILS
+> Le diable se cache dans les détails.
+
+=====
