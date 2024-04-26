@@ -471,3 +471,35 @@ Combien de fois la petite et la grande aiguille d'une montre formeront-elles un 
 > Deux fois
 
 =====
+28/03
+Quel nombre est divisible par n'importe quel chiffre si on lui ajoute ce chiffre et qu'on soustrait 1 ?
+> 1
+
+=====
+29/03
+Ajourd'hui, un médecin spécialiste a soigné 15 patients.
+Aucun ne l'a remercié.
+Pourtant, tous étaient en âge et en état de le faire et aucun n'avait oublié son dentier.
+Alors pourquoi ?
+> C'était un véto
+
+=====
+30/03
+Lorsque je ne suis pas quelqu'un, je suis masculin,
+Lorsque je suis quelqu'un, je suis féminin
+On dit de moi que je ne suis pas parfait,
+Mais on peut faire des erreurs à mon sujet.
+Qui suis-je ?
+> Personne
+
+=====
+31/03
+Quel mot pouvez-vous découvrir à partir de ces cinq termes ?
+CHOC
+COUTURE
+MAMIE
+IRIS
+CANON
+> 
+
+=====
