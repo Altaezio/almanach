@@ -525,6 +525,42 @@ Trouvez de quelle qualité un bon menteur doit faire preuve s'il souhaite être 
 une lettre
 ----------
    ANSE
-> 
+> Assurance
 
 =====
+06/04
+Y a-t-il plus de façons différentes de placer quatre personnes en rang ou en cercle ?
+> En rang (24 positions contre 6)
+
+=====
+07/04
+Sur un plateau sont disposés 4 cakes au chocolat, 6 à la fraise, 3 au citron et 8 aux pommes.
+Tous sont d'aspect identique.
+Combien devez-vous prendre de cakes au minimum pour être certain d'en avoir deux au chocolat ?
+> 19
+
+=====
+08/04
+Quel est le point commun entre BIDE, ECHO et DIX ?
+> Ils ont un axe de symétrie
+
+=====
+09/04
+Sauter mon premier est souvent risqué.
+Mon deuxième est forcément sélectif.
+Sans mon troisième, bonjour l'odeur.
+Mon quatrième peut être de Corinthe.
+Mon tout fait preuve d'attachement.
+> Patriotisme
+
+=====
+11/04
+Trouvez l'intrus.
+CHOCOLAT
+BAOBAB
+CACAO
+KOALA
+> CHOCOLAT (les autres ont 2 A et 1 O)
+
+=====
+
