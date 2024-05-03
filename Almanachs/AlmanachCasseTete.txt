@@ -1,3 +1,7 @@
+Titre: 365 Casse-Tête pour se creuser les méninges
+Édition: PlayBac
+Note: Cadeau de Noël de Emmanuel qui me l'a reffilé
+
 =====
 14/01
 Avant-hier, je n'avais encore que 15 ans, mais, l'année prochaine, je serai majeur !
@@ -563,4 +567,128 @@ KOALA
 > CHOCOLAT (les autres ont 2 A et 1 O)
 
 =====
+12/04
+Ôtez un vice, il restera une vertu.
+PRAUVDARENICECE
+> AVARICE et PRUDENCE
 
+=====
+13/04
+Qui vole ma queue, aussi modeste soit-elle, me vole tout entier.
+Qui suis-je ?
+> Boeuf (oeuf c'est la queue du mot)
+
+=====
+14/04
+Le paradis malhonnête cache un poète.
+Lequel ?
+> Alphonse de Lamartine (anagramme)
+
+=====
+15/04
+Cent pièces d'or sont réparties en cinq sacs. Sachant que :
+sac1 + sac2 = 46
+sac2 + sac3 = 39
+sac3 + sac4 = 36
+sac4 + sac5 = 29
+Combien chaque sac contient-il de pièces ?
+> sac1 : 32, sac2 : 14, sac3 : 25, sac4 : 11, sac5 18
+
+=====
+17/04
+Utilisez une fois au maximum chaque opérateur pour que cette égalité soit juste.
+Les paranthèses sont permises.
+2 2 2 = 1
+> 2 - (2 / 2) = 1
+
+=====
+18/04
+Un jeune homme se vante auprès de ses amis de ses nombreuses conquêtes amoureuses.
+Il indique que toutes sauf trois sont blondes, toutes sauf trois sont rousses, toutes sauf trois sont brunes et toutes sauf trois son châtain.
+Combien de conquêtes a-t-il ?
+> 4, une de chaque
+
+=====
+19/04
+La girafe et l'éléphant n'en ont qu'un.
+La cigogne n'en a pas, le zèbre non plus.
+Le koala, bien pourvu, en a deux, comme le panda.
+De quoi s'agit-il ?
+> La lettre A
+
+=====
+20/04
+Sylvie affirme que Les Liaisons dangereuses comptent 22 lettres.
+Héloïse soutient que ce roman épistolaire en contient 175. 
+Qui a raison ?
+> Les deux : lettres différentes dans le roman et nombre de lettres dans le titre
+
+=====
+22/04
+Monsieur Seguin a attaché sa chèvre à une corde de 5 mètres. 
+Dès qu'il a le dos tourné, elle parvient à parcourir 10 mètres en ligne droite sans faire demi-tour.
+Comment cela est-il possible ?
+> La corde est pas attaché à autre chose.
+
+=====
+23/04
+Bien souvent, on me possède sans le savoir.
+Je ne suis ni visible, ni palpable.
+Malheureux qui me devine, bienheureux qui m'ignore.
+Pas besoin de se gratter le front pour découvrir l'affront que je marque.
+> Les cornes (de cocu)
+
+=====
+24/04
+Qu'est-ce qui fait le lien entre un artichaut, Charles et l'amour ?
+> Le coeur
+
+=====
+26/04
+Remplacez les pointillés par la lettre qui convient.
+GV...OPIDLN
+> Q (épeler)
+
+=====
+27/04
+Antoine parie 50 euros à Vincent qu'une pièce de cinq centimes jetée dans un sceau d'eau à 30 degrés atteindra plus vite le fond qu'une pièce de cinq centimes jetée dans un seau d'eau à 15 degrés.
+Vincent doit-il accepter ?
+> Non. La raison est nulle : Antoine parle en Fahrenheit...
+
+=====
+28/04
+Quelle expression se cache ci-dessous ?
+COQÊTREUILLETTE
+COQCOQUILLETTE
+> Être comme coq en pâte
+
+=====
+29/04
+Qu'est-ce qui fait le plus monter le niveau de [l'eau] dans un seau où se trouve une coquille de noix :
+une bille de plomb mise dans la coquille ou une bille de plomb mise dans l'eau ?
+> La bille dans la coquille car elle déplace son poids et non son volume.
+
+=====
+30/04
+Quel nombre complète logiquement cette série ?
+4 5 7 10 14 ??
+17, 20 ou 19
+> 19
+
+=====
+01/05
+Hier, je coulais,
+Aujourd'hui pris, je flotte,
+En ce que je fus,
+Dans peu de temps,
+Je n'y paraîtrai plus.
+Qui suis-je ?
+> Je suis le glaçon
+
+=====
+02/05
+Corrigez cette égalité en ne déplaçant qu'une seule barre.
+X - I = I
+> I X I = I
+
+=====
