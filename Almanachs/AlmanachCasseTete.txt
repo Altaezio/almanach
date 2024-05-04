@@ -692,3 +692,12 @@ X - I = I
 > I X I = I
 
 =====
+04/05
+Une joueuse a trois cartes en main.
+Reconstituez sa main, sachant qu'elle a :
+- un roi à droite d'un sept et un roi à gauche d'un roi.
+- un coeur à gauche d'un trèfle.
+- un coeur à droite d'un coeur.
+> 
+
+=====

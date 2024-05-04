@@ -619,3 +619,8 @@ Il a un pistolet mais il n'a que deux balles, sur qui va-t-il tirer ?
 ~Dave Barry
 
 =====
+04/05
+Si on enlève au mot "GEEK" le "G", le "E" et le "K" et on ajoute un "O", un "R", un "D", un "I", un "N", un "A", un "T", un "E", un "U" et un "R", on obtient le mot "ORDINATEUR".
+> En vrai ça fait "EORDINATEUR" mais oklm
+
+=====
