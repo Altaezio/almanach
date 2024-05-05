@@ -698,6 +698,11 @@ Reconstituez sa main, sachant qu'elle a :
 - un roi à droite d'un sept et un roi à gauche d'un roi.
 - un coeur à gauche d'un trèfle.
 - un coeur à droite d'un coeur.
-> 
+> 7 de coeur, roi de coeur, roi de trèfle
+
+=====
+05/05
+Quel jour étions-nous avant-hier sachant que le nom du jour d'hier ne comporte pas deux syllabes, que celui de demain en comporte trois et qu'hier nous étions plus près du week-end que du début de la semaine ?
+> Mercredi
 
 =====
