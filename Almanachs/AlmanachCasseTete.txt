@@ -706,3 +706,15 @@ Quel jour étions-nous avant-hier sachant que le nom du jour d'hier ne comporte 
 > Mercredi
 
 =====
+06/05
+Il fait beau, le soleil lui et Adèle, petite fille de 6 ans, s'amuse à marcher, les mains dans les poches, dans la neige fraîche, tombée cette nuit.
+Lorsqu'elle se retourne, elle ne voit pas la trace de ses pas.
+Pourquoi ?
+> Elle marche à reculons.
+
+=====
+09/05
+Vous avez cinq morceaux de chaînes constituées chacune de quatre maillons. Combien de maillons devrez-vous couper puis ressouder au minimum pour obtenir une seule chaîne fermée ?
+> Quatre (cela fonctionne si les quatres maillons proviennent du même morceau)
+
+=====
