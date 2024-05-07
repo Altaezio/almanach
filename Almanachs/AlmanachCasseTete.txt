@@ -718,3 +718,28 @@ Vous avez cinq morceaux de chaînes constituées chacune de quatre maillons. Com
 > Quatre (cela fonctionne si les quatres maillons proviennent du même morceau)
 
 =====
+10/05
+Mon premier n'est ni vichy ni bayadère.
+Mon deuxième est secondaire.
+Une Anglaise sert mon troisième à six amies.
+Mon tout fait germer les esprits.
+> Université
+
+=====
+11/05
+ABC est un nombre pair.
+Quel est ce nombre, sachant que :
+A + B + C = 9
+B + C = (A + C) / 2
+A - 3 = B
+> 630
+
+=====
+12/05
+Si ABRICOT vaut un, comme ANANAS
+Que CERISE vaut trois, comme CLEMENTINE,
+Que FRAISE vaut six, comme FRAMBOISE,
+Combien vaut KIWI ?
+> 11
+
+=====
