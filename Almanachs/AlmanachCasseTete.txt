@@ -743,3 +743,10 @@ Combien vaut KIWI ?
 > 11
 
 =====
+13/05
+Jeanne entre à la pâtisserie.
+Elle dépense 4 euros de plus que la moitié de ce qu'elle a si bien qu'en sortant, il lui reste 6 euros de plus que le quart de ce qu'elle avait en arrivant.
+Combien avait-elle au départ ?
+> 
+
+=====
