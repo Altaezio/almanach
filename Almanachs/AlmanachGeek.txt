@@ -666,3 +666,8 @@ Que dit un homme complexe à une femme réelle ?
 Mouchware : logiciel antivirus.
 
 =====
+14/05
+Sur Vista, ce qui prend le plus de temps, ce n'est pas le transfert de données.
+C'est le calcul du temps de transfert.
+
+=====
