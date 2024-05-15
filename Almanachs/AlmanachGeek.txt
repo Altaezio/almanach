@@ -671,3 +671,8 @@ Sur Vista, ce qui prend le plus de temps, ce n'est pas le transfert de données.
 C'est le calcul du temps de transfert.
 
 =====
+15/05
+De quoi un geek a-t-il besoin pour rentrer chez lui ?
+> Un trousseau de clés USB.
+
+=====
