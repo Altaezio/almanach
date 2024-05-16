@@ -761,6 +761,11 @@ Qui suis-je ?
 15/05
 Ma mère m'a eu à 21 ans. Mon père avait alors 25 ans. Dans 10 ans, ils auront à eux deux le triple de l'âge que j'aurai.
 Quel est mon âge ?
+> 36 ans
+
+=====
+16/05
+Émilie a des chats, des poules, des canards et au moins un mouton à cinq pattes. Cela représente 14 têtes et 45 pattes. Sachant qu'il y a deux fois plus de poules que de canards, dénombrez les animaux de chaque espèce.
 > 
 
 =====
