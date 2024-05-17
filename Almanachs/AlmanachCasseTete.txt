@@ -766,6 +766,12 @@ Quel est mon âge ?
 =====
 16/05
 Émilie a des chats, des poules, des canards et au moins un mouton à cinq pattes. Cela représente 14 têtes et 45 pattes. Sachant qu'il y a deux fois plus de poules que de canards, dénombrez les animaux de chaque espèce.
+> Émilie a 7 chats, 4 poules, 2 canards et 1 mouton à cinq pattes
+
+=====
+17/05
+Quelle expression se cache ci-dessous ?
+EDNOM
 > 
 
 =====
