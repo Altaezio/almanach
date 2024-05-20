@@ -772,6 +772,13 @@ Quel est mon âge ?
 17/05
 Quelle expression se cache ci-dessous ?
 EDNOM
-> 
+> C'est le monde à l'envers
+
+=====
+18/05
+Quelle lettre complète logiquement cette série ?
+D R M F S ??
+L, T ou P ?
+> L (initiale des notes de musique)
 
 =====
