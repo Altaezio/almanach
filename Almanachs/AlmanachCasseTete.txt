@@ -782,3 +782,17 @@ L, T ou P ?
 > L (initiale des notes de musique)
 
 =====
+20/05
+Pleine de vigueur, je ne me déplace jamais durant ma jeunesse,
+Ce n'est qu'une fois morte que je me mets à voyager.
+Qui suis-je ?
+> Une feuille d'arbre
+
+=====
+21/05
+Fleur est plus âgée que Julie.
+Lola est née avant Julie, mais elle est plus jeune que Fleur, elle-même née après Camille.
+Classez les filles de la plus jeune à la plus âgée.
+> Julie Lola Fleur Camille
+
+=====
