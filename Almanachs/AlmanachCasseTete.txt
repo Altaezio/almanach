@@ -800,6 +800,11 @@ Classez les filles de la plus jeune à la plus âgée.
 Un pirate a enfermé son trésor dans trois coffres cadenassés, chacun contenant trois coffres cadenassés, chacun contenant 10 diamants.
 Il a besoin de 55 diamants pour racheter son navire, qu'il a perdu au jeu.
 Combien de cadenas doit-il ouvrir ?
-> 8?
+> 8
+
+=====
+23/05
+Qui est, par rapport à ma mère, la fille de la mère de la fille de la mère de sa fille ?
+> 
 
 =====
