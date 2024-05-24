@@ -718,3 +718,7 @@ Que se passe-t-il quand un geek meurt ?
 > Il va à la corbeille.
 
 =====
+24/05
+INSERT mon_poing INTO ta_gueule.
+
+=====

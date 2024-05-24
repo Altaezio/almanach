@@ -805,6 +805,14 @@ Combien de cadenas doit-il ouvrir ?
 =====
 23/05
 Qui est, par rapport à ma mère, la fille de la mère de la fille de la mère de sa fille ?
+> Sa fille
+
+=====
+24/05
+Mon premier parfois, surpasse la figure.
+De mon deuxième point n'en faut.
+Mon troisième est un repaire de fées.
+Pour connaître mon tout, regardez le ciel.
 > 
 
 =====
