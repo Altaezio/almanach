@@ -833,6 +833,16 @@ Changer de plateau 3 poids pour équilibrer cette balance.
        |    2
  18_12 |   8_3
 17_5_4 | 9_16_10
->
+> Les poids 3, 10 et 17
+
+=====
+28/05
+Rosalie a acheté deux meubles pour 1010 €. Sachant que le canapé coûtait 100 € de plus que la commode, combien chaque meuble a-t-il coûté ?
+> 555€ et 465€ respectivement
+
+=====
+29/05
+Quelle promesse le soigneur cache-t-il en son nom ?
+> La guérison (anagramme)
 
 =====
