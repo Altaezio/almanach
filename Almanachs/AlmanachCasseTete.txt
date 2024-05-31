@@ -850,6 +850,22 @@ Quelle promesse le soigneur cache-t-il en son nom ?
 Touche touche pas,
 touche pas touche.
 Qu'est-ce qui touche et pourquoi ?
-> 
+> Ce sont les lèvres
+
+=====
+31/05
+Docteur No retient Jame Bond prisonnier.
+Il lui dit : "Voici quatre gélules d'aspect identique.
+Deux sont le poison, deux sont l'antidote.
+Choisi bien, tu dois impérativement en avaler deux."
+Comment 007 peut-il s'y prendre pour rester en vie à coup sûr ?
+> Il sépare chaque gélule en deux et avale une moitié de chaque.
+
+=====
+01/06
+Les sept nains ont décidé de se séparer.
+Ils se serrent la main pour se dire au revoir.
+Combien cela représente-t-il de poignées de mains ?
+> (7*(7-1)/2 = 21
 
 =====
