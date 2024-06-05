@@ -888,6 +888,13 @@ Je suis toujours le premier,
 Jamais le dernier.
 Sans moi, il ne peut être de fin.
 Avant tout, je suis...
-> 
+> Le début
+
+=====
+05/06
+Luc, 91 kg, Henri, 75 kg, et Robert, 66 kg, doivent traverser une rivière.
+Ils disposent d'une barque, qui ne supportera pas plus de 150 kg.
+Comment les trois hommes peuvent-ils faire pour traverser ?
+>
 
 =====
