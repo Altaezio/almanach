@@ -895,6 +895,13 @@ Avant tout, je suis...
 Luc, 91 kg, Henri, 75 kg, et Robert, 66 kg, doivent traverser une rivière.
 Ils disposent d'une barque, qui ne supportera pas plus de 150 kg.
 Comment les trois hommes peuvent-ils faire pour traverser ?
+> Henri + Robert > Henri ou Robert (HoR) > Luc > RoH > H + R
+
+=====
+07/06
+Trois collégiens se présentent aux élections de délégué de classe.
+Le vainqueur devra avoir plus de voix que les deux autres réunis.
+Sachant que chacun des 30 élèves de la classe vote pour un candidat, combien faut-il de voix au minimum à un candidat pour être élu ?
 >
 
 =====
