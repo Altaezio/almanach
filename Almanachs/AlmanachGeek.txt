@@ -789,3 +789,23 @@ F tombe à l'eau, que fait F' ?
 > Il dérive
 
 =====
+08/06
+Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
+Vide ton cache.
+
+=====
+09/06
+Que répond une mathématicienne venant d'accoucher à qui l'on demande "Avez-vous eu un garçon ou une fille ?"
+> Oui.
+
+=====
+10/06
+Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
+Essaye CTRL+F5
+
+=====
+11/06
+Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
+Ça ne figure pas dans le cahier des charges.
+
+=====
