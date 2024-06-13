@@ -809,3 +809,13 @@ Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
 Ça ne figure pas dans le cahier des charges.
 
 =====
+12/06
+La programmation, c'est comme le sexe :
+une erreur, et il te faudra faire du support toute ta vie.
+
+=====
+13/06
+Que dit Pythagore à son chien quand il va se promener ?
+> Brutus, va chercher Thalès.
+
+=====
