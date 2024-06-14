@@ -938,6 +938,13 @@ Comment prouver facilement que c'est un imposteur ?
 13/06
 Il faut 15 minutes à Emma pour dénoyauter 1 kg de cerises, alors qu'Astrid n'en a besoin que de 10.
 Combien de temps leur faut-il si elles s'y mettent à deux ?
+> 6 min
+
+=====
+14/06
+Placez correctement les opérateurs de votre choix pour que cette égalité soit juste.
+Les parenthèses sont permises.
+5 5 5 5 5 = 1
 >
 
 =====
