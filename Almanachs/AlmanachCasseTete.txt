@@ -945,6 +945,28 @@ Combien de temps leur faut-il si elles s'y mettent à deux ?
 Placez correctement les opérateurs de votre choix pour que cette égalité soit juste.
 Les parenthèses sont permises.
 5 5 5 5 5 = 1
->
+> 55 / 5 - 5 -5 = 1
+
+=====
+15/06
+Titouan dit :
+- Si tu me donnais deux billes, j'en aurais trois fois plus que toi.
+Tim répond :
+- Si toi tu m'en donnais deux, nous en aurions le même nombre.
+Combien chacun possède-t-il de billes ?
+> Titouan en a 10 et Tim 6
+
+=====
+16/06
+Prenez mon sextuple, ôtez la moitié de 120 et vous trouverez le double de 3.
+Quel nombre suis-je ?
+> 11
+
+=====
+17/06
+- Je te parie, dit Manon, que je peux enfoncer une aiguille dans un ballon de baudruche gonflé et fermé sans le faire exploser.
+- Pari tenu, dit Caroline.
+Comment Manon doit-elle s'y prendre pour réussir ?
+> Elle met un morceau de Scotch
 
 =====
