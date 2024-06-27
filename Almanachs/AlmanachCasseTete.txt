@@ -1023,4 +1023,9 @@ Qui suis-je ?
 Sarah veut perdre 15 kg, mais elle a du mal à suivre rigoureusement son régime.
 Une semaine, elle parvient à perdre 3 kg, la semaine suivante elle en reprend 1.
 Au bout de combien de temps parviendra-t-elle à son objectif ?
-> 8?
+> 13 semaines
+
+=====
+27/06
+Corrigez cette égalité en ne déplaçant qu'une seule barre.
+VII=I
