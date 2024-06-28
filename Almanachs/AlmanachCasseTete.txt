@@ -1029,3 +1029,10 @@ Au bout de combien de temps parviendra-t-elle à son objectif ?
 27/06
 Corrigez cette égalité en ne déplaçant qu'une seule barre.
 VII=I
+> racine_carré(I) = I
+
+=====
+28/06
+Maxime peut acheter 5 sucettes et 3 caramels pour 3,40 € ou 3 sucettes et 5 caramels pour 3 €.
+Combien coûte un caramel ? et une sucette ?
+> 
