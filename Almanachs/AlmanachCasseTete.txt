@@ -1035,4 +1035,11 @@ VII=I
 28/06
 Maxime peut acheter 5 sucettes et 3 caramels pour 3,40 € ou 3 sucettes et 5 caramels pour 3 €.
 Combien coûte un caramel ? et une sucette ?
-> 
+> Une sucette coûte 50 centimes et un caramel 30 centimes
+
+=====
+29/06
+Deux personnes regardent dans deux directions opposées, l'une vers le nord, l'autre vers le sud.
+Pourtant, elles parviennent à se voir, sans avoir besoin de miroir ni sans se retourner.
+Comment est-ce possible ?
+>
