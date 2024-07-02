@@ -1057,4 +1057,11 @@ Combien vaut MARCEAU ?
 Placez correctement les opérateurs de votre choix pour que cette égalité soit juste.
 Les parenthèses sont permises.
 6 6 6 6 6 = 1
+> (6 + 6) + 6 - 6 = 1
+
+=====
+02/07
+Il reste dix chips dans le paquet.
+Ça tombe bien, Lola et ses amis sont cinq, ça en fera deux chacun.
+Comment faire un partage équitable, sachant qu'après la répartition il doit rester une chips dans le paquet ?
 >
