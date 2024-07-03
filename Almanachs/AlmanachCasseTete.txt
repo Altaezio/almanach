@@ -1064,4 +1064,11 @@ Les parenthèses sont permises.
 Il reste dix chips dans le paquet.
 Ça tombe bien, Lola et ses amis sont cinq, ça en fera deux chacun.
 Comment faire un partage équitable, sachant qu'après la répartition il doit rester une chips dans le paquet ?
+> Chacun en prend deux sauf la dernière personne qui en prend une puis le paquet
+
+=====
+03/07
+Quel nombre complète logiquement cette série ?
+489 367 841 529 ???
+753, 349 ou 407 ?
 >
