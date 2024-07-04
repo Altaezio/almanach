@@ -1071,4 +1071,13 @@ Comment faire un partage équitable, sachant qu'après la répartition il doit r
 Quel nombre complète logiquement cette série ?
 489 367 841 529 ???
 753, 349 ou 407 ?
->
+> 407 (chiffre du milieu)
+
+=====
+04/07
+Quelle expression se cache ci-dessous ?
+15 kilos
+69 kilos
+1,30 mètre
+4 décimètres
+> 
