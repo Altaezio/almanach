@@ -921,3 +921,8 @@ Que fait un Belge quand son écran est gelé ?
 =====
 04/07
 Tu penses que si je mets un autocollant Windows sur ma voiture, je pourrais me garer sur les places handicapées ?
+
+=====
+05/07
+Quand est-ce que Windows ne bugue pas ?
+> Quand l'ordinateur est éteint.
