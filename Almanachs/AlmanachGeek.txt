@@ -926,3 +926,22 @@ Tu penses que si je mets un autocollant Windows sur ma voiture, je pourrais me g
 05/07
 Quand est-ce que Windows ne bugue pas ?
 > Quand l'ordinateur est éteint.
+
+=====
+06/07
+Prof :
+- Comment traduis-tu "C'est de pire en pire" en anglais ?
+Élève :
+- Euh... "This is peer to peer" ?
+
+=====
+07/07
+Quelle différence y a-t-il entre Windows et un clou ?
+> Aucune : tous deux sont destinés à se planter
+
+=====
+08/07
+Bill Gates va au paradis et Dieu lui dit :
+- Fils, viens t'asseoir à ma droite.
+Bill répond :
+- Primo, je ne suis pas votre fils et, deuzio, qu'est-ce que vous faites assis à ma place ?

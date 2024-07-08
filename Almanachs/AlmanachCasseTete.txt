@@ -1081,3 +1081,23 @@ Quelle expression se cache ci-dessous ?
 1,30 mètre
 4 décimètres
 > Faire deux poids, deux mesures
+
+=====
+06/07
+Nuisible sur six pattes,
+je suis utiles au typographe et à l'informaticien lorsque j'en suis dépourvu.
+Qui suis-je ?
+> La puce
+
+=====
+07/07
+Quel jour étions-nous hier, sachant que demain ne sera ni la veille ni le premier jour du week-end, 
+que le nom d'ajourd'hui ne commence pas par un "M", 
+qu'hier, nous n'étions pas dimanche, et que demain, je commence les cours à 8h ?
+> hier était samedi
+
+=====
+08/07
+Éva plonge un oeuf cru dans un verre d'eau.
+Il coule. Comment peut-elle s'y prendre pour faire flotter l'oeuf sans y toucher ?
+>
