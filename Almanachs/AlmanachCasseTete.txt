@@ -1116,4 +1116,4 @@ Quel nombre complète logiquement la dernière égalité ?
 10/07
 Un touriste dépense 50 dinars dans la première boutique du souk, puis double ses dépenses dans chaque nouvelle boutiques.
 Dans combien de boutiques peut-il faire des achats sachant qu'il a 10 000 dinars dans son portefeuille ?
->
+> 8 boutiques

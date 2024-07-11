@@ -964,3 +964,8 @@ Je te raconterai cette blague TCP jusqu'à ce que tu la captes.
 10/07
 Sur Terre, il y a trois sortes de personnes.
 Celles qui savent compter et celles qui ne savent pas.
+
+=====
+11/07
+Que fait un geek en cas de problème de RAM ?
+> Il essaie de BUS.
