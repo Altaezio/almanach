@@ -1117,3 +1117,16 @@ Quel nombre complète logiquement la dernière égalité ?
 Un touriste dépense 50 dinars dans la première boutique du souk, puis double ses dépenses dans chaque nouvelle boutiques.
 Dans combien de boutiques peut-il faire des achats sachant qu'il a 10 000 dinars dans son portefeuille ?
 > 8 boutiques
+
+=====
+12/07
+Les mystères du couple sont impénétrables.
+Pourtant, il est une chose que l'on rencontre toujours entre mari et femme.
+De quoi s'agit-il ?
+> Le mot "et"
+
+=====
+13/07
+Il y a un problème de taille dans cette égalité ! Lequel ?
+1 = 32 - 23
+> 
