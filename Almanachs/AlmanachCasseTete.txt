@@ -1129,4 +1129,15 @@ De quoi s'agit-il ?
 13/07
 Il y a un problème de taille dans cette égalité ! Lequel ?
 1 = 32 - 23
-> 
+> Certains chiffres sont des exposants : 1 = 3^2 - 2^3
+
+=====
+14/07
+Quelle capitale africaine vaut bien un festin ?
+> Alger (anagramme de régal)
+
+=====
+15/07
+Le fils de cet homme est le père du fils de l'homme que je suis. 
+Qui est cet homme par rapport à ma femme ?
+> son beau père ?
