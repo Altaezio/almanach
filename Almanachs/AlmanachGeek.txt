@@ -988,3 +988,7 @@ Le geek ne se vaccine pas, il met à jour sa base virale.
 =====
 15/07
 Cherware : logiciel qui coûte la peau des fesses.
+
+=====
+16/07
+Promouvware : logiciel de démonstration.
