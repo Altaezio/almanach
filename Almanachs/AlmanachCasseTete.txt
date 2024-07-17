@@ -1149,4 +1149,11 @@ Quel nombre complète logiquement la dernière égalité ?
 774 = 1    127 = 0
 200 = 2    882 = 4
 986 = 4    205 = ?
+> 1 (nombre de boucles fermées dans chaque chiffre)
+
+=====
+17/07
+Une boîte à bonbons remplie pèse 1,1kg.
+Durant l'anniversaire de Côme, les enfant mangent les trois quarts des bonbons et la boîte ne pèse plus que 500g.
+Combien pèse la boîte vide ?
 > 

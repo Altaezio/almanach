@@ -992,3 +992,7 @@ Cherware : logiciel qui coûte la peau des fesses.
 =====
 16/07
 Promouvware : logiciel de démonstration.
+
+=====
+17/07
+Rotisware : salle d'informatique mal climatisée.
