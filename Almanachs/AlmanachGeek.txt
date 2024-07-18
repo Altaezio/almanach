@@ -996,3 +996,8 @@ Promouvware : logiciel de démonstration.
 =====
 17/07
 Rotisware : salle d'informatique mal climatisée.
+
+=====
+18/07
+Que ce passe-t-il quand on installe Linux ?
+> Il n'y a plus DOS (d'os) !

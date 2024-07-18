@@ -1156,4 +1156,10 @@ Quel nombre complète logiquement la dernière égalité ?
 Une boîte à bonbons remplie pèse 1,1kg.
 Durant l'anniversaire de Côme, les enfant mangent les trois quarts des bonbons et la boîte ne pèse plus que 500g.
 Combien pèse la boîte vide ?
+> 300g
+
+=====
+18/07
+Un cordonnier sans sa tête ne vaut presque rien.
+Pourquoi ?
 > 
