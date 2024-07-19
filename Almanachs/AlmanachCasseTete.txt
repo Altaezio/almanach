@@ -1162,4 +1162,4 @@ Combien pèse la boîte vide ?
 18/07
 Un cordonnier sans sa tête ne vaut presque rien.
 Pourquoi ?
-> 
+> Si on enlève CORDON, qui est la tête de CORDONNIER, on obitent une anagramme de RIEN.

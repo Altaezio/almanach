@@ -1001,3 +1001,8 @@ Rotisware : salle d'informatique mal climatisée.
 18/07
 Que ce passe-t-il quand on installe Linux ?
 > Il n'y a plus DOS (d'os) !
+
+=====
+19/07
+Quelle est la différence entre un "kikou" et un "photon" ?
+> Le kikou est rarement une lumière.
