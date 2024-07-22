@@ -1163,3 +1163,24 @@ Combien pèse la boîte vide ?
 Un cordonnier sans sa tête ne vaut presque rien.
 Pourquoi ?
 > Si on enlève CORDON, qui est la tête de CORDONNIER, on obitent une anagramme de RIEN.
+
+=====
+20/07
+Corrigez cette égalité en ne déplaçant qu'une seule barre.
+XXI + IV + XI = XXVII
+> XXI - IV + XI = XXVII
+
+=====
+21/07
+Quelle expression se cache ci-dessous ?
+MARIENINS
+PORIENCHES
+> "Rien dans les mains, rien dans les poches"
+
+=====
+22/07
+Je suis en châtaigner mais en érable.
+En caoutchouc mais pas en plastique.
+Sans moi, vous ne pouvez avoir l'heure, même si le temps se passe de moi.
+Qui suis-je ?
+>
