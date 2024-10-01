@@ -1221,3 +1221,85 @@ Comment un geek aère-t-il son ordinateur ?
 =====
 01/09
 Les gens ont eu l'ADSL le jour où Chuck Norris est passé à la fibre optique.
+
+=====
+02/09
+Que fait un eek pour tenter de réparer une très grosse gaffe ?
+> Ctrl+Z
+
+=====
+03/09
+Quel est le point commun entre un geek, un scanner et une imprimante ?
+> Chacun d'eux est un périphérique relié à l'ordinateur
+
+=====
+04/09
+La révolution informatique fait gagner un temps fou aux hommes, mais ils le passent avec leur ordinateur !
+~Khalil Assala
+
+=====
+05/09
+WindowsTM, Mac Os et Linux sont aux toilettes.
+WindowsTM se lave complètement les mains en sortant et déclare :
+- Rien de plus sûr que ça
+Mac Os se lave uniquementdeux doigts :
+- Pas besoin de plus de sécurité
+Linux sort sans se laver les mains :
+- Chez Linux, on ne s'urine pas dessus
+
+=====
+06/09
+Comment un informaticien tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+> Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture et essaie de redémarrer
+
+=====
+07/09
+Tupperware : réunion de directrices de plusieurs entreprises
+
+=====
+08/09
+Que signifie JAVA ?
+> J'Avais une Vie Avant
+
+=====
+09/09
+Le sexe vu par un geek :
+for(i=0;i<=orgasme;i++)
+{input();output();}
+
+=====
+10/09
+Parle à mon core, ma tête compile
+
+=====
+11/09
+Pour quelle cause un geek est-il prêt à prendre les armes ?
+> Si sa batterie est en danger
+
+=====
+12/09
+Assomware : logiciel très difficile à comprendre
+
+=====
+13/09
+T'es tellement geek que quand tu choisis un plat au resto, tu fais alt + TAB
+
+=====
+14/09
+Quelle est la différence entre un ingénieur développeur et un technicien ?
+> Le technicien se lave les mains avant d'aller faire pipi
+
+=====
+15/09
+Pourquoi les Belges mettent-ils de l'eau sur leur clavier ?
+> Pour surfer sur Internet
+
+=====
+16/09
+Le cycle d'obsolescence des ordinateurs est devenu si rapide que, dans les hypermarchés informatiques du futur, il y aura des décharges juste en face des caisses enregistreuses.
+~Dave Barry
+
+=====
+17/09
+Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
+> Ça fonctionne bien sur mon poste
