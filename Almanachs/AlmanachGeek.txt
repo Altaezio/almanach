@@ -1303,3 +1303,83 @@ Le cycle d'obsolescence des ordinateurs est devenu si rapide que, dans les hyper
 17/09
 Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
 > Ça fonctionne bien sur mon poste
+
+=====
+18/09
+Une requête TCP entre dans un bar dit :
+- Je veux une bière
+- Vous voulez un bière ?
+- Oui, je veux une bière
+- Très bien
+
+=====
+19/09
+La vie d'un geek ne tient qu'à un fil : le câble Ethernet
+
+=====
+20/09
+Comment appelle-t-on les champignons les plus moches dans Mario ?
+> Les moches rooms (mushrooms)
+
+=====
+21/09
+Quel est le volume d'un cylindre de rayon z et de hauteur a ?
+
+=====
+22/09
+J'aime faire la Java parce que j'ai la Class
+
+=====
+23/09
+Quelle est la seule façon pour un geek de fêter la Saint-Valentin ?
+> De s'appeler Valentine
+
+=====
+24/09
+Dortware : logiciel rasoir à dormir debout
+
+=====
+25/09
+Embaumware : logiciel dédié à l'archivage de longue durée
+
+=====
+26/09
+Combien faut-il de mathématiciens pour changer une ampoule ? 
+Réponse 1 : 0. 
+C'est laissé au lecteur en exercice.
+Réponse 2 : 0. 
+Un mathématicien ne peut pas changer une ampoule, mais peut prouver que cela est faisable.
+Réponse 3 : 1.
+Il la donne à un physicien et ramène ainsi le problème à un problème précédemment résolu.
+Réponse 4 : la solution est triviale.
+Réponse 5 : 1.
+Une fois que vous avez réussi à lui présenter le problème dans des termes qu'il peut comprendre.
+
+=====
+27/09
+Un geek ne meurt pas, il respawn !
+
+=====
+28/09
+AU NOM DU PEER, DU PING ET DU ASCII, AMEN !
+
+=====
+29/09
+Pourquoi les geeks aiment-ils les siamois.es ?
+> Parce qu'elles ont un dual corps
+
+=====
+30/09
+On ne dit pas : un geek ne tombe pas malade
+On dit : il attrape un virus
+
+=====
+01/10
+Deux geeks discutent :
+- De quelle couleur sont tes yeux ?
+- #1292f4. Et toi ?
+
+=====
+02/10
+Combien faut-il de programmeurs pour faire un bon software chez Microsoft ?
+> Plus !
