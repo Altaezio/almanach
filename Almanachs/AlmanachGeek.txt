@@ -1449,3 +1449,83 @@ Combien de programmeurs sont nécessaires pour changer une ampoule électrique b
 L'informatique est géniale :
 les e-mails, même si vous n'y répondez pas, ça ne prend pas de place.
 ~Alain Rémond
+
+=====
+16/10
+Salut, Java bien ?
+
+=====
+17/10
+Quelle est la différence entre un vendeur d'autos d'occasion et un vendeur d'ordinateurs ?
+> Le vendeur d'autos sait quand il vous ment
+
+=====
+18/10
+C'est l'histoire d'un administrateur qui configure ses variables d'environnement, et là... PATH la !
+
+=====
+19/10
+Pour un geek, quelle est la différence entre "Elle" et "Lui" ?
+> La place de la lettre "M", car "Elle" : acheter, elle aime (HTLM) et "Lui" : HTML !
+
+=====
+20/10
+Un geek ne manque pas de réflexe, il a juste un ping trop important !
+
+=====
+21/10
+T'es tellement geek que ton groupe sanguin c'est C++
+
+=====
+22/10
+Deux choses montrent l'insufisance de la loi de radiation de Newton :
+La relativité générale d'Einstein...
+Et les chevaux dans le jeu Skyrim
+
+=====
+23/10
+Un ingénieur Linux, un ingénieur Mac et un ingénieur MicrosoftTM sont en voiture et crèvent un pneu.
+L'ingénieur Mac dit : 
+- Il faut changer le pneu pour pouvoir continuer
+L'ingénieur Linux dit:
+- Il faut d'abord trouver pourquoi le pneu a crevé pour que ça ne se reproduise pas
+L'ingénieur MicrosoftTM dit :
+- On a qu'à continuer comme ça on verra bien si ça se répare tout seul
+
+=====
+24/10
+Qu'est-ce qui est jaune, normé et complet ?
+> Un espace de Bananach
+
+=====
+25/10
+Un geek ne vieillit pas, il se met à jour...
+
+=====
+26/10
+C'est l'histoire d'un admin root qui ouvre son terminal et là... PATH ! le chemin !
+
+=====
+27/10
+Purgatware : logiciel dont il faut se confesser après utilisation
+
+=====
+28/10
+Boudware : logiciel dédié à la méditation
+
+=====
+29/10
+C'est un ingénieur d'une société française qui rencontre un ingénieur Microsoft
+Le premier dit au second :
+- Moi, ça me coûte un fric et un temps fous de tester me slogiciels avant de les commercialiser.
+L'ingénieur Microsoft lui répond :
+- Tu testes tes logiciels toi-même ? Tu n'as pas de clients pour faire ça ?
+
+=====
+30/10
+Pourquoi la vie est-elle complexe ?
+> Elle ades composantes réelles et imaginaires
+
+=====
+31/10
+Isolware : logiciel d'application électorale
