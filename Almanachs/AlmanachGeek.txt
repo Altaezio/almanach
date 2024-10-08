@@ -1529,3 +1529,72 @@ Pourquoi la vie est-elle complexe ?
 =====
 31/10
 Isolware : logiciel d'application électorale
+
+=====
+01/11
+T'es tellement geek que tes parents racontent que t'es une version beta
+
+=====
+02/11
+Qu'est-ce qu'un geek déteste plus que Windows ?
+> Les coupures de courant
+
+=====
+03/11
+Promontware : logiciel d'observation
+
+=====
+04/11
+Bill Gates ferait un excellent jardinier, car Windows plante tout le temps
+
+=====
+05/11
+T'es tellement geek que ton mot latin préféré c'est Pentium
+
+=====
+06/11
+Le jour où MicrosoftTM inventera quelque chose qui ne plante pas, ce sera un clou
+
+=====
+07/11
+Linux a un noyau, Windows a des pépins
+
+=====
+08/11
+Un geek demande :
+Il y a quelque chose de plus rapide que Firefox actuellement ?
+
+=====
+09/11
+Combien faut-il de programmeurs Microsoft pour changer une ampoule électrique ?
+> Aucun : si l'ampoule est grillée, Microsoft déclare l'obscurité comme nouveau standard
+
+=====
+10/11
+Combien de techniciens Microsoft faut-il pour changer une ampoule électrique ?
+> Trois : 2 pour tenir l'échelle et 1 pour visser l'ampoule dans le robinet
+
+=====
+11/11
+Comme la Hongrie, le monde informatique a une langue qui lui est propre, mais il y a une différence.
+Si vous restez assez longtemps chez des Hongrois, vous finirez par comprendre de quoi ils parlent.
+~Dave Barry
+
+=====
+12/11
+Pourquoi informaticien est-il le plus vieux métier du monde ?
+> Parce qu'avant la naissance du monde régnait déjà le K.O.
+
+=====
+13/11
+Combien faut-il de programmeurs Microsoft pour écrire correctement une application ?
+> Plus
+
+=====
+14/11
+Un geek ne va pas à la machine à café, il fait HTTP418
+
+=====
+15/11
+Proverbe geek :
+Tous les roots mènent à ROM. (routes - Rome !)
