@@ -1067,7 +1067,7 @@ Un neutron rassure un proton qui s'est séparé de son élection :
 
 =====
 01/08
-Le geek ne dort pas, il se met en veille… puis reboot
+Le geek ne dort pas, il se met en veille... puis reboot
 
 =====
 02/08
@@ -1175,7 +1175,7 @@ Quand quelqu'un de triste joue aux jeux vidéo pour oublier, on peut dire qu'il 
 
 =====
 23/08
-L'informatique, cela fait gagner beaucoup de temps…
+L'informatique, cela fait gagner beaucoup de temps...
 À condition d'en avoir beaucoup devant soi !
 ~Mireille Sitbon
 
@@ -1598,3 +1598,73 @@ Un geek ne va pas à la machine à café, il fait HTTP418
 15/11
 Proverbe geek :
 Tous les roots mènent à ROM. (routes - Rome !)
+
+=====
+16/11
+T'es tellement geek que quand tu vas chez le coiffeur, tu lui demandes de te CTRL+X les cheveux
+
+=====
+17/11
+Informatique : alliance d'une science inexacte et d'une activité humaine faillible
+~Luc Fayard
+
+=====
+18/11
+Quelle est la différence entre Microsoft et l'héroïne ?
+> La première dose est gratuite, mais quand vous serez accro ils augmenteront les prix
+
+=====
+19/11
+- C'est moi ou ta Playstation !
+- Ferme la porte en sortant, merci !
+
+=====
+20/11
+Le geek ne se réoriente pas, il reroll
+
+=====
+21/11
+La seule raison pour laquelle il est utile d'utiliser WIndowsTM, c'est pour tester un virus
+
+=====
+22/11
+Apple vient de lancer une nouvelle gamme d'ordinateurs dédiés spécialement aux fonctionnaires : le a-Mac
+
+=====
+23/11
+Quel Pokémon rate le plus ses attaques ?
+> Rattatac (Rate-attaque)
+
+=====
+24/11
+Le sexe, c'est un peu comme les équations : à partir de trois inconnues, ça devient intéressant
+
+=====
+25/11
+On ne dit pas : le geek a besoin d'un vaccin
+On dit : le geek a besoin d'un antivirus
+
+=====
+26/11
+À l'origine, Bill Gates voulait créer un logiciel d'agriculture.
+Il a réussi : Windows plante !
+
+=====
+27/11
+Vous êtes geek si...  pour vous, le lieu de rencontre par excellence est IRC
+
+=====
+28/11
+Deux geeks discutent :
+- C'est comment par ordre alphabétique ?
+- Bah : A Z E R T Y...
+
+=====
+29/11
+Que crie un geek en jetant son PC par la fenêtre ?
+> Hasta la vista !!!
+
+=====
+30/11
+Le point de vue du geek.
+90% de la solution à un problème informatique se situe entre le bureau et la chaise
