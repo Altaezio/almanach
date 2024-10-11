@@ -1744,3 +1744,93 @@ Deux geeks discutent :
 =====
 15/12
 Tirware : logiciel spécialisé dans le rangement des dossiers
+
+=====
+16/12
+Tu connais la blaque d'un geek qui nettoie son clavier ?
+> Aqewijonbkvg ghñjh koihgyuio
+
+=====
+17/12
+Comment le développeur dit-il "Je vais te rouler" dans son jargon ?
+> Je vais faire du télétravail pour être au calme
+
+=====
+18/12
+Il y a 10 types de gens dans le monde.
+Ceux qui parlent binaires et les autres.
+
+=====
+19/12
+Un geek ne crie pas.
+IL URL !
+
+=====
+20/12
+Le repas type d'un geek :
+Entrée : pizza
+Plat : pizza
+Dessert : pizza
+
+=====
+21/12
+Windows Explorer. 
+Windows Explorer ne répond pas.
+Windows recherche une solution à ce problème.
+"Recherche d'une solution au problème" ne répond pas.
+Windows cherche une solution à ce problème.
+
+=====
+22/12
+Un physicien, un mathématicien et un développeur vérifient l'assertion
+"Tous les nombres impairs sont premiers" :
+Le physicien :
+- 1, 3, 5, 7, 9... heu 11, 13.. bon, aux erreurs expérimentales près, c'est bo.
+Le mathématicien :
+- 1 c'est bon. 3 c'est bon. 5 c'est bon. 7 c'est bon. 9 c'est pas bon. Je suis désolé, mais ça ne va pas.
+Le développeur commence alors :
+- 1 c'est bon. 3 c'est bon. 5 c'est bon. 7 c'est bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon. 9 c'est pas bon...
+
+=====
+23/12
+Quel est le comble pour une carte réseau ?
+> C'est d'éviter des troubles de la circulation !
+
+=====
+24/12
+Le seul problème avec WindowsTM, c'est que parfois le clavier se blo/////////
+
+=====
+25/12
+Que dit Illidan quand un druide veut le soigner ?
+> Vous n'êtes pas prêtre
+
+=====
+26/12
+Vous connaissez la chose la plus compliquée à faire pour un paladin ?
+> Éteindre la lumière
+
+=====
+27/12
+Pourquoi les taurens connaissent très bien la trahison ?
+> Parce qu'ils ont tous des cornes
+
+=====
+28/12
+Pourquoi les joueurs de World of Warcraft sont toujours chez le coiffeur ?
+> Parce qu'ils adorent les extensions
+
+=====
+29/12
+Pourquoi Garrosh a perdu le siège d'Ogrimmar ?
+> Parce que les renforts avaient Durotar
+
+=====
+30/12
+Un guerrier tauren dit à son ami druide :
+- Tu as de la chance ta femme est chouette. La mienne est vache
+
+=====
+31/12
+Pourquoi les druides sont-ils de mauvais couturier ?
+> Car sous forme félin ils jouent avec les pelotes de laine !
