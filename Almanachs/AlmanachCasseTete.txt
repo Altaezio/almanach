@@ -1451,4 +1451,218 @@ Qui discute ainsi ?
 Quel mot peut compléter cette phrase ?
 "Sans un mot ni un bruit, Olivia fixait son amant Romuald, qui parlait d'un ton..."
 monocorde, las ou désinvolte
->
+> Las. Ce mot ne comporte pas de "e" comme le reste de la phrase
+
+=====
+01/09
+Djebril dit :
+- Si tu me donnais trois bonbons, j'en aurais trois fois plus que toi.
+Arthur répond :
+- Ne te plains pas. Tu en as déjà 50% de plus que moi.
+Combien chacun a-t-il de bonbons ?
+> Djebril a 12 bonbons et Arthur 8 bonbons
+
+=====
+02/09
+Sachant que :
+M=mouton
+L=lapin
+C=canard
+P=cochon
+ ML | LLC
+ LL | C
+MCC | LP
+
+Équilibrez cette balance avec le bon nombre de L :
+P | ...
+> Il faut 6 L
+
+=====
+03/09
+Mardi, au club d'échecs, Maurice et René ont joué trois parties, qui se sont toutes soldées par la victoire d'un joueur.
+Chacun des deux a gagné le même nombre de parties.
+Comment est-ce possible ?
+> Ils n'ont pas joué l'un contre l'autre
+
+=====
+04/09
+Sofia fait les soldes. 
+Pour 140€, elle s'achète un manteau, qui vaut aussi cher que sa robe et son pull réunis.
+Sa robe vaut le prix de son pull et de son chemisier, qui coûtait, lui 40€.
+Combien coûtaient respectivement la robe et le pull ?
+> 90€ la robe et 50€ le pull
+
+=====
+05/09
+Il faut 3 minutes à Tom pour confectionner un rouleau de printemps alors qu'il en faut 4 à Tim.
+Au bout de combien de temps Tom aura-t-il fait un rouleau de printemps de plus que Tim ?
+> Au bout de 12 minutes. Tom aura fait 4 rouleaux et Tim 3
+
+=====
+06/09
+Épelez l'eau de deux façons différentes.
+> E,A,U et H,2,0 (et O ?)
+
+=====
+07/09
+Qu'est-ce qui fait le lien entre la poussière, la folie et le blé ?
+> Le grain
+
+=====
+08/09
+Ôtez un fromage, il restera un dessert.
+PMROOFRITBIEREOLRES
+> En ôtant MORBIER, il reste PROFITEROLES
+
+=====
+09/09
+Un père donne 3 euros à son fils pour chaque bonne réponse, mais son fils doit lui donner 4 euros pour chaque mauvaise réponse.
+Au bout de 14 questions, personne ne doit rien à l'autre. 
+Combien le fils a-t-il eu de bonnes réponses ?
+> Il a eu 8 bonnes réponses
+
+=====
+10/09
+Quelle carte remplace logiquement le point d'interrogation ?
+3T 9C 3C
+1C 4C 4P
+2C ?? 5T
+> 10P. La carte de chaque rangée égale aux produits des deux autres et les diagonales donnent la couleur.
+
+=====
+11/09
+Un homme lit dans le métro.
+Soudant, il y a une panne d'électricité. La rame est plongée dans le noir et on n'y voit plus rien.
+Pourtant, il continue à lire.
+Comment est-ce possible ?
+> C'est un aveugle, qui lit en braille. (ou juste il lit sur son tel mdr)
+
+=====
+12/09
+Mon premier a une tête de mule.
+Mon deuxième peut se pousser mais pas se tirer.
+Mon troisième ne pèse pas lourd.
+Vous trouverez mon tout dans ce calendrier.
+> Anagramme (âne - ah - gramme)
+
+=====
+13/09
+Un producteur veut conditionner ses bouteilles de vin.
+Il s'arrache les cheveux, car il n'arrive à les conditionner ni par 10 ni par 9, 8, 7, 6, 5, 4, 3 ou 2.
+Mais, s'il en avait juste une de plus, tous ces conditionnements seraient possibles.
+Combien en a-t-il ?
+> 2519, plus petit multiplicateur commun
+
+=====
+14/09
+Au masculin, je suis de service.
+Au féminin, je peux être de garde.
+On doit me tourner pour avancer.
+Qui suis-je ?
+> Le (ou la) page
+
+=====
+15/09
+Gilles achète en nombre égal des croissants, des brioches et des pains au chocolat.
+Sans les croissants, il aurait déboursé 10 euros.
+Sans les brioches, il en aurait eu pour 14 euros.
+Sans les pains au chocolat, il aurait dépensé 11 euros.
+Quelle viennoiserie coûtait le moins cher ?
+> Les brioches
+
+=====
+16/09
+Quelle lettre complète logiquement cette série ?
+C P H S E L
+O A D I M ?
+> R. Lues en zigzag, les lettres forment le mot "cahier"
+
+=====
+17/09
+En raison de la pollution, la circulation est interdite à tous les véhicules, sauf ceux des secours.
+Pourtant, un chauffeur de taxi passe ostensiblement devant les policiers, qui ne lui disent rien.
+Pourquoi ?
+> Il est à pieds
+
+=====
+18/09
+Dans son devoir sur le Moyen Âge, un lycéen fait référence à plusieurs reprises aux chevaliers de l'an 1049.
+Pourquoi ?
+> Il veut parler des chevaliers de l'an MIL. 1049 en chiffres romains
+
+=====
+19/09
+Léonard a accepté d'être transformé en objet par le diable, qui lui a promis en échange la gloire éternelle.
+Quel était cet objet ?
+> Une scie. C'est ainsi que Léonard devient scie...
+
+=====
+20/09
+> Que jour étions-nous avant-hier sachant que, le lendemain, nous nétions pas en week-end, alors que nous l'étions la veille, qui n'était pas le surlendemain de jeudi ?
+> Nous étions lundi. (c'était bien écrit "Que" et pas "Quel")
+
+=====
+21/09
+Pour régler ses 4 articles en soldes, Justine a le choix entre deux promotions :
+2 achetés = 1 gratuit ou 1 acheté = le 2e à -50%.
+Quelle promotion doit-elle choisir ?
+> N'importe, cela revient au même
+
+=====
+22/09
+Quelle expression se cache ci-dessous ?
+OCOMPASEIL
+> Avoir le compas dans l'oeil
+
+=====
+23/09
+Cinquante-cinq personnes participent à une rencontre entre étudiants et recruteurs.
+Pendant la rencontre, le 1er étudiant rencontre 6 recruteurs, le 2e en rencontre 7, le 3e en rencontre 8, etc.
+Le dernier étudiant rencontre chaque recruteur. 
+Combien d'étudiants étaient présents ?
+> Il y avait 25 étudiants
+
+=====
+24/09
+Avant la partie de tarot, Rémi prend une feuille et note :
+TRACES
+ECARTS
+CASTRE
+Que fait-il ?
+> Il mélange les cartes
+
+=====
+25/09
+Décryptez ce message.
+DOS FEE ULM GAG
+TRI NON MULE SENS
+ILE POD LYS ARA TAON
+BRU TAS MIE BLEU POT
+> Tu es un as des énigmes. Il faut prendre la dernière lettre de chaque mot et lire en partant du dernier
+
+=====
+26/09
+Ajouez quatre fois le même opérateur pour que cette égalité soit juste. Les parenthèses sont permises.
+11+12+13+16=2
+> 1/1 + 1/2 + 1/3 + 1/6 = 2
+
+=====
+27/09
+Le président veut intercepter les 200 000 exemplaires d'un ouvrage compromettant avant leur mise en vente.
+Ils sont mis par 10 dans des cartons, eux-mêmes rangés par 12 dans des caisses, elles-mêmes placées par 30 dans des camions.
+Combien de camions doit-il intercepter ?
+> 56 camions
+
+=====
+28/09
+Monsieur et madame Hébert ont cinq enfants : Lucie, Martin, Melvin, Jérémy et ...
+Véronique, Olivia, Suzon ou Tristan ?
+> Véronique (les deux premières lettres de chaque prénom sont celles des jours de la semaine)
+
+=====
+30/09
+Pour convaincre un sceptique qu'il est un grand voyant, un imposteur lui dit :
+- Je suis capable d'écrire votre nom sans avoir à vous demander.
+Et il le fait.
+Comment l'expliquer ?
+> Il écrit "votre nom"
