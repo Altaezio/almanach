@@ -1666,3 +1666,95 @@ Pour convaincre un sceptique qu'il est un grand voyant, un imposteur lui dit :
 Et il le fait.
 Comment l'expliquer ?
 > Il écrit "votre nom"
+
+=====
+01/10
+Remplacez les lettres par des chiffres pour que l'addition soit juste.
+  E L E V E
++ L E C O N
+-----------
+D E V O I R
+> 69656 + 96078 = 165734
+
+=====
+02/10
+Un campeur à vélo route à 12 km/h dans la garrigue.
+Soudain, il voit un incendie derrière lui.
+Du fait d'un fort vent arrière, les flammes progressent dans sa direction à la vitesse de 25 km/h.
+Comment peut-il s'en sortir ?
+> Il allume un feu devant lui. Il pourra rouler sur la zone brûlée sans danger. Lorsque l'incendie derrière lui atteindra la zone brûlée il s'arrêtera.
+
+=====
+04/10
+Un inspecteur arrête deux frères, Jean et John.
+Il sait que l'un d'eux est le coupable qu'il cherche.
+Jean ment toujours, John jamais?
+Quelle unique question l'inspecteur pose-t-il à n'importe lequel des deux pour connaître le nom du coupable ?
+> Es-tu le coupable ?
+
+=====
+05/10
+Vingt-cinq femmes participent à un speed dating. 
+Chacune repart avec 4 numéros de téléphone tandis que chaque homme repart avec 5 numéros. 
+Sachant que chaque homme qui a donné son numéro a reçu celui de la femme en retour, combien y avait-il d'hommes ?
+> 20
+
+=====
+06/10
+Quelle souverraine se cache derrière l'étrange Mario ?
+> La reine Margot (anagrame)
+
+=====
+07/10
+Quel est l'intrus ?
+632 972 853 761
+> 632 (le deuxième chiffre soustrait au premier donne le troisième)
+
+=====
+09/10
+Prenons deux personnes.
+L'une est le père du fils de l'autre.
+Que sont ces deux peronnes l'une pour l'autre ?
+> Deux parents d'un même enfant
+
+=====
+10/10
+Mon premier est le premier nombre.
+Mon deuxième est aussi un nombre, 
+qui vaut dix fois mon troisième.
+Mon tout fait des ravages.
+> Incendie (un - cent - dix)
+
+=====
+11/10
+Où devez-vous tracer un segment séparant en deux parties égales le cadran de votre montre pour que la somme des nombres soit égale de part et d'autre du segment ?
+> ~9h17
+
+=====
+12/10
+Je suis poilue.
+Je suis charnue.
+Je donne du lait.
+Je vis en altitude.
+Mais je n'ai pas de pattes.
+Qui suis-je ?
+> Je suis la noix de coco
+
+=====
+13/10
+Quelle expression se cache ci-dessous ?
+[(écrit en vert) ÊTRE] RAGE RAGE
+> Être vert de rage (Être vert - deux rages)
+
+=====
+14/10
+Quel nombre complète logiquement cette série ?
+7 18 30 43 ??
+61, 57 ou 59 ?
+> 57, Il faut ajouter 11 puis 12 puis 13...
+
+=====
+15/10
+Sur la porte, il n'est pas marqué "TIRER" ou "POUSSER" mais "ABC".
+Comment ouvrir la porte ?
+> En abaissant la porte (ABC = abaisser)
