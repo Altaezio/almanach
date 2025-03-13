@@ -1758,3 +1758,109 @@ Quel nombre complète logiquement cette série ?
 Sur la porte, il n'est pas marqué "TIRER" ou "POUSSER" mais "ABC".
 Comment ouvrir la porte ?
 > En abaissant la porte (ABC = abaisser)
+
+=====
+16/10
+Un bourreau dit à un condamné à mort :
+- Tu dois choisir une porte. Derrière la première se trouve un guerrier armé jusqu'aux dents, la deuxième cache un lion affamé qui n'a pas mangé depuis 5 semaines et la dernière un brasier.
+Quelle porte doit-il choisir ?
+> La deuxième, si le lion n'a pas mangé depuis 5 semaines, il est mort.
+
+=====
+17/10
+Trois candidats à une élection font les comptes.
+- J'ai récolté plus de 5000 suffrages, affirme le premier.
+- C'est faux, j'en suis sûr, rétorque le deuxième.
+- En tous cas, au moins un électeur a voté pour lui, fait le troisième.
+Sachant qu'un seul candidat dit vrai, combien de suffrages le premier candidat a-t-il récoltés ?
+> Aucun, c'est le deuxième qui dit vrai.
+
+=====
+18/10
+Les mannequins me font.
+Les militaires m'apprécient, les carnavaliers aussi.
+Mais les alpinistes me redoutent parfois.
+Qui suis-je ?
+> Je suis le déilé. Outre son acception commune, le terme défilé désigne aussi une passage étroit entre deux petites raides.
+
+=====
+19/10
+Une chatte pèse trois plus que son chaton, qui pèse 6kg de moins qu'elle.
+Quel est le poids de la chatte ?
+> La chatte pèse 9kg
+
+=====
+20/10
+Quelle fleur se cache ci-dessous ?
+P I (barré)
+> Un pissenlit. (un PI sans le I)
+
+=====
+21/10
+La mamie de robin lui donne 1 pièce pour ses un an, deux pour ses deux ans, trois pour ses trois ans, etc.
+Elle ajoute 10 pièces à chaque dizaine. Robin a 320 pièces.
+Quel âge a-t-il ?
+> Il a 24 ans
+
+=====
+22/10
+Plus je vieillis, plus je suis fort, et pourtant, je ne suis pas musclé.
+Qui suis-je ?
+> Je suis le fromage
+
+=====
+23/10
+Quel nombre complète logiquement la dernière égalité ?
+1 = 2
+2 = 8
+3 = 15
+4 = 24
+5 = 20
+6 = ?
+> 18. Il faut compter le nombre de lettres du nom du premier nombre et multiplier par ce nombre : six -> 3 * 6 = 18
+
+=====
+24/10
+Quelle carte remplace logiquement le point d'interrogation ?
+10T 6C 9P 2C
+ 9C 5P ?? AT
+> 8C. La somme des points d'une carte du bas est égale à celle des points de la carte du dessus moins 1. Et on trouve une fois chaque couleur sur une ligne.
+
+=====
+25/10
+Derrière le jade libanais se cache une actrice française.
+Laquelle ?
+> Isabelle Adjani (anagramme)
+
+=====
+26/10
+Qu'est-ce qui fait le lien entre un miroir, un sorbet et de l'eau ?
+> La glace
+
+=====
+27/10
+Mon premier est un petit professionnel.
+Mon deuxième ne fait pas net.
+Mon troisème est un thé anglais.
+Mon quatrième vaut un pays.
+Mon tout attendra demain.
+> Procrastination (pro - crasse - tea - nation)
+
+=====
+28/10
+Pour rentrer chez lui, Hugo doit emprunter un escalier de cinq marches, qu'il gravit par une, par deux ou par trois.
+Combien a-t-il de possibilités de monter l'escalier ?
+> Il existe 13 combinaisons
+
+=====
+30/10
+Un TGV doit parcourir 900km. Il roule à 150km/h sur la première moitié du trajet. 
+À quelle vitesse devra-t-il rouler sur la deuxième moitié s'il veut arriver à une moyenne globale de 300km/h ?
+> C'est impossible. Pour arriver à une moyenne de 300km/h il devrait mettre 3h pour la totalité du trajet, or c'est le temps qu'il a mis pour la première moitié.
+
+=====
+31/10
+Un inspecteur a identifié l'auteur d'un meurtre. Sa culpabilité ne fait aucun doute.
+Pourtant, même si ce n'est ni un enfant, ni une personne irresponsable de ses actes, il n'ira jamais en prison.
+Pourquoi ?
+> Il s'est suicidé après le meurtre (forcément suicidé, il peut pas être mort d'une autre façon, c'est pas valide sinon)
