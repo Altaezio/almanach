@@ -1864,3 +1864,196 @@ Un inspecteur a identifié l'auteur d'un meurtre. Sa culpabilité ne fait aucun 
 Pourtant, même si ce n'est ni un enfant, ni une personne irresponsable de ses actes, il n'ira jamais en prison.
 Pourquoi ?
 > Il s'est suicidé après le meurtre (forcément suicidé, il peut pas être mort d'une autre façon, c'est pas valide sinon)
+
+=====
+02/11
+Somme de deux tout petits impairs, je suis un carré coincé entre deux nombres premiers
+Qui suis-je ?
+> 4
+
+=====
+03/11
+Un homme s'est glissé parmi les scientifiques en combinaison d'un laboratoire de haute sécrurité, qui manipulent un gaz destiné à des réacteurs de recherche nucléaire.
+Il menace de tout faire sauter, en allumant le briquer qu'il a la main.
+Tout le monde s'en moque. 
+Pourquoi ?
+> Le laboratoire est rempli d'hélium, un gaz non combustible (wtf et oui "qu'il a la main")
+
+=====
+04/11
+Résolvez cette addition, sachant qu'une lettre correspond toujours au même chiffre.
+  ABA
+  ACB
+  AAB
++BACA
+-----
+ CBAB
+> A = 8 B = 4 C = 7
+
+=====
+05/11
+Une femme de 26 ans met au monde des triplés.
+Dans combien d'années l'âge de cette femme sera-t-il égal à la somme des âges de ses enfants ?
+> Dans 13 ans, elle aura 39 et les triplés 13 ans
+
+=====
+06/11
+Deux femmes commandent le même thé, l'une avec un filet de citron, l'autre sans.
+Le serveur pose deux tasses rigoureusement identiques sur la table.
+Quelle tasse contient du citron ?
+> Celle qui contient le liquide le plus clair, car le citron éclaircit le thé
+
+=====
+07/11
+Ôtez un véhicule, il en restera un autre
+F P O A U Q U R G E O N B O N T E T T E
+> En ôtant FOURGONNETTE, il reste PAQUEBOT
+
+=====
+08/11
+Un inspecteur interroge quatre suspects sur le vol d'un Rembrandt.
+Robert: Je suis innocent.
+Simon: C'est Claude !
+Claude: C'est Robert qui a fait le coup !
+Gérard: Non, Robert n'est pas le coupable !
+Sachant qu'une seul suspect dit vrai, qui est le coupable ?
+> Le coupable est Robert
+
+=====
+09/11
+Quelle lettre complète logiquement cette série ?
+N U S J M ?
+G, T ou I ?
+> T (ce sont les initiales des planètes du système solaireen partant de la plus éloignée)
+
+=====
+10/11
+Un professeur de fac demande à ses élèves :
+- N'oubliez pas votre code 100 1 5 1 50 !
+Qu'enseigne ce professeur ?
+Comment le savez-vous ?
+> Il enseigne le droit. Il a demandé aux élèves d'apporter leur code CIVIL (en chiffre romain)
+
+=====
+11/11
+Lila dit à Prune :
+- Je te parie 5€ que si tu me donnes 10€, je te donnerai 15€ en retour.
+Prune doit-elle parier ?
+> Non, au mieux ça ne changera rien, au pire elle perd 5€
+
+=====
+12/11
+Quel jour étions-nous hier sachant qu'avant-hier était un jour commençant par M et que, le lendemain d'après-demain, nous ne serons pas un lundi ?
+> Mercredi
+
+=====
+13/11
+Monsieur et madame Lenoir ont cinq enfants :
+Achille, Zoé, Émeline, Romain et 
+Louise, Thomas ou Jacob ?
+> Thomas, AZER..T
+
+=====
+14/11
+Mon premier vaut un certain prix.
+Mon deuxième vaut un prix, c'est certain.
+Plusieurs sommets forment mon troisième.
+Mon tout s'exerce sur les bancs de l'école.
+> Orthographe (or - taux - graphe)
+
+=====
+15/11
+Utilisez les opérateurs de votre choix pour que cette égalité soit juste.
+Les paranthèses sont permises.
+7 7 7 7 7 7 = 5
+> 77 / 7  + 7 / 7 - 7 = 5
+
+=====
+16/11
+Quel pays africain cache une ville péruvienne ?
+> Le Mali (anagramme de Lima)
+
+=====
+17/11
+J'ai cinq doigt, mais je n'ai pas de phalange.
+Je peux être en peau, mais je ne suis pas fait de chair.
+Qui suis-je ?
+> Je suis le gant
+
+=====
+18/11
+Une boîte contient 12 caramels, 20 réglisses et 14 gimauves.
+En fermant les yeux, combien Jules doit-il prendre de bonbons au minimum pour être certain d'en avoir deux identiques ?
+> 4
+
+=====
+19/11
+Une maman est chargée de numéroter tous les tickets de tombola de 1 à 100 pour la kermesse de l'école.
+Combien de fois écrira-t-elle le chiffre 8 ?
+> 20 fois
+
+=====
+20/11
+Comment devez-vous vous y prendre pour obtenir dix en ôtant un de neuf ?
+> En chiffre romains (woah original)
+
+=====
+21/11
+Trouvez l'intrus
+CRÂNE
+ÉCRAN
+NACRE
+ÉCART
+> Écart, car ce n'est pas un anagramme des autres. (ou nacre parce qu'il n'a pas d'accent mdr)
+
+=====
+22/11
+Au début du cours de dessin, la prof distribue à chacun des 20 élèves un pinceau identique.
+À la fin, les pinceaux sont rangés dans un pot commun.
+Quelle est la probabilité pour qu'au cours suivant 19 élèves en tout retrouvent le même pinceau qu'au cours précédent ?
+> Impossible car le 20e élève aurait lui aussi le même pinceau qu'au cours précédent
+
+=====
+23/11
+Quel est le seul mot de la langue française qui contient cinq "t" ?
+> Trotinette
+
+=====
+24/11
+Yann dépense le tiers de la somme qu'il a dans son portefeuille pour acheter un costume, le quart pour acheter des chaussures et le dixième pour une ceinture.
+Il lui reste 114€. Combien avait-il au départ ?
+> Il avait 360€
+
+=====
+25/11
+Un matin, Amaury ouvre ses volets et s'écrie :
+"Quel champ de coton !"
+Est-ce qu'il pleut ?
+> Probablement. C'est une contrepétrie : "Quel temps de cochon"
+
+=====
+26/11
+Emmanuelle se vante de toujours dire la vérité. 
+Quelle question, à laquelle elle doit répondre par oui ou par non, Arsène peut-il lui poser pour la faire mentir à coup sûr ?
+> "Est-ce que le prochain mot que tu vas dire est "non" ?"
+
+=====
+27/11
+Paul aime les armoires mais pas les commodes, l'ordinateur mais pas l'informatique, les rhododendrons mais pas les roses.
+Aime-t-il les brocolis ?
+> Non, il n'aime que les mots avec 2 "r"
+
+=====
+29/11
+Quand je suis noir, je suis propre.
+Plus on me salit, plus je blanchis.
+Qui suis-je ?
+> Le tableau noir
+
+=====
+30/11
+Gladys répartit les biscuits du goûter entre ses trois enfants.
+L'aîné a la moitié des biscuits plus un demi-biscuit, le deuxième la moitié du restant plus un demi-biscuit et le plus petit la moitié du restant plus un demi-biscuit.
+Il reste deux biscuits dans le paquet. 
+Combien y en avait-il ?
+> Il y avait 23 biscuits
