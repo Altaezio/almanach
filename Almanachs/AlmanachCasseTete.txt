@@ -1822,8 +1822,8 @@ Quel nombre complète logiquement la dernière égalité ?
 =====
 24/10
 Quelle carte remplace logiquement le point d'interrogation ?
-10T 6C 9P 2C
- 9C 5P ?? AT
+10T 6Co 9P 2Ca
+ 9Co 5P ?? AT
 > 8C. La somme des points d'une carte du bas est égale à celle des points de la carte du dessus moins 1. Et on trouve une fois chaque couleur sur une ligne.
 
 =====
@@ -2057,3 +2057,111 @@ L'aîné a la moitié des biscuits plus un demi-biscuit, le deuxième la moitié
 Il reste deux biscuits dans le paquet. 
 Combien y en avait-il ?
 > Il y avait 23 biscuits
+
+=====
+01/12
+Cherchez l'errreur :
+A B C D E F G H I J K L M
+N O P Q R S T U V W X Y Z
+> Le mot "erreur" a 3 "r"
+
+=====
+02/12
+Quelle carte remplace logiquement le point d'interrogation ?
+2Co  5T  8P
+6Co  8T 10P
+9Co 10T ??
+> Valet de pique, sur la ligne 1 la valeur augmente de 3 sur la 2 de 2 et sur la 3 de 1 et la colonne donne la couleur.
+
+=====
+03/12
+Pourquoi les lettres 
+ I L M M
+N N O O U
+sont-elles célèbres ?
+> Parce que ce sont les Lettres de mon moulin
+
+=====
+04/12
+Vous avez huit allumettes. 
+Combien vous en manque-t-il pour arriver à cent ?
+> Trois, avec onze allumettes on peut écrire CENT
+
+=====
+05/12
+Mon premier est un petit trou.
+On peut faire descendre mon deuxième dans un trou.
+Mon troisième porte malheur, dit-on.
+À l'issue de mon tout, on trouve parfois mon quatrième.
+> Chasse au trésor (chas - sceau - treize - or)
+
+=====
+06/12
+J'ai 24 ans de moins que mon oncle. Il y a 6 ans, nous avions 46 ans à nous deux.
+Quel âge chacun de nous a-t-il aujourd'hui ?
+> J'ai 17 ans et mon oncle 41
+
+=====
+07/12
+Monsieur et madame Giraud ont eu deux enfants ensemble.
+Ils sont nés le même jour, à quelques minutes d'intervalle, mais ne sont pas des jumeaux.
+Comment l'expliquer ?
+> Ils ne sont pas nés la même année
+
+=====
+08/12
+Si l'homme me défie, je brûle.
+S'il me regarde lorsque je me cache, je lui hôte la vue.
+S'il m'approche trop, je le tue.
+Pourtant, si je n'étais pas là, il mourrait.
+Qui suis-je ?
+> Je suis le soleil
+
+=====
+09/12
+Un homme ne peut pas se passer de sa bouteille quotidienne.
+Un jour, il se rend compte que sa bouteille est vide et il meurt.
+Comment l'expliquer ?
+> L'homme est plongeur professionnel, il ne peut se passer de ses bouteilles... d'oxygène
+
+=====
+10/12
+En quel mois sommes-nous, sachant que :
+- on ne changera pas de saison le mois prochain, qui ne sera pas un mois en "-embre"
+- le nom de ce mois, qui ne termine pas l'année, ne commence pas par un "j", il contient un "r" mais pas de "a"
+> Nous sommes en septembre
+
+=====
+11/12
+Quelle forme obtient-on si l'on dispose 10 statues de manière à former 5 rangées de 4 statues ?
+> Une étoile à 5 branches
+
+=====
+12/12
+Si CHAT vaut 32,
+que BICHE vaut 27,
+que PORC vaut 52 et
+que DINDON vaut 60,
+combien vaut OIE ?
+> 29, il faut faire la somme des chiffres correspondant aux rangs des lettres dans l'alphabet
+
+=====
+13/12
+Je suis parfois bonne, jamais délicieuse.
+Parfois mauvaise mais pas méchante.
+Je peux être de sel ou d'argent.
+Je me pointe dans les trousses des écoliers.
+Qui suis-je ?
+> Je suis une mine
+
+=====
+14/12
+Quel couple de lettres complète logiquement cette série ?
+CH CN S SU SD ?
+QD, ST ou CH ?
+> ST, ce sont des abréviations des nombres Cinquante-Huit, Cinquente-Neuf, Soixante...
+
+=====
+15/12
+En 24h, combien de fois le chiffre 1 apparaît-il sur une horloge à affichage digital ?
+> 397 fois
