@@ -2165,3 +2165,121 @@ QD, ST ou CH ?
 15/12
 En 24h, combien de fois le chiffre 1 apparaît-il sur une horloge à affichage digital ?
 > 397 fois
+
+=====
+16/12
+- Je suis plus âgé que Lucas, dit Axel.
+- Je suis moins vieux qu'Axel, dit Lucas.
+Sachant qu'au moins l'un des deux se trompe, qui est plus âgé que qui ?
+> Lucas est plus âgé qu'Axel. Les deux se trompent
+
+=====
+18/12
+Une serveuse met 10 secondes pour descendre de la salle à la cuisine.
+Remonter l'escalier, qui fait 20 marches, lui demande deux fois plus de temps.
+Sachant qu'elle passe en moyenne 3 heures par jour dans l'escalier, combien emprunte-t-elle de marches ?
+> Elle emprunte 14400 marches !
+
+=====
+19/12
+ABC est un nombre premier.
+Quel est ce nombre sachant que :
+A + B + C = 10
+B != C
+A <= 5
+B <= 5
+C <= 5
+B = A - 1
+> 541
+
+=====
+20/12
+Trois comploteurs sont arrêtés.
+Le premier est décapité, le deuxième écartelé et le troisième embastillé.
+Pourtant, un seul homme est mort.
+Comment l'expliquer ?
+> L'un des deux premiers était une femme
+
+=====
+21/12
+Au moyen Âge, un paysan valait presque un gros gibier.
+Quel gibier et pourquoi ?
+> Un paysan était un serf. À une lettre près, il valait un cerf
+
+=====
+22/12
+Quelle lettre remplace logiquement le point d'interrogation ?
+ |T|
+-----
+I| |R
+-----
+R| |?
+-----
+ |O|
+> I, on lit le mot tiroir dans le sens inverse des aiguilles d'une montre
+
+=====
+23/12
+Décryptez ce message :
+CAR MER DEJA EMIR VUE 
+REVE OIE PUR LYS RAT 
+ FER PONT DARD TRUC 
+ FRAC FLAN BOB TOUR
+> Ce jeu vous rendra fou. Il faut prendre la 1e lettre du 1er mot, la 2e du 2e etc
+
+=====
+24/12
+Deux roues dentées forment un engrenage.
+Sachant que la première roue, qui a 9 dents, fait 6 tours quand la deuxième roue en fait 3, combien cette roue a-t-elle de dents ?
+> 18
+
+=====
+25/12
+Le frère du père de Noël peut-il devenir le gendre de Noël ?
+Si oui, comment ?
+> Oui, mais par alliance seulement. Il doit épouser la fille que l'épouse actuelle de Noël a eue d'une précédente union (y a rien qui va là, déjà "Noël" s'appelait Grégoire à la base, alors qu'ils pouvaient faire un truc avec Noël, puis l'oncle a juste à marier la fille de Noël, c'est consanguin mais possible)
+
+=====
+26/12
+Observez cette suite d'heures :
+00h50 ; 00h05 ; 00h35 ; 1h20
+Quelle heure doit suivre ?
+2h20 ; 3h45 ; 4h10 ; 4h35
+> 2h20, il faut ajouter 15min, puis 30, puis 40 etc
+
+=====
+27/12
+Une voiture avec son conducteur pèse 300kg.
+Sachant que le poids du conducteur est égal au tiers du poids de la voiture vide, combien pèse le conduceur ?
+> 75kg
+
+=====
+28/12
+Trente enfants forment une ronde.
+Chaque enfant affirme qu'il ne ment jamais, contrairement à ses voisins.
+Combien y a-t-il de menteurs ?
+> 15
+
+=====
+29/12
+Je peux avoir du poids, pourtant je ne pèse rien.
+Je peux être persuasif, pourtant je ne sais pas parler.
+Je peux être en faveur de quelqu'un, pourtant je ne vote pas.
+On peut être court d'idées comme moi.
+Qui suis-je ?
+> Je suis un argument
+
+=====
+30/12
+Le chien dort dans sa niche.
+Élisa dort à l'asile, Simona dort dans sa maison.
+Où dort Macha ?
+> Dans un haMac
+
+=====
+31/12
+Aujourd'hui, on peut se mettre sur mon premier.
+Mon deuxième chante pour les enfants.
+On doit mon troisième au cachalot.
+Mon tout est bon dernier.
+> 31 décembre (trente-et-un - Dès - ambre)
