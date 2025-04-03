@@ -1,7 +1,6 @@
 const { SlashCommandBuilder, MessageFlags } = require('discord.js');
 const wait = require('node:timers/promises').setTimeout;
-
-const kikId = "225610801426202625";
+const { kikId } = require('../../config.json')
 
 module.exports = {
     category: 'utility',

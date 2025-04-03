@@ -5,16 +5,17 @@ const path = require('node:path');
 const {
 	Client,
 	Collection,
-	Events,
 	GatewayIntentBits,
-	ButtonBuilder,
-	ButtonStyle,
-	ModalBuilder,
-	TextInputBuilder,
-	TextInputStyle
 } = require('discord.js');
 
-const client = new Client({ intents: [GatewayIntentBits.Guilds] });
+const client = new Client({
+	intents: [
+		GatewayIntentBits.Guilds,
+		GatewayIntentBits.GuildMessages,
+		GatewayIntentBits.MessageContent,
+		GatewayIntentBits.GuildMembers,
+	]
+});
 
 client.commands = new Collection();
 
