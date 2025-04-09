@@ -1,0 +1,24 @@
+Features
+- every day at 7:00 send a message with a new day of an almanach
+- if a day has a answer to be revealed, it is send at 12
+- the chance of a specific day to be picked is weighted by the last time it was picked
+- people can react to the message to up vote or down vote it, it will increase or decrease the chance of it to be picked
+- people can vote for the next almanach to be chosen (it can't be the one that was just picked ? a choice between 2 ?)
+
+Data structure
+- id based on the date and which almanach
+- name of almanach
+- file name of almanach
+- date
+- type (text, citation, enigma)
+- line in file
+- text
+- answer
+- author
+- last time picked
+- upvotes
+- downvotes
+
+Miscellaneous
+- calculate the sum of chances once and then update it just by substracting the last value of the last day picked and adding its new value
+- votes are taken into account at 7
