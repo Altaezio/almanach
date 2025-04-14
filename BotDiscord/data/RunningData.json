@@ -1,0 +1,57 @@
+{
+    "todayMessageSent": false,
+    "todayAnswerSent": false,
+    "lastMessages": [
+        {
+            "date": 1744646960036,
+            "id": 919,
+            "file": "AlmanachHumour.json",
+            "upVotes": 0,
+            "downVotes": 0
+        },
+        {
+            "date": 1744646869124,
+            "id": 304,
+            "file": "AlmanachFous.json",
+            "upVotes": 0,
+            "downVotes": 0
+        },
+        {
+            "date": 1744646156990,
+            "id": 1024,
+            "file": "AlmanachCasseTete.json",
+            "upVotes": 0,
+            "downVotes": 0
+        },
+        {
+            "date": 1744645877422,
+            "id": 1122,
+            "upVotes": 0,
+            "downVotes": 0
+        },
+        {
+            "date": 1744645785109,
+            "id": 919,
+            "upVotes": 0,
+            "downVotes": 0
+        },
+        {
+            "date": 1744645687331,
+            "id": 10825,
+            "upVotes": 0,
+            "downVotes": 0
+        },
+        {
+            "date": 1744645609006,
+            "id": 20830,
+            "upVotes": 0,
+            "downVotes": 0
+        },
+        {
+            "date": 1744645479381,
+            "id": 20514,
+            "upVotes": 0,
+            "downVotes": 0
+        }
+    ]
+}

@@ -6,7 +6,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 4,
+      "line": 5,
       "id": 20101,
       "date": "01/01",
       "type": "text",
@@ -15,17 +15,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 8,
+      "line": 9,
       "id": 20102,
       "date": "02/01",
       "type": "enigma",
       "text": "Que ressent un geek quand il se souvient du bon vieux temps ?\n",
-      "answer": "> Il est nostal-geek."
+      "answer": "Il est nostal-geek."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 13,
+      "line": 14,
       "id": 20103,
       "date": "03/01",
       "type": "text",
@@ -34,7 +34,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 20,
+      "line": 21,
       "id": 20104,
       "date": "04/01",
       "type": "text",
@@ -43,37 +43,37 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 25,
+      "line": 26,
       "id": 20105,
       "date": "05/01",
       "type": "enigma",
       "text": "Quels sont les deux groupes sanguins des geeks ?\n",
-      "answer": "> C++ et @+"
+      "answer": "C++ et @+"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 30,
+      "line": 31,
       "id": 20106,
       "date": "06/01",
       "type": "enigma",
       "text": "Quel est le seul code que les geeks ne sont pas capables de hacker ?\n",
-      "answer": "> Le code de la route."
+      "answer": "Le code de la route."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 35,
+      "line": 36,
       "id": 20107,
       "date": "07/01",
       "type": "enigma",
       "text": "Pourquoi Intel n'a-t-il pas appelé le Pentium \"586\" ?\n",
-      "answer": "> Parce qu'ils ont fait 486 + 100 sur leur premier Pentium et 586.999983605, c'était trop long."
+      "answer": "Parce qu'ils ont fait 486 + 100 sur leur premier Pentium et 586.999983605, c'était trop long."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 40,
+      "line": 41,
       "id": 20108,
       "date": "08/01",
       "type": "text",
@@ -82,7 +82,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 49,
+      "line": 50,
       "id": 20109,
       "date": "09/01",
       "type": "text",
@@ -91,7 +91,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 53,
+      "line": 54,
       "id": 20110,
       "date": "10/01",
       "type": "text",
@@ -100,7 +100,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 58,
+      "line": 59,
       "id": 20111,
       "date": "11/01",
       "type": "text",
@@ -109,7 +109,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 62,
+      "line": 63,
       "id": 20112,
       "date": "12/01",
       "type": "text",
@@ -118,7 +118,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 73,
+      "line": 74,
       "id": 20113,
       "date": "13/01",
       "type": "text",
@@ -127,7 +127,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 78,
+      "line": 79,
       "id": 20114,
       "date": "14/01",
       "type": "text",
@@ -136,17 +136,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 83,
+      "line": 84,
       "id": 20115,
       "date": "15/01",
       "type": "enigma",
       "text": "Combien de programmeurs assembleurs faut-il pour changer une ampoule ?\n",
-      "answer": "> 100010110"
+      "answer": "100010110"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 88,
+      "line": 89,
       "id": 20116,
       "date": "16/01",
       "type": "text",
@@ -155,7 +155,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 93,
+      "line": 94,
       "id": 20117,
       "date": "17/01",
       "type": "text",
@@ -164,27 +164,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 97,
+      "line": 98,
       "id": 20118,
       "date": "18/01",
       "type": "enigma",
       "text": "Quelle est la différence entre Windows et un lama ?\n",
-      "answer": "> Aucune : ils ne font que crasher."
+      "answer": "Aucune : ils ne font que crasher."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 102,
+      "line": 103,
       "id": 20119,
       "date": "19/01",
       "type": "enigma",
       "text": "Quelle est la ville d'Île-de-France réputée pour son animation ?\n",
-      "answer": "> Gif-sur-Yvette."
+      "answer": "Gif-sur-Yvette."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 107,
+      "line": 108,
       "id": 20120,
       "date": "20/01",
       "type": "text",
@@ -193,27 +193,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 111,
+      "line": 112,
       "id": 20121,
       "date": "21/01",
       "type": "enigma",
       "text": "Pourquoi les geeks sont-ils fiers ?\n",
-      "answer": "> Parce qu'ils ont une Gigabyte."
+      "answer": "Parce qu'ils ont une Gigabyte."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 116,
+      "line": 117,
       "id": 20122,
       "date": "22/01",
       "type": "enigma",
       "text": "Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?\n",
-      "answer": "> Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture et essaie de redémarrer."
+      "answer": "Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture et essaie de redémarrer."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 121,
+      "line": 122,
       "id": 20123,
       "date": "23/01",
       "type": "text",
@@ -222,7 +222,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 128,
+      "line": 129,
       "id": 20124,
       "date": "24/01",
       "type": "text",
@@ -231,27 +231,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 133,
+      "line": 134,
       "id": 20125,
       "date": "25/01",
       "type": "enigma",
       "text": "Comment le développeur dit-il \"Je vais te rouler\" dans son jargon ?\n",
-      "answer": "> Je n'arrive pas à reproduire cette erreur."
+      "answer": "Je n'arrive pas à reproduire cette erreur."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 138,
+      "line": 139,
       "id": 20126,
       "date": "26/01",
       "type": "enigma",
       "text": "Pourquoi les geeks savent-ils toujours parfaitement ce qu'ils ont à faire dans leur travail ?\n",
-      "answer": "> Parce qu'ils ont une feuille de root (route) !"
+      "answer": "Parce qu'ils ont une feuille de root (route) !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 143,
+      "line": 144,
       "id": 20127,
       "date": "27/01",
       "type": "text",
@@ -260,17 +260,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 149,
+      "line": 150,
       "id": 20128,
       "date": "28/01",
       "type": "enigma",
       "text": "Quel est le nombre le plus laid ?\n",
-      "answer": "> -1 car -1 = i² (hideux)."
+      "answer": "-1 car -1 = i² (hideux)."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 154,
+      "line": 155,
       "id": 20129,
       "date": "29/01",
       "type": "text",
@@ -279,7 +279,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 158,
+      "line": 159,
       "id": 20130,
       "date": "30/01",
       "type": "text",
@@ -288,7 +288,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 163,
+      "line": 164,
       "id": 20131,
       "date": "31/01",
       "type": "text",
@@ -297,7 +297,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 168,
+      "line": 169,
       "id": 20201,
       "date": "01/02",
       "type": "text",
@@ -306,7 +306,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 172,
+      "line": 173,
       "id": 20202,
       "date": "02/02",
       "type": "text",
@@ -315,7 +315,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 176,
+      "line": 177,
       "id": 20203,
       "date": "03/02",
       "type": "text",
@@ -324,17 +324,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 180,
+      "line": 181,
       "id": 20204,
       "date": "04/02",
       "type": "enigma",
       "text": "Que lancent les geeks dans les manifestations ?\n",
-      "answer": "> Des pavés numériques !"
+      "answer": "Des pavés numériques !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 185,
+      "line": 186,
       "id": 20205,
       "date": "05/02",
       "type": "text",
@@ -343,27 +343,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 189,
+      "line": 190,
       "id": 20206,
       "date": "06/02",
       "type": "enigma",
       "text": "Que fait un geek quand il a faim ?\n",
-      "answer": "> Il retourne son clavier et le secoue."
+      "answer": "Il retourne son clavier et le secoue."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 194,
+      "line": 195,
       "id": 20207,
       "date": "07/02",
       "type": "enigma",
       "text": "Que fait un geek après avoir fait l'amour ?\n",
-      "answer": "> Il vide l'historique."
+      "answer": "Il vide l'historique."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 199,
+      "line": 200,
       "id": 20208,
       "date": "08/02",
       "type": "text",
@@ -372,7 +372,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 203,
+      "line": 204,
       "id": 20209,
       "date": "09/02",
       "type": "text",
@@ -381,27 +381,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 209,
+      "line": 210,
       "id": 20210,
       "date": "10/02",
       "type": "enigma",
       "text": "Quel est le pire cauchemar du geek ?\n",
-      "answer": "> La coupure réseau."
+      "answer": "La coupure réseau."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 214,
+      "line": 215,
       "id": 20211,
       "date": "11/02",
       "type": "enigma",
       "text": "Quelle est la différence entre un Bug et Windows 95 ?\n",
-      "answer": "> Quand on change d'ordinateur, on est débarrassé du bug."
+      "answer": "Quand on change d'ordinateur, on est débarrassé du bug."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 219,
+      "line": 220,
       "id": 20212,
       "date": "12/02",
       "type": "text",
@@ -410,7 +410,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 223,
+      "line": 224,
       "id": 20213,
       "date": "13/02",
       "type": "text",
@@ -419,7 +419,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 227,
+      "line": 228,
       "id": 20214,
       "date": "14/02",
       "type": "text",
@@ -428,7 +428,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 232,
+      "line": 233,
       "id": 20215,
       "date": "15/02",
       "type": "text",
@@ -437,57 +437,57 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 238,
+      "line": 239,
       "id": 20216,
       "date": "16/02",
       "type": "enigma",
       "text": "Quel est le Pokémon qui prend le plus souvent le train ?\n",
-      "answer": "> Pikachu-chu (tchou-tchou) !"
+      "answer": "Pikachu-chu (tchou-tchou) !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 243,
+      "line": 244,
       "id": 20217,
       "date": "17/02",
       "type": "enigma",
       "text": "Quelle est la différence entre Windows 95 et un virus ?\n",
-      "answer": "> Le virus fonctionne sans aide."
+      "answer": "Le virus fonctionne sans aide."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 248,
+      "line": 249,
       "id": 20218,
       "date": "18/02",
       "type": "enigma",
       "text": "Pourquoi Mario n'utilise pas de ciseaux pour tuer des tortues ?\n",
-      "answer": "> Parce que ça Koopa."
+      "answer": "Parce que ça Koopa."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 253,
+      "line": 254,
       "id": 20219,
       "date": "19/02",
       "type": "enigma",
       "text": "Comment un geek se muscle-t-il ?\n",
-      "answer": "> En faisant Alt + R (haltère)."
+      "answer": "En faisant Alt + R (haltère)."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 258,
+      "line": 259,
       "id": 20220,
       "date": "20/02",
       "type": "enigma",
       "text": "Pourqoi les Belges n'aiment-ils pas les ordinateurs ?\n",
-      "answer": "> Il n'y a pas de télécommande pour changer de chaîne."
+      "answer": "Il n'y a pas de télécommande pour changer de chaîne."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 263,
+      "line": 264,
       "id": 20221,
       "date": "21/02",
       "type": "text",
@@ -496,7 +496,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 270,
+      "line": 271,
       "id": 20222,
       "date": "22/02",
       "type": "text",
@@ -505,7 +505,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 275,
+      "line": 276,
       "id": 20223,
       "date": "23/02",
       "type": "text",
@@ -514,57 +514,57 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 280,
+      "line": 281,
       "id": 20224,
       "date": "24/02",
       "type": "enigma",
       "text": "Pourquoi les elfes n'aiment pas jouer aux Lego ?\n",
-      "answer": "> Parce que les Legolas."
+      "answer": "Parce que les Legolas."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 285,
+      "line": 286,
       "id": 20225,
       "date": "25/02",
       "type": "enigma",
       "text": "Pourquoi Windows 95 est-il multitâches ?\n",
-      "answer": "> Parce qu'il peut booter et planter en même temps."
+      "answer": "Parce qu'il peut booter et planter en même temps."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 290,
+      "line": 291,
       "id": 20226,
       "date": "26/02",
       "type": "enigma",
       "text": "Où partent les geeks en vacances ?\n",
-      "answer": "> Au C-Shell."
+      "answer": "Au C-Shell."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 295,
+      "line": 296,
       "id": 20227,
       "date": "27/02",
       "type": "enigma",
       "text": "Combien de programmeurs faut-il pour changer une ampoule ?\n",
-      "answer": "> Aucun, c'est un problème de hardware."
+      "answer": "Aucun, c'est un problème de hardware."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 300,
+      "line": 301,
       "id": 20228,
       "date": "28/02",
       "type": "enigma",
       "text": "Qu'utilise un geek pour faire la lessive ?\n",
-      "answer": "> La barre des tâches !"
+      "answer": "La barre des tâches !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 305,
+      "line": 306,
       "id": 20229,
       "date": "29/02",
       "type": "text",
@@ -573,17 +573,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 310,
+      "line": 311,
       "id": 20301,
       "date": "01/03",
       "type": "enigma",
       "text": "Quelle est la chanteuse la plus douée en informatique ?\n",
-      "answer": "> Taylor Swift"
+      "answer": "Taylor Swift"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 315,
+      "line": 316,
       "id": 20302,
       "date": "02/03",
       "type": "text",
@@ -592,7 +592,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 320,
+      "line": 321,
       "id": 20303,
       "date": "03/03",
       "type": "text",
@@ -601,27 +601,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 324,
+      "line": 325,
       "id": 20304,
       "date": "04/03",
       "type": "enigma",
       "text": "4 x² va se promener dans la forêt.\nQuand il ressort, il s'est transformé en x, pourquoi ?\n",
-      "answer": "> Il s'est pris une racine."
+      "answer": "Il s'est pris une racine."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 330,
+      "line": 331,
       "id": 20305,
       "date": "05/03",
       "type": "enigma",
       "text": "Combien de programmeurs de shareware faut-il pour changer un ampoule ?\n",
-      "answer": "> Un. Mais l'ampoule ne fonctionnera que pendant un mois."
+      "answer": "Un. Mais l'ampoule ne fonctionnera que pendant un mois."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 335,
+      "line": 336,
       "id": 20306,
       "date": "06/03",
       "type": "text",
@@ -630,7 +630,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 339,
+      "line": 340,
       "id": 20307,
       "date": "07/03",
       "type": "text",
@@ -639,27 +639,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 343,
+      "line": 344,
       "id": 20308,
       "date": "08/03",
       "type": "enigma",
       "text": "Quelle est la différence entre Bill Gates et Dieu ?\n",
-      "answer": "> Dieu ne se prend pas pour Bill Gates."
+      "answer": "Dieu ne se prend pas pour Bill Gates."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 348,
+      "line": 349,
       "id": 20309,
       "date": "09/03",
       "type": "enigma",
       "text": "Quel est le comble pour un geek ?\n",
-      "answer": "> Être privé de sortie"
+      "answer": "Être privé de sortie"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 353,
+      "line": 354,
       "id": 20310,
       "date": "10/03",
       "type": "text",
@@ -668,17 +668,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 360,
+      "line": 361,
       "id": 20311,
       "date": "11/03",
       "type": "enigma",
       "text": "Que fait un mathématicien quand il est triste ?\n",
-      "answer": "> Il d' (Il déprime)"
+      "answer": "Il d' (Il déprime)"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 365,
+      "line": 366,
       "id": 20312,
       "date": "12/03",
       "type": "text",
@@ -687,27 +687,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 369,
+      "line": 370,
       "id": 20313,
       "date": "13/03",
       "type": "enigma",
       "text": "Qui est Bob Marlex ?\n",
-      "answer": "> Un chanteur de regex !"
+      "answer": "Un chanteur de regex !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 374,
+      "line": 375,
       "id": 20314,
       "date": "14/03",
       "type": "enigma",
       "text": "Dans quoi boit-on une super-soupe ?\n",
-      "answer": "> Dans un(e) Hyperbol(e)."
+      "answer": "Dans un(e) Hyperbol(e)."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 379,
+      "line": 380,
       "id": 20315,
       "date": "15/03",
       "type": "text",
@@ -716,67 +716,67 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 383,
+      "line": 384,
       "id": 20316,
       "date": "16/03",
       "type": "enigma",
       "text": "Quel est le plus gros virus de Microsoft ?\n",
-      "answer": "> C'est Windows."
+      "answer": "C'est Windows."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 388,
+      "line": 389,
       "id": 20317,
       "date": "17/03",
       "type": "enigma",
       "text": "Quel est le plus Apple du monde ?\n",
-      "answer": "> Le Big Mac."
+      "answer": "Le Big Mac."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 393,
+      "line": 394,
       "id": 20318,
       "date": "18/03",
       "type": "enigma",
       "text": "En Allemagne, que dit un bug quand il rencontre un autre bug ?\n",
-      "answer": "> Wie Gates !"
+      "answer": "Wie Gates !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 398,
+      "line": 399,
       "id": 20319,
       "date": "19/03",
       "type": "enigma",
       "text": "Que fait un geek quand il soulève une table à bout de bras ?\n",
-      "answer": "> Des haltères table (Alt + R + Tab) !"
+      "answer": "Des haltères table (Alt + R + Tab) !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 403,
+      "line": 404,
       "id": 20320,
       "date": "20/03",
       "type": "enigma",
       "text": "Que fait un geek qui se prend pour un astronaute ?\n",
-      "answer": "> Il cherche la touche espace."
+      "answer": "Il cherche la touche espace."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 408,
+      "line": 409,
       "id": 20321,
       "date": "21/03",
       "type": "enigma",
       "text": "Selon le geek, qu'est-ce qui a des graphismes extraordinaires, mais un gameplay pourri ?\n",
-      "answer": "> La vie."
+      "answer": "La vie."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 413,
+      "line": 414,
       "id": 20322,
       "date": "22/03",
       "type": "text",
@@ -785,17 +785,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 417,
+      "line": 418,
       "id": 20323,
       "date": "23/03",
       "type": "enigma",
       "text": "Quel est le comble du mathématicien ?\n",
-      "answer": "> C'est de se faire piquer sa moitié par un tiers dans un car."
+      "answer": "C'est de se faire piquer sa moitié par un tiers dans un car."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 422,
+      "line": 423,
       "id": 20324,
       "date": "24/03",
       "type": "text",
@@ -804,7 +804,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 426,
+      "line": 427,
       "id": 20325,
       "date": "25/03",
       "type": "text",
@@ -813,47 +813,47 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 430,
+      "line": 431,
       "id": 20326,
       "date": "26/03",
       "type": "enigma",
       "text": "Combien de vice-présidents de chez Microsoft faut-il pour changer une ampoule électrique ?\n",
-      "answer": "> Huit : un pour changer l'ampoule et sept pour être sûr que Microsoft empoche bien 2$ pour toute ampoule changée à travers le monde."
+      "answer": "Huit : un pour changer l'ampoule et sept pour être sûr que Microsoft empoche bien 2$ pour toute ampoule changée à travers le monde."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 435,
+      "line": 436,
       "id": 20327,
       "date": "27/03",
       "type": "enigma",
       "text": "Que dit un druide lorsqu'il se connecte ?\n",
-      "answer": "> Coucou hibou"
+      "answer": "Coucou hibou"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 440,
+      "line": 441,
       "id": 20328,
       "date": "28/03",
       "type": "enigma",
       "text": "Pourquoi les Israéliens ont-ils voulu que Netscape et Yahoo fusionnent ?\n",
-      "answer": "> Pour que la nouvelle raison sociale soit Netanyahoo !"
+      "answer": "Pour que la nouvelle raison sociale soit Netanyahoo !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 445,
+      "line": 446,
       "id": 20329,
       "date": "29/03",
       "type": "enigma",
       "text": "Combien faut-il de mathématiciens constructivistes pour changer une ampoule ?\n",
-      "answer": "> Aucun. Ils ne croient pas aux rotations infinitésimales."
+      "answer": "Aucun. Ils ne croient pas aux rotations infinitésimales."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 450,
+      "line": 451,
       "id": 20330,
       "date": "30/03",
       "type": "text",
@@ -862,17 +862,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 455,
+      "line": 456,
       "id": 20331,
       "date": "31/03",
       "type": "enigma",
       "text": "Que dit une mère qui sert à dîner à son fils geek ?\n",
-      "answer": "> ALTAB"
+      "answer": "ALTAB"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 460,
+      "line": 461,
       "id": 20401,
       "date": "01/04",
       "type": "text",
@@ -881,17 +881,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 464,
+      "line": 465,
       "id": 20402,
       "date": "02/04",
       "type": "enigma",
       "text": "Quelle est la différence entre Windows XP et un virus ?\n",
-      "answer": "> Le virus est gratuit."
+      "answer": "Le virus est gratuit."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 469,
+      "line": 470,
       "id": 20403,
       "date": "03/04",
       "type": "text",
@@ -900,27 +900,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 473,
+      "line": 474,
       "id": 20404,
       "date": "04/04",
       "type": "enigma",
       "text": "Combien de fois Chuck Norris a déjà compté jusqu'à l'infini ?\n",
-      "answer": "> Deux fois."
+      "answer": "Deux fois."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 478,
+      "line": 479,
       "id": 20405,
       "date": "05/04",
       "type": "enigma",
       "text": "Quelle est la meilleure heure pour écouter de la musique ?\n",
-      "answer": "> Deezer"
+      "answer": "Deezer"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 483,
+      "line": 484,
       "id": 20406,
       "date": "06/04",
       "type": "text",
@@ -929,17 +929,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 488,
+      "line": 489,
       "id": 20407,
       "date": "07/04",
       "type": "enigma",
       "text": "Que fait un geek quand il dit ce qu'il pense ?\n",
-      "answer": "> Il donne son.avi (avis)."
+      "answer": "Il donne son.avi (avis)."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 493,
+      "line": 494,
       "id": 20408,
       "date": "08/04",
       "type": "text",
@@ -948,37 +948,37 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 497,
+      "line": 498,
       "id": 20409,
       "date": "09/04",
       "type": "enigma",
       "text": "Pourquoi les geeks prennent-ils les transports en commun pour aller travailler ?\n",
-      "answer": "> Parce que le permis coûte deux cartes graphiques et un écran 4k."
+      "answer": "Parce que le permis coûte deux cartes graphiques et un écran 4k."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 502,
+      "line": 503,
       "id": 20410,
       "date": "10/04",
       "type": "enigma",
       "text": "Quel est le comblre pour Windows ?\n",
-      "answer": "> C'est que pour l'arrêter il faut cliquer sur \"Démarrer\"."
+      "answer": "C'est que pour l'arrêter il faut cliquer sur \"Démarrer\"."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 507,
+      "line": 508,
       "id": 20411,
       "date": "11/04",
       "type": "enigma",
       "text": "Quel est le point commum entre l'arithmétique et l'amour ?\n",
-      "answer": "> Ça commence par des Bézout, s'envoie Euler dans Lagrange et finit par des Gauss."
+      "answer": "Ça commence par des Bézout, s'envoie Euler dans Lagrange et finit par des Gauss."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 512,
+      "line": 513,
       "id": 20412,
       "date": "12/04",
       "type": "citation",
@@ -988,37 +988,37 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 517,
+      "line": 518,
       "id": 20413,
       "date": "13/04",
       "type": "enigma",
       "text": "Combien de programmeurs Windows faut-il pour changer une ampoule ?\n",
-      "answer": "> Trois 472. Un pour écrire WinGetLightBulbHandle. Un pour écrire WinQueryStatusLightBulb. Un pour écrire WinGetLightSwitch-Handle."
+      "answer": "Trois 472. Un pour écrire WinGetLightBulbHandle. Un pour écrire WinQueryStatusLightBulb. Un pour écrire WinGetLightSwitch-Handle."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 522,
+      "line": 523,
       "id": 20414,
       "date": "14/04",
       "type": "enigma",
       "text": "Quelle est la différence entre Windows 95 et Windows 98 ?\n",
-      "answer": "> Le reboot est plus rapide..."
+      "answer": "Le reboot est plus rapide..."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 527,
+      "line": 528,
       "id": 20415,
       "date": "15/04",
       "type": "enigma",
       "text": "Qu'est-ce qu'un ours polaire ?\n",
-      "answer": "> Un ours cartésien qui a changé de coordonnées."
+      "answer": "Un ours cartésien qui a changé de coordonnées."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 532,
+      "line": 533,
       "id": 20416,
       "date": "16/04",
       "type": "text",
@@ -1027,7 +1027,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 536,
+      "line": 537,
       "id": 20417,
       "date": "17/04",
       "type": "text",
@@ -1036,17 +1036,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 541,
+      "line": 542,
       "id": 20418,
       "date": "18/04",
       "type": "enigma",
       "text": "Quel est l'animal préféré des hackers ?\n",
-      "answer": "> Le python."
+      "answer": "Le python."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 546,
+      "line": 547,
       "id": 20419,
       "date": "19/04",
       "type": "text",
@@ -1055,17 +1055,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 550,
+      "line": 551,
       "id": 20420,
       "date": "20/04",
       "type": "enigma",
       "text": "Combien d'ingénieurs de chez Intel faut-il pour changer une ampoule électrique ?\n",
-      "answer": "> 0.99904274017."
+      "answer": "0.99904274017."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 555,
+      "line": 556,
       "id": 20421,
       "date": "21/04",
       "type": "text",
@@ -1074,7 +1074,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 563,
+      "line": 564,
       "id": 20422,
       "date": "22/04",
       "type": "text",
@@ -1083,7 +1083,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 568,
+      "line": 569,
       "id": 20423,
       "date": "23/04",
       "type": "text",
@@ -1092,7 +1092,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 573,
+      "line": 574,
       "id": 20424,
       "date": "24/04",
       "type": "text",
@@ -1101,17 +1101,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 577,
+      "line": 578,
       "id": 20425,
       "date": "25/04",
       "type": "enigma",
       "text": "Pourquoi Obi-Wan Kenobi pleure-t-il quand il découpe de l'ail ?\n",
-      "answer": "> Parce que c'est le fameux retour du jet d'ail."
+      "answer": "Parce que c'est le fameux retour du jet d'ail."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 582,
+      "line": 583,
       "id": 20426,
       "date": "26/04",
       "type": "text",
@@ -1120,17 +1120,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 586,
+      "line": 587,
       "id": 20427,
       "date": "27/04",
       "type": "enigma",
       "text": "Quel est l'animal de compagnie le plus populaire parmi les geeks ?\n",
-      "answer": "> La souris."
+      "answer": "La souris."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 591,
+      "line": 592,
       "id": 20428,
       "date": "28/04",
       "type": "text",
@@ -1139,17 +1139,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 596,
+      "line": 597,
       "id": 20429,
       "date": "29/04",
       "type": "enigma",
       "text": "Combien de programmeurs de shareware faut-il pour changer une ampoule ?\n",
-      "answer": "> Un. Mais l'ampoule ne fonctionnera que pendant un mois. Ensuite, vous devrez vous enregistrer..."
+      "answer": "Un. Mais l'ampoule ne fonctionnera que pendant un mois. Ensuite, vous devrez vous enregistrer..."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 601,
+      "line": 602,
       "id": 20430,
       "date": "30/04",
       "type": "text",
@@ -1158,17 +1158,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 605,
+      "line": 606,
       "id": 20501,
       "date": "01/05",
       "type": "enigma",
       "text": "Le président d'Apple est dans un ascenseur avec Bill Gates, Saddam Hussein et l'ayatollah Khomeini.\nIl a un pistolet mais il n'a que deux balles, sur qui va-t-il tirer ?\n",
-      "answer": "> Deux fois sur Bill Gates, pour être sûr."
+      "answer": "Deux fois sur Bill Gates, pour être sûr."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 611,
+      "line": 612,
       "id": 20502,
       "date": "02/05",
       "type": "text",
@@ -1177,7 +1177,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 615,
+      "line": 616,
       "id": 20503,
       "date": "03/05",
       "type": "citation",
@@ -1187,37 +1187,37 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 620,
+      "line": 621,
       "id": 20504,
       "date": "04/05",
       "type": "enigma",
       "text": "Si on enlève au mot \"GEEK\" le \"G\", le \"E\" et le \"K\" et on ajoute un \"O\", un \"R\", un \"D\", un \"I\", un \"N\", un \"A\", un \"T\", un \"E\", un \"U\" et un \"R\", on obtient le mot \"ORDINATEUR\".\n",
-      "answer": "> En vrai ça fait \"EORDINATEUR\" mais oklm"
+      "answer": "En vrai ça fait \"EORDINATEUR\" mais oklm"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 625,
+      "line": 626,
       "id": 20505,
       "date": "05/05",
       "type": "enigma",
       "text": "Ne cherchez pas pourquoi un clavier coûte plus cher en France qu'en Angleterre.\n",
-      "answer": "> C'est qu'un clavier AZERTY en vaut deux."
+      "answer": "C'est qu'un clavier AZERTY en vaut deux."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 630,
+      "line": 631,
       "id": 20506,
       "date": "06/05",
       "type": "enigma",
       "text": "Pourquoi \"O\" perd-il toujours ses débats ?\n",
-      "answer": "> Il n'a pas d'argument."
+      "answer": "Il n'a pas d'argument."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 635,
+      "line": 636,
       "id": 20507,
       "date": "07/05",
       "type": "text",
@@ -1226,17 +1226,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 639,
+      "line": 640,
       "id": 20508,
       "date": "08/05",
       "type": "enigma",
       "text": "Quel est l'autre nom de la Grande Muraille de Chine ?\n",
-      "answer": "> Le grand firewall de Chine."
+      "answer": "Le grand firewall de Chine."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 644,
+      "line": 645,
       "id": 20509,
       "date": "09/05",
       "type": "text",
@@ -1245,7 +1245,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 649,
+      "line": 650,
       "id": 20510,
       "date": "10/05",
       "type": "text",
@@ -1254,27 +1254,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 653,
+      "line": 654,
       "id": 20511,
       "date": "11/05",
       "type": "enigma",
       "text": "Que dit un homme complexe à une femme réelle ?\n",
-      "answer": "> Viens danser ! (\"dans C\", l'ensemble des complexes)"
+      "answer": "Viens danser ! (\"dans C\", l'ensemble des complexes)"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 658,
+      "line": 659,
       "id": 20512,
       "date": "12/05",
       "type": "enigma",
       "text": "À votre avis, qu'est-ce qu'un geek qui range sa chambre ?\n",
-      "answer": "> Une parti de Tetris."
+      "answer": "Une parti de Tetris."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 663,
+      "line": 664,
       "id": 20513,
       "date": "13/05",
       "type": "text",
@@ -1283,7 +1283,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 667,
+      "line": 668,
       "id": 20514,
       "date": "14/05",
       "type": "text",
@@ -1292,27 +1292,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 672,
+      "line": 673,
       "id": 20515,
       "date": "15/05",
       "type": "enigma",
       "text": "De quoi un geek a-t-il besoin pour rentrer chez lui ?\n",
-      "answer": "> Un trousseau de clés USB."
+      "answer": "Un trousseau de clés USB."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 677,
+      "line": 678,
       "id": 20516,
       "date": "16/05",
       "type": "enigma",
       "text": "x et x² sont sur un bateau, x est à la barre et soudain tombe à l'eau.\nQui reste-t-il ?\n",
-      "answer": "> 2x car le bateau dérive."
+      "answer": "2x car le bateau dérive."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 683,
+      "line": 684,
       "id": 20517,
       "date": "17/05",
       "type": "text",
@@ -1321,47 +1321,47 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 687,
+      "line": 688,
       "id": 20518,
       "date": "18/05",
       "type": "enigma",
       "text": "Quel petit nom donne-t-on au sexe de la Schtoumpfette ?\n",
-      "answer": "> La Bluetouffe (Bluetooth)"
+      "answer": "La Bluetouffe (Bluetooth)"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 692,
+      "line": 693,
       "id": 20519,
       "date": "19/05",
       "type": "enigma",
       "text": "À quoi reconnaît-on le slip de Dark Vador ?\n",
-      "answer": "> À son côté obscur."
+      "answer": "À son côté obscur."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 697,
+      "line": 698,
       "id": 20520,
       "date": "20/05",
       "type": "enigma",
       "text": "Quelle est la différence entre Windows Me et un virus ?\n",
-      "answer": "> Le virus marche."
+      "answer": "Le virus marche."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 702,
+      "line": 703,
       "id": 20521,
       "date": "21/05",
       "type": "enigma",
       "text": "Que pensez-vous de Flash ?\n",
-      "answer": "> C'est de l'Adobe (de la daube) !"
+      "answer": "C'est de l'Adobe (de la daube) !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 707,
+      "line": 708,
       "id": 20522,
       "date": "22/05",
       "type": "text",
@@ -1370,17 +1370,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 714,
+      "line": 715,
       "id": 20523,
       "date": "23/05",
       "type": "enigma",
       "text": "Que se passe-t-il quand un geek meurt ?\n",
-      "answer": "> Il va à la corbeille."
+      "answer": "Il va à la corbeille."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 719,
+      "line": 720,
       "id": 20524,
       "date": "24/05",
       "type": "text",
@@ -1389,17 +1389,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 723,
+      "line": 724,
       "id": 20525,
       "date": "25/05",
       "type": "enigma",
       "text": "Quelle est la différence entre Jurrassik Park et Microsoft ?\n",
-      "answer": "> L'un est un parc de milliardaire ou des gros monstes bouffent tout ce qui se trouve sur leur passage. L'autre est un film."
+      "answer": "L'un est un parc de milliardaire ou des gros monstes bouffent tout ce qui se trouve sur leur passage. L'autre est un film."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 728,
+      "line": 729,
       "id": 20526,
       "date": "26/05",
       "type": "text",
@@ -1408,27 +1408,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 733,
+      "line": 734,
       "id": 20527,
       "date": "27/05",
       "type": "enigma",
       "text": "Comment appelle-t-on un geek qui télécharge illégalement en Martinique ?\n",
-      "answer": "> Un pirate des Caraïbes."
+      "answer": "Un pirate des Caraïbes."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 738,
+      "line": 739,
       "id": 20528,
       "date": "28/05",
       "type": "enigma",
       "text": "Pourquoi les geeks doivent-ils suivre une formation incendie ?\n",
-      "answer": "> À cause des pare-feux."
+      "answer": "À cause des pare-feux."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 743,
+      "line": 744,
       "id": 20529,
       "date": "29/05",
       "type": "text",
@@ -1437,7 +1437,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 748,
+      "line": 749,
       "id": 20530,
       "date": "30/05",
       "type": "text",
@@ -1446,7 +1446,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 753,
+      "line": 754,
       "id": 20531,
       "date": "31/05",
       "type": "text",
@@ -1455,17 +1455,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 757,
+      "line": 758,
       "id": 20601,
       "date": "01/06",
       "type": "enigma",
       "text": "Pourquoi la vie est-elle complexe ?\n",
-      "answer": "> Elle a des composantes réelles et imaginaires."
+      "answer": "Elle a des composantes réelles et imaginaires."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 762,
+      "line": 763,
       "id": 20602,
       "date": "02/06",
       "type": "text",
@@ -1474,17 +1474,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 766,
+      "line": 767,
       "id": 20603,
       "date": "03/06",
       "type": "enigma",
       "text": "Pour quelle raison un geek adolescent ne peut-il pas partir de chez ses parents ?\n",
-      "answer": "> Parce qu'il n'a pas les droits administrateurs."
+      "answer": "Parce qu'il n'a pas les droits administrateurs."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 771,
+      "line": 772,
       "id": 20604,
       "date": "04/06",
       "type": "text",
@@ -1493,7 +1493,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 775,
+      "line": 776,
       "id": 20605,
       "date": "05/06",
       "type": "text",
@@ -1502,27 +1502,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 779,
+      "line": 780,
       "id": 20606,
       "date": "06/06",
       "type": "enigma",
       "text": "Pourquoi les geeks installent-ils leur réfrigérateur dans leur chambre ?\n",
-      "answer": "> Car ils ont compris que les relations à distance étaient vouées à l'échec."
+      "answer": "Car ils ont compris que les relations à distance étaient vouées à l'échec."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 784,
+      "line": 785,
       "id": 20607,
       "date": "07/06",
       "type": "enigma",
       "text": "F et F' sont sur un yacht.\nF tombe à l'eau, que fait F' ?\n",
-      "answer": "> Il dérive"
+      "answer": "Il dérive"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 790,
+      "line": 791,
       "id": 20608,
       "date": "08/06",
       "type": "text",
@@ -1531,17 +1531,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 795,
+      "line": 796,
       "id": 20609,
       "date": "09/06",
       "type": "enigma",
       "text": "Que répond une mathématicienne venant d'accoucher à qui l'on demande \"Avez-vous eu un garçon ou une fille ?\"\n",
-      "answer": "> Oui."
+      "answer": "Oui."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 800,
+      "line": 801,
       "id": 20610,
       "date": "10/06",
       "type": "text",
@@ -1550,7 +1550,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 805,
+      "line": 806,
       "id": 20611,
       "date": "11/06",
       "type": "text",
@@ -1559,7 +1559,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 810,
+      "line": 811,
       "id": 20612,
       "date": "12/06",
       "type": "text",
@@ -1568,27 +1568,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 815,
+      "line": 816,
       "id": 20613,
       "date": "13/06",
       "type": "enigma",
       "text": "Que dit Pythagore à son chien quand il va se promener ?\n",
-      "answer": "> Brutus, va chercher Thalès."
+      "answer": "Brutus, va chercher Thalès."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 820,
+      "line": 821,
       "id": 20614,
       "date": "14/06",
       "type": "enigma",
       "text": "Pourquoi le geek n'a-t-il pas de trace d'oreiller sur le visage au réveil ?\n",
-      "answer": "> Parce qu'il a la marque du clavier."
+      "answer": "Parce qu'il a la marque du clavier."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 825,
+      "line": 826,
       "id": 20615,
       "date": "15/06",
       "type": "text",
@@ -1597,27 +1597,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 831,
+      "line": 832,
       "id": 20616,
       "date": "16/06",
       "type": "enigma",
       "text": "Qu'est-ce qu'un gamer fait avec son avion ?\n",
-      "answer": "> Il Atari."
+      "answer": "Il Atari."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 836,
+      "line": 837,
       "id": 20617,
       "date": "17/06",
       "type": "enigma",
       "text": "Que fait un geek quand il pète un câble ?\n",
-      "answer": "> Il met le Wi-Fi."
+      "answer": "Il met le Wi-Fi."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 841,
+      "line": 842,
       "id": 20618,
       "date": "18/06",
       "type": "text",
@@ -1626,7 +1626,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 846,
+      "line": 847,
       "id": 20619,
       "date": "19/06",
       "type": "text",
@@ -1635,7 +1635,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 850,
+      "line": 851,
       "id": 20620,
       "date": "20/06",
       "type": "text",
@@ -1644,7 +1644,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 855,
+      "line": 856,
       "id": 20621,
       "date": "21/06",
       "type": "text",
@@ -1653,17 +1653,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 861,
+      "line": 862,
       "id": 20622,
       "date": "22/06",
       "type": "enigma",
       "text": "Que faire si un manchot ouvre une fenêtre ?\n",
-      "answer": "> L'abattre, c'est un déviant."
+      "answer": "L'abattre, c'est un déviant."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 866,
+      "line": 867,
       "id": 20623,
       "date": "23/06",
       "type": "text",
@@ -1672,7 +1672,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 870,
+      "line": 871,
       "id": 20624,
       "date": "24/06",
       "type": "text",
@@ -1681,17 +1681,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 874,
+      "line": 875,
       "id": 20625,
       "date": "25/06",
       "type": "enigma",
       "text": "Qu'est-ce que les multitâches Windows 95 ?\n",
-      "answer": "> Trois personnes qui regardent l'écran en même temps."
+      "answer": "Trois personnes qui regardent l'écran en même temps."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 879,
+      "line": 880,
       "id": 20626,
       "date": "26/06",
       "type": "text",
@@ -1700,17 +1700,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 886,
+      "line": 887,
       "id": 20627,
       "date": "27/06",
       "type": "enigma",
       "text": "Où va un angle quand il est malade ?\n",
-      "answer": "> Chez le vecteur."
+      "answer": "Chez le vecteur."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 891,
+      "line": 892,
       "id": 20628,
       "date": "28/06",
       "type": "text",
@@ -1719,27 +1719,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 895,
+      "line": 896,
       "id": 20629,
       "date": "29/06",
       "type": "enigma",
       "text": "Comment énerver un geek ?\n",
-      "answer": "> Il suffit de dire : Twilight, ça reste mieux que les histories de Jedi dans Star Trek !"
+      "answer": "Il suffit de dire : Twilight, ça reste mieux que les histories de Jedi dans Star Trek !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 900,
+      "line": 901,
       "id": 20630,
       "date": "30/06",
       "type": "enigma",
       "text": "Comment s'appelle quelqu'un qui répare des tablettes ?\n",
-      "answer": "> Un technicien de surface"
+      "answer": "Un technicien de surface"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 905,
+      "line": 906,
       "id": 20701,
       "date": "01/07",
       "type": "text",
@@ -1748,7 +1748,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 910,
+      "line": 911,
       "id": 20702,
       "date": "02/07",
       "type": "text",
@@ -1757,17 +1757,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 915,
+      "line": 916,
       "id": 20703,
       "date": "03/07",
       "type": "enigma",
       "text": "Que fait un Belge quand son écran est gelé ?\n",
-      "answer": "> Il le met à réchauffer au micro-ondes ?"
+      "answer": "Il le met à réchauffer au micro-ondes ?"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 920,
+      "line": 921,
       "id": 20704,
       "date": "04/07",
       "type": "text",
@@ -1776,17 +1776,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 924,
+      "line": 925,
       "id": 20705,
       "date": "05/07",
       "type": "enigma",
       "text": "Quand est-ce que Windows ne bugue pas ?\n",
-      "answer": "> Quand l'ordinateur est éteint."
+      "answer": "Quand l'ordinateur est éteint."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 929,
+      "line": 930,
       "id": 20706,
       "date": "06/07",
       "type": "text",
@@ -1795,17 +1795,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 936,
+      "line": 937,
       "id": 20707,
       "date": "07/07",
       "type": "enigma",
       "text": "Quelle différence y a-t-il entre Windows et un clou ?\n",
-      "answer": "> Aucune : tous deux sont destinés à se planter"
+      "answer": "Aucune : tous deux sont destinés à se planter"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 941,
+      "line": 942,
       "id": 20708,
       "date": "08/07",
       "type": "text",
@@ -1814,7 +1814,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 948,
+      "line": 949,
       "id": 20709,
       "date": "09/07",
       "type": "text",
@@ -1823,7 +1823,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 962,
+      "line": 963,
       "id": 20710,
       "date": "10/07",
       "type": "text",
@@ -1832,17 +1832,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 967,
+      "line": 968,
       "id": 20711,
       "date": "11/07",
       "type": "enigma",
       "text": "Que fait un geek en cas de problème de RAM ?\n",
-      "answer": "> Il essaie de BUS."
+      "answer": "Il essaie de BUS."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 972,
+      "line": 973,
       "id": 20712,
       "date": "12/07",
       "type": "citation",
@@ -1852,7 +1852,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 978,
+      "line": 979,
       "id": 20713,
       "date": "13/07",
       "type": "text",
@@ -1861,7 +1861,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 983,
+      "line": 984,
       "id": 20714,
       "date": "14/07",
       "type": "text",
@@ -1870,7 +1870,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 987,
+      "line": 988,
       "id": 20715,
       "date": "15/07",
       "type": "text",
@@ -1879,7 +1879,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 991,
+      "line": 992,
       "id": 20716,
       "date": "16/07",
       "type": "text",
@@ -1888,7 +1888,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 995,
+      "line": 996,
       "id": 20717,
       "date": "17/07",
       "type": "text",
@@ -1897,37 +1897,37 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 999,
+      "line": 1000,
       "id": 20718,
       "date": "18/07",
       "type": "enigma",
       "text": "Que ce passe-t-il quand on installe Linux ?\n",
-      "answer": "> Il n'y a plus DOS (d'os) !"
+      "answer": "Il n'y a plus DOS (d'os) !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1004,
+      "line": 1005,
       "id": 20719,
       "date": "19/07",
       "type": "enigma",
       "text": "Quelle est la différence entre un \"kikou\" et un \"photon\" ?\n",
-      "answer": "> Le kikou est rarement une lumière."
+      "answer": "Le kikou est rarement une lumière."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1009,
+      "line": 1010,
       "id": 20720,
       "date": "20/07",
       "type": "enigma",
       "text": "Pour le geek, quel est l'un des contraceptifs les plus sûrs de sa génération ?\n",
-      "answer": "> World of Warcraft"
+      "answer": "World of Warcraft"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1014,
+      "line": 1015,
       "id": 20721,
       "date": "21/07",
       "type": "text",
@@ -1936,17 +1936,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1018,
+      "line": 1019,
       "id": 20722,
       "date": "22/07",
       "type": "enigma",
       "text": "Quel est l'ennemi juré du geek ?\n",
-      "answer": "> Un troll."
+      "answer": "Un troll."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1023,
+      "line": 1024,
       "id": 20723,
       "date": "23/07",
       "type": "text",
@@ -1955,7 +1955,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1027,
+      "line": 1028,
       "id": 20724,
       "date": "24/07",
       "type": "text",
@@ -1964,7 +1964,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1031,
+      "line": 1032,
       "id": 20725,
       "date": "25/07",
       "type": "text",
@@ -1973,7 +1973,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1036,
+      "line": 1037,
       "id": 20726,
       "date": "26/07",
       "type": "text",
@@ -1982,17 +1982,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1040,
+      "line": 1041,
       "id": 20727,
       "date": "27/07",
       "type": "enigma",
       "text": "Pourquoi un geek ne met-il jamais deux fois de suite le même costume ?\n",
-      "answer": "> Parce qu'il est passé de mode entre son mariage et son enterrement !"
+      "answer": "Parce qu'il est passé de mode entre son mariage et son enterrement !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1045,
+      "line": 1046,
       "id": 20728,
       "date": "28/07",
       "type": "text",
@@ -2001,7 +2001,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1051,
+      "line": 1052,
       "id": 20729,
       "date": "29/07",
       "type": "text",
@@ -2010,17 +2010,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1056,
+      "line": 1057,
       "id": 20730,
       "date": "30/07",
       "type": "enigma",
       "text": "Un jour, Logarithme et Exponentielle jouèrent à cache-cache.\nQui gagna la partie ?\n",
-      "answer": "> Exponentielle car Ln s'égara !"
+      "answer": "Exponentielle car Ln s'égara !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1062,
+      "line": 1063,
       "id": 20731,
       "date": "31/07",
       "type": "text",
@@ -2029,7 +2029,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1067,
+      "line": 1068,
       "id": 20801,
       "date": "01/08",
       "type": "text",
@@ -2038,67 +2038,67 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1071,
+      "line": 1072,
       "id": 20802,
       "date": "02/08",
       "type": "enigma",
       "text": "Quelle est l'heure à laquelle le geek écoute de la musique ?\n",
-      "answer": "> Deezer"
+      "answer": "Deezer"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1076,
+      "line": 1077,
       "id": 20803,
       "date": "03/08",
       "type": "enigma",
       "text": "À quelle fréquence un geek allume-t-il et éteint-il son ordinateur ?\n",
-      "answer": "> Une fois par an, quand il part en vacances"
+      "answer": "Une fois par an, quand il part en vacances"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1081,
+      "line": 1082,
       "id": 20804,
       "date": "04/08",
       "type": "enigma",
       "text": "Comment un geek fait-il pour bronzer ?\n\n",
-      "answer": "> Il augmente la luminosité de son écran"
+      "answer": "Il augmente la luminosité de son écran"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1081,
+      "line": 1082,
       "id": 20804,
       "date": "04/08",
       "type": "enigma",
       "text": "Comment un geek fait-il pour bronzer ?\n\n",
-      "answer": "> Il augmente la luminosité de son écran"
+      "answer": "Il augmente la luminosité de son écran"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1087,
+      "line": 1088,
       "id": 20805,
       "date": "05/08",
       "type": "enigma",
       "text": "Pourquoi les programmeurs confondent-ils toujours Noël et Halloween ?\n",
-      "answer": "> Parce que DEC 25 = OCT 31 (25 décimales (dec) équivalent à 31 octets (oct))"
+      "answer": "Parce que DEC 25 = OCT 31 (25 décimales (dec) équivalent à 31 octets (oct))"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1092,
+      "line": 1093,
       "id": 20806,
       "date": "06/08",
       "type": "enigma",
       "text": "Quel est le comble d'un ordinateur ?\n",
-      "answer": "> C'est d'avoir des puces"
+      "answer": "C'est d'avoir des puces"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1097,
+      "line": 1098,
       "id": 20807,
       "date": "07/08",
       "type": "text",
@@ -2107,57 +2107,57 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1101,
+      "line": 1102,
       "id": 20808,
       "date": "08/08",
       "type": "enigma",
       "text": "Exponentielle et Logarithme sont dans un bar.\nQui paye l'addition ?\n",
-      "answer": "> Exponentielle, parce que Logarithme népérien"
+      "answer": "Exponentielle, parce que Logarithme népérien"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1107,
+      "line": 1108,
       "id": 20809,
       "date": "09/08",
       "type": "enigma",
       "text": "Quelle est la différence entre toi et la lumière ?\n",
-      "answer": "> La lumière, c'est un photon"
+      "answer": "La lumière, c'est un photon"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1112,
+      "line": 1113,
       "id": 20810,
       "date": "10/08",
       "type": "enigma",
       "text": "Comment Chuck Norris a-t-il déjà fait le tour du Soleil ?\n",
-      "answer": "> À la nage"
+      "answer": "À la nage"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1117,
+      "line": 1118,
       "id": 20811,
       "date": "11/08",
       "type": "enigma",
       "text": "Tu sais pourquoi l'iPhone 6 se plie ?\n",
-      "answer": "> Parce que l'Apple Store"
+      "answer": "Parce que l'Apple Store"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1122,
+      "line": 1123,
       "id": 20812,
       "date": "12/08",
       "type": "enigma",
       "text": "Quand les geeks se sentent-ils orphelins ?\n",
-      "answer": "> Quand ils n'ont pas encore trouvé leur carte mère"
+      "answer": "Quand ils n'ont pas encore trouvé leur carte mère"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1127,
+      "line": 1128,
       "id": 20813,
       "date": "13/08",
       "type": "text",
@@ -2166,27 +2166,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1131,
+      "line": 1132,
       "id": 20814,
       "date": "14/08",
       "type": "enigma",
       "text": "Quelle est le point commun entre un programme en Visual Basic et la masturbation ?\n",
-      "answer": "> On prend son pied quand on le fait et après on se demande pourquoi on l'a fait"
+      "answer": "On prend son pied quand on le fait et après on se demande pourquoi on l'a fait"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1136,
+      "line": 1137,
       "id": 20815,
       "date": "15/08",
       "type": "enigma",
       "text": "Pourquoi Mickey Mousse ?\n",
-      "answer": "> Parce que Mario Bros (brosse)"
+      "answer": "Parce que Mario Bros (brosse)"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1141,
+      "line": 1142,
       "id": 20816,
       "date": "16/08",
       "type": "text",
@@ -2195,7 +2195,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1147,
+      "line": 1148,
       "id": 20817,
       "date": "17/08",
       "type": "text",
@@ -2204,17 +2204,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1151,
+      "line": 1152,
       "id": 20818,
       "date": "18/08",
       "type": "enigma",
       "text": "Comment le développeur dit-il \"Je vais te rouler\" dans son jargon ?\n",
-      "answer": "> Ça a été mal recetté"
+      "answer": "Ça a été mal recetté"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1156,
+      "line": 1157,
       "id": 20819,
       "date": "19/08",
       "type": "text",
@@ -2223,7 +2223,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1162,
+      "line": 1163,
       "id": 20820,
       "date": "20/08",
       "type": "text",
@@ -2232,7 +2232,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1167,
+      "line": 1168,
       "id": 20821,
       "date": "21/08",
       "type": "text",
@@ -2241,7 +2241,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1171,
+      "line": 1172,
       "id": 20822,
       "date": "22/08",
       "type": "text",
@@ -2250,7 +2250,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1175,
+      "line": 1176,
       "id": 20823,
       "date": "23/08",
       "type": "citation",
@@ -2260,17 +2260,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1181,
+      "line": 1182,
       "id": 20824,
       "date": "24/08",
       "type": "enigma",
       "text": "Pourquoi les Pokémon ne peuvent-ils pas conduire ?\n",
-      "answer": "> Parce qu'ils ont trop de PVs"
+      "answer": "Parce qu'ils ont trop de PVs"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1186,
+      "line": 1187,
       "id": 20825,
       "date": "25/08",
       "type": "text",
@@ -2279,17 +2279,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1191,
+      "line": 1192,
       "id": 20826,
       "date": "26/08",
       "type": "enigma",
       "text": "Comment s'appelle chaque doigt de la main gauche d'un geek ?\n",
-      "answer": "> Space-D-Z-Q-Shift"
+      "answer": "Space-D-Z-Q-Shift"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1196,
+      "line": 1197,
       "id": 20827,
       "date": "27/08",
       "type": "text",
@@ -2298,7 +2298,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1200,
+      "line": 1201,
       "id": 20828,
       "date": "28/08",
       "type": "text",
@@ -2307,17 +2307,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1205,
+      "line": 1206,
       "id": 20829,
       "date": "29/08",
       "type": "enigma",
       "text": "Savez-vous quand Chuck Norris a fait une division par zéro ?\n",
-      "answer": "> Il y a 65 millions d'années"
+      "answer": "Il y a 65 millions d'années"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1210,
+      "line": 1211,
       "id": 20830,
       "date": "30/08",
       "type": "text",
@@ -2326,17 +2326,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1215,
+      "line": 1216,
       "id": 20831,
       "date": "31/08",
       "type": "enigma",
       "text": "Comment un geek aère-t-il son ordinateur ?\n",
-      "answer": "> Il ouvre un fenêtre !"
+      "answer": "Il ouvre un fenêtre !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1220,
+      "line": 1221,
       "id": 20901,
       "date": "01/09",
       "type": "text",
@@ -2345,27 +2345,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1224,
+      "line": 1225,
       "id": 20902,
       "date": "02/09",
       "type": "enigma",
       "text": "Que fait un eek pour tenter de réparer une très grosse gaffe ?\n",
-      "answer": "> Ctrl+Z"
+      "answer": "Ctrl+Z"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1229,
+      "line": 1230,
       "id": 20903,
       "date": "03/09",
       "type": "enigma",
       "text": "Quel est le point commun entre un geek, un scanner et une imprimante ?\n",
-      "answer": "> Chacun d'eux est un périphérique relié à l'ordinateur"
+      "answer": "Chacun d'eux est un périphérique relié à l'ordinateur"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1234,
+      "line": 1235,
       "id": 20904,
       "date": "04/09",
       "type": "citation",
@@ -2375,7 +2375,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1239,
+      "line": 1240,
       "id": 20905,
       "date": "05/09",
       "type": "text",
@@ -2384,17 +2384,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1249,
+      "line": 1250,
       "id": 20906,
       "date": "06/09",
       "type": "enigma",
       "text": "Comment un informaticien tente-t-il de réparer sa voiture lorsqu'elle a un problème ?\n",
-      "answer": "> Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture et essaie de redémarrer"
+      "answer": "Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture et essaie de redémarrer"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1254,
+      "line": 1255,
       "id": 20907,
       "date": "07/09",
       "type": "text",
@@ -2403,17 +2403,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1258,
+      "line": 1259,
       "id": 20908,
       "date": "08/09",
       "type": "enigma",
       "text": "Que signifie JAVA ?\n",
-      "answer": "> J'Avais une Vie Avant"
+      "answer": "J'Avais une Vie Avant"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1263,
+      "line": 1264,
       "id": 20909,
       "date": "09/09",
       "type": "text",
@@ -2422,7 +2422,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1269,
+      "line": 1270,
       "id": 20910,
       "date": "10/09",
       "type": "text",
@@ -2431,17 +2431,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1273,
+      "line": 1274,
       "id": 20911,
       "date": "11/09",
       "type": "enigma",
       "text": "Pour quelle cause un geek est-il prêt à prendre les armes ?\n",
-      "answer": "> Si sa batterie est en danger"
+      "answer": "Si sa batterie est en danger"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1278,
+      "line": 1279,
       "id": 20912,
       "date": "12/09",
       "type": "text",
@@ -2450,7 +2450,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1282,
+      "line": 1283,
       "id": 20913,
       "date": "13/09",
       "type": "text",
@@ -2459,27 +2459,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1286,
+      "line": 1287,
       "id": 20914,
       "date": "14/09",
       "type": "enigma",
       "text": "Quelle est la différence entre un ingénieur développeur et un technicien ?\n",
-      "answer": "> Le technicien se lave les mains avant d'aller faire pipi"
+      "answer": "Le technicien se lave les mains avant d'aller faire pipi"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1291,
+      "line": 1292,
       "id": 20915,
       "date": "15/09",
       "type": "enigma",
       "text": "Pourquoi les Belges mettent-ils de l'eau sur leur clavier ?\n",
-      "answer": "> Pour surfer sur Internet"
+      "answer": "Pour surfer sur Internet"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1296,
+      "line": 1297,
       "id": 20916,
       "date": "16/09",
       "type": "citation",
@@ -2489,17 +2489,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1301,
+      "line": 1302,
       "id": 20917,
       "date": "17/09",
       "type": "enigma",
       "text": "Comment le développeur dit-il \"Je vais te rouler\" dans son jargon ?\n",
-      "answer": "> Ça fonctionne bien sur mon poste"
+      "answer": "Ça fonctionne bien sur mon poste"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1306,
+      "line": 1307,
       "id": 20918,
       "date": "18/09",
       "type": "text",
@@ -2508,7 +2508,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1314,
+      "line": 1315,
       "id": 20919,
       "date": "19/09",
       "type": "text",
@@ -2517,17 +2517,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1318,
+      "line": 1319,
       "id": 20920,
       "date": "20/09",
       "type": "enigma",
       "text": "Comment appelle-t-on les champignons les plus moches dans Mario ?\n",
-      "answer": "> Les moches rooms (mushrooms)"
+      "answer": "Les moches rooms (mushrooms)"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1323,
+      "line": 1324,
       "id": 20921,
       "date": "21/09",
       "type": "text",
@@ -2536,7 +2536,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1327,
+      "line": 1328,
       "id": 20922,
       "date": "22/09",
       "type": "text",
@@ -2545,17 +2545,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1331,
+      "line": 1332,
       "id": 20923,
       "date": "23/09",
       "type": "enigma",
       "text": "Quelle est la seule façon pour un geek de fêter la Saint-Valentin ?\n",
-      "answer": "> De s'appeler Valentine"
+      "answer": "De s'appeler Valentine"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1336,
+      "line": 1337,
       "id": 20924,
       "date": "24/09",
       "type": "text",
@@ -2564,7 +2564,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1340,
+      "line": 1341,
       "id": 20925,
       "date": "25/09",
       "type": "text",
@@ -2573,7 +2573,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1344,
+      "line": 1345,
       "id": 20926,
       "date": "26/09",
       "type": "text",
@@ -2582,7 +2582,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1357,
+      "line": 1358,
       "id": 20927,
       "date": "27/09",
       "type": "text",
@@ -2591,7 +2591,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1361,
+      "line": 1362,
       "id": 20928,
       "date": "28/09",
       "type": "text",
@@ -2600,17 +2600,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1365,
+      "line": 1366,
       "id": 20929,
       "date": "29/09",
       "type": "enigma",
       "text": "Pourquoi les geeks aiment-ils les siamois.es ?\n",
-      "answer": "> Parce qu'elles ont un dual corps"
+      "answer": "Parce qu'elles ont un dual corps"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1370,
+      "line": 1371,
       "id": 20930,
       "date": "30/09",
       "type": "text",
@@ -2619,7 +2619,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1375,
+      "line": 1376,
       "id": 21001,
       "date": "01/10",
       "type": "text",
@@ -2628,17 +2628,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1381,
+      "line": 1382,
       "id": 21002,
       "date": "02/10",
       "type": "enigma",
       "text": "Combien faut-il de programmeurs pour faire un bon software chez Microsoft ?\n",
-      "answer": "> Plus !"
+      "answer": "Plus !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1386,
+      "line": 1387,
       "id": 21003,
       "date": "03/10",
       "type": "text",
@@ -2647,27 +2647,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1390,
+      "line": 1391,
       "id": 21004,
       "date": "04/10",
       "type": "enigma",
       "text": "Comment le développeur dit-il \"Je vais te rouler\" dans son jargon ?\n",
-      "answer": "> Quand je fais du télétravail, je ne compte pas mes heures"
+      "answer": "Quand je fais du télétravail, je ne compte pas mes heures"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1395,
+      "line": 1396,
       "id": 21005,
       "date": "05/10",
       "type": "enigma",
       "text": "Pourquoi Adam et Ève ont-ils été chassés du Paradis ?\n",
-      "answer": "> Parce qu'Ève a fait Pomme + Q"
+      "answer": "Parce qu'Ève a fait Pomme + Q"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1400,
+      "line": 1401,
       "id": 21006,
       "date": "06/10",
       "type": "text",
@@ -2676,17 +2676,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1404,
+      "line": 1405,
       "id": 21007,
       "date": "07/10",
       "type": "enigma",
       "text": "Qu'ont en commun un geek et un vampire ?\n",
-      "answer": "> Tous deux craignent le soleil..."
+      "answer": "Tous deux craignent le soleil..."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1409,
+      "line": 1410,
       "id": 21008,
       "date": "08/10",
       "type": "text",
@@ -2695,7 +2695,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1416,
+      "line": 1417,
       "id": 21009,
       "date": "09/10",
       "type": "text",
@@ -2704,17 +2704,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1420,
+      "line": 1421,
       "id": 21010,
       "date": "10/10",
       "type": "enigma",
       "text": "Combien faut-il de développeurs C pour changer une ampoule ?\n",
-      "answer": "> 6. Un pour la changer et 5 autres six mois plus tard pour comprendre comment il a fait"
+      "answer": "6. Un pour la changer et 5 autres six mois plus tard pour comprendre comment il a fait"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1425,
+      "line": 1426,
       "id": 21011,
       "date": "11/10",
       "type": "text",
@@ -2723,7 +2723,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1432,
+      "line": 1433,
       "id": 21012,
       "date": "12/10",
       "type": "text",
@@ -2732,7 +2732,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1437,
+      "line": 1438,
       "id": 21013,
       "date": "13/10",
       "type": "text",
@@ -2741,17 +2741,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1441,
+      "line": 1442,
       "id": 21014,
       "date": "14/10",
       "type": "enigma",
       "text": "Combien de programmeurs sont nécessaires pour changer une ampoule électrique brûlée ?\n",
-      "answer": "> Aucun, ils ne touchent pas à ça. C'est un problème hardware !"
+      "answer": "Aucun, ils ne touchent pas à ça. C'est un problème hardware !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1446,
+      "line": 1447,
       "id": 21015,
       "date": "15/10",
       "type": "citation",
@@ -2761,7 +2761,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1452,
+      "line": 1453,
       "id": 21016,
       "date": "16/10",
       "type": "text",
@@ -2770,17 +2770,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1456,
+      "line": 1457,
       "id": 21017,
       "date": "17/10",
       "type": "enigma",
       "text": "Quelle est la différence entre un vendeur d'autos d'occasion et un vendeur d'ordinateurs ?\n",
-      "answer": "> Le vendeur d'autos sait quand il vous ment"
+      "answer": "Le vendeur d'autos sait quand il vous ment"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1461,
+      "line": 1462,
       "id": 21018,
       "date": "18/10",
       "type": "text",
@@ -2789,17 +2789,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1465,
+      "line": 1466,
       "id": 21019,
       "date": "19/10",
       "type": "enigma",
       "text": "Pour un geek, quelle est la différence entre \"Elle\" et \"Lui\" ?\n",
-      "answer": "> La place de la lettre \"M\", car \"Elle\" : acheter, elle aime (HTLM) et \"Lui\" : HTML !"
+      "answer": "La place de la lettre \"M\", car \"Elle\" : acheter, elle aime (HTLM) et \"Lui\" : HTML !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1470,
+      "line": 1471,
       "id": 21020,
       "date": "20/10",
       "type": "text",
@@ -2808,7 +2808,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1474,
+      "line": 1475,
       "id": 21021,
       "date": "21/10",
       "type": "text",
@@ -2817,7 +2817,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1478,
+      "line": 1479,
       "id": 21022,
       "date": "22/10",
       "type": "text",
@@ -2826,7 +2826,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1484,
+      "line": 1485,
       "id": 21023,
       "date": "23/10",
       "type": "text",
@@ -2835,17 +2835,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1494,
+      "line": 1495,
       "id": 21024,
       "date": "24/10",
       "type": "enigma",
       "text": "Qu'est-ce qui est jaune, normé et complet ?\n",
-      "answer": "> Un espace de Bananach"
+      "answer": "Un espace de Bananach"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1499,
+      "line": 1500,
       "id": 21025,
       "date": "25/10",
       "type": "text",
@@ -2854,7 +2854,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1503,
+      "line": 1504,
       "id": 21026,
       "date": "26/10",
       "type": "text",
@@ -2863,7 +2863,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1507,
+      "line": 1508,
       "id": 21027,
       "date": "27/10",
       "type": "text",
@@ -2872,7 +2872,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1511,
+      "line": 1512,
       "id": 21028,
       "date": "28/10",
       "type": "text",
@@ -2881,7 +2881,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1515,
+      "line": 1516,
       "id": 21029,
       "date": "29/10",
       "type": "text",
@@ -2890,17 +2890,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1523,
+      "line": 1524,
       "id": 21030,
       "date": "30/10",
       "type": "enigma",
       "text": "Pourquoi la vie est-elle complexe ?\n",
-      "answer": "> Elle ades composantes réelles et imaginaires"
+      "answer": "Elle ades composantes réelles et imaginaires"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1528,
+      "line": 1529,
       "id": 21031,
       "date": "31/10",
       "type": "text",
@@ -2909,7 +2909,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1532,
+      "line": 1533,
       "id": 21101,
       "date": "01/11",
       "type": "text",
@@ -2918,17 +2918,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1536,
+      "line": 1537,
       "id": 21102,
       "date": "02/11",
       "type": "enigma",
       "text": "Qu'est-ce qu'un geek déteste plus que Windows ?\n",
-      "answer": "> Les coupures de courant"
+      "answer": "Les coupures de courant"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1541,
+      "line": 1542,
       "id": 21103,
       "date": "03/11",
       "type": "text",
@@ -2937,7 +2937,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1545,
+      "line": 1546,
       "id": 21104,
       "date": "04/11",
       "type": "text",
@@ -2946,7 +2946,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1549,
+      "line": 1550,
       "id": 21105,
       "date": "05/11",
       "type": "text",
@@ -2955,7 +2955,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1553,
+      "line": 1554,
       "id": 21106,
       "date": "06/11",
       "type": "text",
@@ -2964,7 +2964,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1557,
+      "line": 1558,
       "id": 21107,
       "date": "07/11",
       "type": "text",
@@ -2973,7 +2973,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1561,
+      "line": 1562,
       "id": 21108,
       "date": "08/11",
       "type": "text",
@@ -2982,27 +2982,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1566,
+      "line": 1567,
       "id": 21109,
       "date": "09/11",
       "type": "enigma",
       "text": "Combien faut-il de programmeurs Microsoft pour changer une ampoule électrique ?\n",
-      "answer": "> Aucun : si l'ampoule est grillée, Microsoft déclare l'obscurité comme nouveau standard"
+      "answer": "Aucun : si l'ampoule est grillée, Microsoft déclare l'obscurité comme nouveau standard"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1571,
+      "line": 1572,
       "id": 21110,
       "date": "10/11",
       "type": "enigma",
       "text": "Combien de techniciens Microsoft faut-il pour changer une ampoule électrique ?\n",
-      "answer": "> Trois : 2 pour tenir l'échelle et 1 pour visser l'ampoule dans le robinet"
+      "answer": "Trois : 2 pour tenir l'échelle et 1 pour visser l'ampoule dans le robinet"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1576,
+      "line": 1577,
       "id": 21111,
       "date": "11/11",
       "type": "citation",
@@ -3012,27 +3012,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1582,
+      "line": 1583,
       "id": 21112,
       "date": "12/11",
       "type": "enigma",
       "text": "Pourquoi informaticien est-il le plus vieux métier du monde ?\n",
-      "answer": "> Parce qu'avant la naissance du monde régnait déjà le K.O."
+      "answer": "Parce qu'avant la naissance du monde régnait déjà le K.O."
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1587,
+      "line": 1588,
       "id": 21113,
       "date": "13/11",
       "type": "enigma",
       "text": "Combien faut-il de programmeurs Microsoft pour écrire correctement une application ?\n",
-      "answer": "> Plus"
+      "answer": "Plus"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1592,
+      "line": 1593,
       "id": 21114,
       "date": "14/11",
       "type": "text",
@@ -3041,7 +3041,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1596,
+      "line": 1597,
       "id": 21115,
       "date": "15/11",
       "type": "text",
@@ -3050,7 +3050,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1601,
+      "line": 1602,
       "id": 21116,
       "date": "16/11",
       "type": "text",
@@ -3059,7 +3059,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1605,
+      "line": 1606,
       "id": 21117,
       "date": "17/11",
       "type": "citation",
@@ -3069,17 +3069,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1610,
+      "line": 1611,
       "id": 21118,
       "date": "18/11",
       "type": "enigma",
       "text": "Quelle est la différence entre Microsoft et l'héroïne ?\n",
-      "answer": "> La première dose est gratuite, mais quand vous serez accro ils augmenteront les prix"
+      "answer": "La première dose est gratuite, mais quand vous serez accro ils augmenteront les prix"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1615,
+      "line": 1616,
       "id": 21119,
       "date": "19/11",
       "type": "text",
@@ -3088,7 +3088,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1620,
+      "line": 1621,
       "id": 21120,
       "date": "20/11",
       "type": "text",
@@ -3097,7 +3097,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1624,
+      "line": 1625,
       "id": 21121,
       "date": "21/11",
       "type": "text",
@@ -3106,7 +3106,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1628,
+      "line": 1629,
       "id": 21122,
       "date": "22/11",
       "type": "text",
@@ -3115,17 +3115,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1632,
+      "line": 1633,
       "id": 21123,
       "date": "23/11",
       "type": "enigma",
       "text": "Quel Pokémon rate le plus ses attaques ?\n",
-      "answer": "> Rattatac (Rate-attaque)"
+      "answer": "Rattatac (Rate-attaque)"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1637,
+      "line": 1638,
       "id": 21124,
       "date": "24/11",
       "type": "text",
@@ -3134,7 +3134,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1641,
+      "line": 1642,
       "id": 21125,
       "date": "25/11",
       "type": "text",
@@ -3143,7 +3143,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1646,
+      "line": 1647,
       "id": 21126,
       "date": "26/11",
       "type": "text",
@@ -3152,7 +3152,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1651,
+      "line": 1652,
       "id": 21127,
       "date": "27/11",
       "type": "text",
@@ -3161,7 +3161,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1655,
+      "line": 1656,
       "id": 21128,
       "date": "28/11",
       "type": "text",
@@ -3170,17 +3170,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1661,
+      "line": 1662,
       "id": 21129,
       "date": "29/11",
       "type": "enigma",
       "text": "Que crie un geek en jetant son PC par la fenêtre ?\n",
-      "answer": "> Hasta la vista !!!"
+      "answer": "Hasta la vista !!!"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1666,
+      "line": 1667,
       "id": 21130,
       "date": "30/11",
       "type": "text",
@@ -3189,17 +3189,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1671,
+      "line": 1672,
       "id": 21201,
       "date": "01/12",
       "type": "enigma",
       "text": "Quelle est la différence entre un geek et Dracula ?\n",
-      "answer": "> Dracula ne sort que la nuit. Un geek ne sort pas du tout"
+      "answer": "Dracula ne sort que la nuit. Un geek ne sort pas du tout"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1676,
+      "line": 1677,
       "id": 21202,
       "date": "02/12",
       "type": "text",
@@ -3208,7 +3208,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1680,
+      "line": 1681,
       "id": 21203,
       "date": "03/12",
       "type": "text",
@@ -3217,17 +3217,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1684,
+      "line": 1685,
       "id": 21204,
       "date": "04/12",
       "type": "enigma",
       "text": "Pourquoi Windows est-il radioactif ?\n",
-      "answer": "> Parce que son noyau n'est pas stable"
+      "answer": "Parce que son noyau n'est pas stable"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1689,
+      "line": 1690,
       "id": 21205,
       "date": "05/12",
       "type": "text",
@@ -3236,17 +3236,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1697,
+      "line": 1698,
       "id": 21206,
       "date": "06/12",
       "type": "enigma",
       "text": "Comment le développeur dit-il \"Je vais te rouler\" dans son jargon ?\n",
-      "answer": "> Il faut trois semaines de travail pour développer ce module"
+      "answer": "Il faut trois semaines de travail pour développer ce module"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1702,
+      "line": 1703,
       "id": 21207,
       "date": "07/12",
       "type": "citation",
@@ -3256,7 +3256,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1707,
+      "line": 1708,
       "id": 21208,
       "date": "08/12",
       "type": "text",
@@ -3265,7 +3265,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1711,
+      "line": 1712,
       "id": 21209,
       "date": "09/12",
       "type": "text",
@@ -3274,7 +3274,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1718,
+      "line": 1719,
       "id": 21210,
       "date": "10/12",
       "type": "text",
@@ -3283,7 +3283,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1723,
+      "line": 1724,
       "id": 21211,
       "date": "11/12",
       "type": "text",
@@ -3292,7 +3292,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1727,
+      "line": 1728,
       "id": 21212,
       "date": "12/12",
       "type": "text",
@@ -3301,17 +3301,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1732,
+      "line": 1733,
       "id": 21213,
       "date": "13/12",
       "type": "enigma",
       "text": "Comment peut-on aussi appeler un informaticien passionné par les échecs ?\n",
-      "answer": "> Un programmeur chez Microsoft"
+      "answer": "Un programmeur chez Microsoft"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1737,
+      "line": 1738,
       "id": 21214,
       "date": "14/12",
       "type": "text",
@@ -3320,7 +3320,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1743,
+      "line": 1744,
       "id": 21215,
       "date": "15/12",
       "type": "text",
@@ -3329,27 +3329,27 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1747,
+      "line": 1748,
       "id": 21216,
       "date": "16/12",
       "type": "enigma",
       "text": "Tu connais la blaque d'un geek qui nettoie son clavier ?\n",
-      "answer": "> Aqewijonbkvg ghñjh koihgyuio"
+      "answer": "Aqewijonbkvg ghñjh koihgyuio"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1752,
+      "line": 1753,
       "id": 21217,
       "date": "17/12",
       "type": "enigma",
       "text": "Comment le développeur dit-il \"Je vais te rouler\" dans son jargon ?\n",
-      "answer": "> Je vais faire du télétravail pour être au calme"
+      "answer": "Je vais faire du télétravail pour être au calme"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1757,
+      "line": 1758,
       "id": 21218,
       "date": "18/12",
       "type": "text",
@@ -3358,7 +3358,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1762,
+      "line": 1763,
       "id": 21219,
       "date": "19/12",
       "type": "text",
@@ -3367,7 +3367,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1767,
+      "line": 1768,
       "id": 21220,
       "date": "20/12",
       "type": "text",
@@ -3376,7 +3376,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1774,
+      "line": 1775,
       "id": 21221,
       "date": "21/12",
       "type": "text",
@@ -3385,7 +3385,7 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1782,
+      "line": 1783,
       "id": 21222,
       "date": "22/12",
       "type": "text",
@@ -3394,17 +3394,17 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1793,
+      "line": 1794,
       "id": 21223,
       "date": "23/12",
       "type": "enigma",
       "text": "Quel est le comble pour une carte réseau ?\n",
-      "answer": "> C'est d'éviter des troubles de la circulation !"
+      "answer": "C'est d'éviter des troubles de la circulation !"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1798,
+      "line": 1799,
       "id": 21224,
       "date": "24/12",
       "type": "text",
@@ -3413,57 +3413,57 @@
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1802,
+      "line": 1803,
       "id": 21225,
       "date": "25/12",
       "type": "enigma",
       "text": "Que dit Illidan quand un druide veut le soigner ?\n",
-      "answer": "> Vous n'êtes pas prêtre"
+      "answer": "Vous n'êtes pas prêtre"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1807,
+      "line": 1808,
       "id": 21226,
       "date": "26/12",
       "type": "enigma",
       "text": "Vous connaissez la chose la plus compliquée à faire pour un paladin ?\n",
-      "answer": "> Éteindre la lumière"
+      "answer": "Éteindre la lumière"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1812,
+      "line": 1813,
       "id": 21227,
       "date": "27/12",
       "type": "enigma",
       "text": "Pourquoi les taurens connaissent très bien la trahison ?\n",
-      "answer": "> Parce qu'ils ont tous des cornes"
+      "answer": "Parce qu'ils ont tous des cornes"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1817,
+      "line": 1818,
       "id": 21228,
       "date": "28/12",
       "type": "enigma",
       "text": "Pourquoi les joueurs de World of Warcraft sont toujours chez le coiffeur ?\n",
-      "answer": "> Parce qu'ils adorent les extensions"
+      "answer": "Parce qu'ils adorent les extensions"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1822,
+      "line": 1823,
       "id": 21229,
       "date": "29/12",
       "type": "enigma",
       "text": "Pourquoi Garrosh a perdu le siège d'Ogrimmar ?\n",
-      "answer": "> Parce que les renforts avaient Durotar"
+      "answer": "Parce que les renforts avaient Durotar"
     },
     {
       "almanachName": "Blagues de geek",
       "almanachFile": "AlmanachGeek.txt",
-      "line": 1827,
+      "line": 1828,
       "id": 21230,
       "date": "30/12",
       "type": "text",

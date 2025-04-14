@@ -35,7 +35,7 @@ for fileInd,fileName in enumerate(os.listdir(AlmanachsLocation)):
                     day = {}
                     day["almanachName"] = data["title"]
                     day["almanachFile"] = fileName
-                    day["line"] = lineInd
+                    day["line"] = lineInd + 1
                 elif state == "newDay":
                     day["id"] = int(str(fileInd) + line[3:] + line[:2])
                     day["date"] = line
@@ -50,7 +50,7 @@ for fileInd,fileName in enumerate(os.listdir(AlmanachsLocation)):
                         day["author"] = line
                     elif line.startswith(">"):
                         day["type"] = "enigma"
-                        day["answer"] = line
+                        day["answer"] = line[2:]
                         state == "dayAnswer"
                     else:
                         day["text"] += '\n' + line
@@ -62,5 +62,5 @@ for fileInd,fileName in enumerate(os.listdir(AlmanachsLocation)):
             
         
         jsonName = fileName[:-3] + "json"
-        with open(ParsedDestination + "/" + jsonName, mode="w", encoding="utf-8") as jsonFile:
+        with open(ParsedDestination + "/" + jsonName, mode="x", encoding="utf-8") as jsonFile:
             json.dump(data, jsonFile, ensure_ascii=False, indent=2)

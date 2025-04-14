@@ -6,3242 +6,3242 @@
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 4,
+      "line": 5,
       "id": 114,
       "date": "14/01",
       "type": "enigma",
       "text": "Avant-hier, je n'avais encore que 15 ans, mais, l'année prochaine, je serai majeur !\nQuelle est ma date d'anniversaire et quel jour sommes-nous ?\n",
-      "answer": "> Je suis né un 31 décembre et nous sommes le 1er janvier."
+      "answer": "Je suis né un 31 décembre et nous sommes le 1er janvier."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 10,
+      "line": 11,
       "id": 115,
       "date": "15/01",
       "type": "enigma",
       "text": "J'ai quelque chose dans ma poche. Pourtant, je n'ai rien dans ma poche.\nQu'ai-je dans ma poche ?\n",
-      "answer": "> Un trou"
+      "answer": "Un trou"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 16,
+      "line": 17,
       "id": 116,
       "date": "16/01",
       "type": "enigma",
       "text": "Utilisez une fois au maximum chaque opérateur pour que cette égalité soit juste.\nLes parethèses sont permises.\n1 1 1 1 1 1 1 1 1 1 = 5\n",
-      "answer": "> (11 * 11 - 11) / (11 + 11) = 5"
+      "answer": "(11 * 11 - 11) / (11 + 11) = 5"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 23,
+      "line": 24,
       "id": 117,
       "date": "17/01",
       "type": "enigma",
       "text": "Trouvez l'intrus :\nALLELUIA\nCALQUE\nARRIERE\nBAOBAB\n",
-      "answer": "> CALQUE"
+      "answer": "CALQUE"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 32,
+      "line": 33,
       "id": 119,
       "date": "19/01",
       "type": "enigma",
       "text": "Vous aurez beau m'ôter une, plusieurs ou même toutes mes lettres, je ne changerai pas.\nQui suis-je ?\n",
-      "answer": "> Je suis une boîte aux lettres."
+      "answer": "Je suis une boîte aux lettres."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 38,
+      "line": 39,
       "id": 120,
       "date": "20/01",
       "type": "enigma",
       "text": "Quel nombre complète logiquement cette série ?\n41 67 19 11 ??\n73, 45 ou 63 ?\n",
-      "answer": "> 73"
+      "answer": "73"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 45,
+      "line": 46,
       "id": 121,
       "date": "21/01",
       "type": "enigma",
       "text": "Léa se demande où est Sacha lorsqu'elle découvre ce message :\nGÉTHTDCD\nQue doit-elle comprendre ?\n",
-      "answer": "> J'ai été acheté des CD"
+      "answer": "J'ai été acheté des CD"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 52,
+      "line": 53,
       "id": 122,
       "date": "22/01",
       "type": "enigma",
       "text": "Lucie a deux boîtes à bijoux et trois bagues, qu'elle souhaite ranger dedans.\nSupersitieuse, elle veut que chacune des boîtes contienne un nombre impair de bagues.\nComment peut-elle s'y prendre ?\n",
-      "answer": "> Elle place 3 bagues dans une boîte et place cette boîte dans l'autre."
+      "answer": "Elle place 3 bagues dans une boîte et place cette boîte dans l'autre."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 59,
+      "line": 60,
       "id": 123,
       "date": "23/01",
       "type": "enigma",
       "text": "Mon premier ajouté à mon troisième fait rire les jeunes enfants.\nMon deuxième est loupé.\nMon tout est sportif.\n",
-      "answer": "> Karatéka"
+      "answer": "Karatéka"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 66,
+      "line": 67,
       "id": 124,
       "date": "24/01",
       "type": "enigma",
       "text": "Chaque jour, je tombe, sans jamais me faire mal.\nQui suis-je ?\n",
-      "answer": "> La nuit"
+      "answer": "La nuit"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 72,
+      "line": 73,
       "id": 126,
       "date": "26/01",
       "type": "enigma",
       "text": "Si CANET vaut zéro, comme BOON.\nQue MERAD vaut un, comme DEMAISON.\nQue DEPARDIEU vaut deux, comme DUJARDIN.\nCombien vaut CORNILLAC ?\n",
-      "answer": "> Zéro (nombre de \"D\")"
+      "answer": "Zéro (nombre de \"D\")"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 80,
+      "line": 81,
       "id": 127,
       "date": "27/01",
       "type": "enigma",
       "text": "Jonas a quatre fois l'âge de Baptiste alors qu'il y a quatre ans, le ratio était deux fois plus important.\nQuel est l'âge de chacun ?\n",
-      "answer": "> 28 et 7"
+      "answer": "28 et 7"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 86,
+      "line": 87,
       "id": 128,
       "date": "28/01",
       "type": "enigma",
       "text": "Combien obtient-on en multipliant tous les nombres de 0 à 100 ?\n",
-      "answer": "> 0"
+      "answer": "0"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 91,
+      "line": 92,
       "id": 129,
       "date": "29/01",
       "type": "enigma",
       "text": "Je ne fais jamais défaut à celui qui me donne.\nJe n'appartiens à personne même si l'on cherche souvent à m'avoir.\nQui suis-je ?\n",
-      "answer": "> L'heure"
+      "answer": "L'heure"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 98,
+      "line": 99,
       "id": 130,
       "date": "30/01",
       "type": "enigma",
       "text": "Un inspecteur arrive sur une scène de crime et découvre le corps d'une femme pieds nus, une rose, entre les dents, tenant une louche dans sa main gauche et un roi de pique dans sa main droite.\nQui de David Froment, Alex Martin ou Charles Thiébaut est probablement coupable ?\n",
-      "answer": "> Le coupable est probablement David Froment, carte roi de pique se prénomme David"
+      "answer": "Le coupable est probablement David Froment, carte roi de pique se prénomme David"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 104,
+      "line": 105,
       "id": 131,
       "date": "31/01",
       "type": "enigma",
       "text": "Combien de combinaisons sont possibles pour constituer une file indienne de huit enfants ?\n",
-      "answer": "> 8!"
+      "answer": "8!"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 109,
+      "line": 110,
       "id": 201,
       "date": "01/02",
       "type": "enigma",
       "text": "Fille des arts, je prolonge la vie.\nPlus je vieillis, plus mon sujet semble avoir rajeuni.\nQui suis-je ?\n",
-      "answer": "> Une photographie"
+      "answer": "Une photographie"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 116,
+      "line": 117,
       "id": 202,
       "date": "02/02",
       "type": "enigma",
       "text": "Complétez l'équation pour qu'elle soit vraie.\n4 4 4 4 = 10\n",
-      "answer": "> (4 4 - 4) / 4 = 10"
+      "answer": "(4 4 - 4) / 4 = 10"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 122,
+      "line": 123,
       "id": 203,
       "date": "03/02",
       "type": "enigma",
       "text": "Ôtez un vêtement, il restera une chaussure.\nP E S O I U G N L I O E R I R\n",
-      "answer": "> PEIGNOIR SOULIER"
+      "answer": "PEIGNOIR SOULIER"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 128,
+      "line": 129,
       "id": 204,
       "date": "04/02",
       "type": "enigma",
       "text": "Trouvez l'intrus.\nTACITURNE\nATRABILAIRE\nÉLÉGIAQUE\nMORBIDE\n",
-      "answer": "> MORBIDE (tous les autres sont des synonymes de triste)"
+      "answer": "MORBIDE (tous les autres sont des synonymes de triste)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 137,
+      "line": 138,
       "id": 205,
       "date": "05/02",
       "type": "enigma",
       "text": "Corrigez cette égalité en ne déplaçant qu'une seule barre.\nXII + XII = XIX\n",
-      "answer": "> XII + VII = XIX"
+      "answer": "XII + VII = XIX"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 143,
+      "line": 144,
       "id": 206,
       "date": "06/02",
       "type": "enigma",
       "text": "Camille, Léna et Louise se promènent. Léna marche devant sa soeur Louise, elle-même la soeur de Camille, qui n'est pas la soeur de Léna.\nComment l'expliquer ?\n",
-      "answer": "> Camille est un garçon"
+      "answer": "Camille est un garçon"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 149,
+      "line": 150,
       "id": 207,
       "date": "07/02",
       "type": "enigma",
       "text": "Miss France pèse 45 kilos plus un quart de son poids.\nCombien sa balance affiche-t-elle ?\n",
-      "answer": "> 60kg"
+      "answer": "60kg"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 155,
+      "line": 156,
       "id": 208,
       "date": "08/02",
       "type": "enigma",
       "text": "Qu'est-ce qui fait un lien entre les Dalton, les points cardinaux et les saisons ?\n",
-      "answer": "> 4"
+      "answer": "4"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 160,
+      "line": 161,
       "id": 210,
       "date": "10/02",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\nLUNDI\nJEUDI\nMARDI\nMERCREDI\nJEUDI\nVENDREDI\nJEUDI\nSAMEDI\nDIMANCHE\nJEUDI\n",
-      "answer": "> La semaine des quatres jeudis"
+      "answer": "La semaine des quatres jeudis"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 175,
+      "line": 176,
       "id": 211,
       "date": "11/02",
       "type": "enigma",
       "text": "Mon premier est vide, mais il possède un fond.\nMon deuxième, tout homme est couvert.\nPlus d'un corps forme mon tout, qui ne forme qu'un seul corps.\n",
-      "answer": "> Troupeau (trou peau)"
+      "answer": "Troupeau (trou peau)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 182,
+      "line": 183,
       "id": 212,
       "date": "12/02",
       "type": "enigma",
       "text": "Résolvez cette addition, sachant qu'un symbol correspond toujours au même chiffre.\n&*¤\n+  ¤&*\n+ *&¤¤\n+ &*&¤\n= ¤**&\n",
-      "answer": "> &=5 *=1 ¤=8"
+      "answer": "&=5 *=1 ¤=8"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 192,
+      "line": 193,
       "id": 213,
       "date": "13/02",
       "type": "enigma",
       "text": "On demande à une personne de tirer une carte dans un jeu de 32 cartes.\nLa carte est remise dans le jeu, puis on recommence avec une autre personne.\nQuelle est la probabilité, en pourcentage, pour que les deux personnes tirent la même carte ?\n",
-      "answer": "> 1/32"
+      "answer": "1/32"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 199,
+      "line": 200,
       "id": 214,
       "date": "14/02",
       "type": "enigma",
       "text": "Je fixe les pensées et fige la parole,\nJe guéris les malades, ressuscite les morts,\nJe révèle les secrets, sans que les mots s'envolent,\nJe peux parler aux sourds avec tout mon corps.\nQui suis-je ?\n",
-      "answer": "> L'écriture"
+      "answer": "L'écriture"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 208,
+      "line": 209,
       "id": 215,
       "date": "15/02",
       "type": "enigma",
       "text": "Le légiste est formel : le meurtre a eu lieu à 2 heures du matin.\nPour cette heure-là, le principal suspect dispose d'un alibi incontestable.\nCela n'empêche pas l'inspecteur de le placer en garde à vue.\nPourquoi ?\n",
-      "answer": "> Passage à l'heure d'hiver"
+      "answer": "Passage à l'heure d'hiver"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 216,
+      "line": 217,
       "id": 216,
       "date": "16/02",
       "type": "enigma",
       "text": "Quel nombre complète logiquement cette série ?\n64 97 53 86 ??\n51, 42 ou 74 ?\n",
-      "answer": "> 42 (diff de 2 au sein des nombres)"
+      "answer": "42 (diff de 2 au sein des nombres)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 223,
+      "line": 224,
       "id": 217,
       "date": "17/02",
       "type": "enigma",
       "text": "Peu inspirée par son devoir de philo, Tiphaine écrit :\nLNAVGTOPIDID\nC'est à dire ?\n",
-      "answer": "> Hélèna végétait au pays des idées"
+      "answer": "Hélèna végétait au pays des idées"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 230,
+      "line": 231,
       "id": 218,
       "date": "18/02",
       "type": "enigma",
       "text": "Il est rare que les enfants m'aiment,\nLes adultes eux-mêmes me redoutent parfois,\nJ'ai beau être une vieille dame,\nJe peux me vanter d'avoir toujours mes règles.\nQui quis-je ?\n",
-      "answer": "> Je suis la grammaire"
+      "answer": "Je suis la grammaire"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 239,
+      "line": 240,
       "id": 219,
       "date": "19/02",
       "type": "enigma",
       "text": "Que comprenez vous ?\nRISSEAU\t    VENT        PAR\n-------   ---------  ---------\nUN\t  S'ATTRAPE    PRISE\n",
-      "answer": "> Un souriceau s'attrape souvent par surprise"
+      "answer": "Un souriceau s'attrape souvent par surprise"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 247,
+      "line": 248,
       "id": 220,
       "date": "20/02",
       "type": "enigma",
       "text": "J'ai trois filles.\nCéline a trois ans de plus que Stéphanie,\nqui a cinq ans de plus que Claire,\nqui est trois fois moins agée que Céline.\nQuel est l'âge de chaque fille ?\n",
-      "answer": "> 12, 9 et 4"
+      "answer": "12, 9 et 4"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 256,
+      "line": 257,
       "id": 221,
       "date": "21/02",
       "type": "enigma",
       "text": "Doit-on dire \"la plupart des saumons est blanche\"\nou \"la plupart des saumons sont blancs\" ?\n",
-      "answer": "> Ni l'un ni l'autre, les saumons sont roses !"
+      "answer": "Ni l'un ni l'autre, les saumons sont roses !"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 262,
+      "line": 263,
       "id": 222,
       "date": "22/02",
       "type": "enigma",
       "text": "Quelle lettre complète logiquement cette série ?\nC G K O ??\nS, U ou V ?\n",
-      "answer": "> S"
+      "answer": "S"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 269,
+      "line": 270,
       "id": 223,
       "date": "23/02",
       "type": "enigma",
       "text": "Deux promoteurs lorgnent sur le même terrain.\nAlors qu'il sait que le vendeur ne supporte pas les pots-de-vin, l'un des deux lui fait parvenir un beau cadeau... et sans hésiter, le vendeur le choisit.\nPourquoi ?\n",
-      "answer": "> Il a envoyé le cadeau de la part de l'autre promoteur"
+      "answer": "Il a envoyé le cadeau de la part de l'autre promoteur"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 276,
+      "line": 277,
       "id": 224,
       "date": "24/02",
       "type": "enigma",
       "text": "Je suis toujours rose et fraîche,\nBien que retenue prisonnière d'un palais.\nJe peux être vivante ou morte,\nLorsque je suis bien pendue,\nJe disserte plus que jamais.\nQui suis-je ?\n",
-      "answer": "> La langue"
+      "answer": "La langue"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 286,
+      "line": 287,
       "id": 225,
       "date": "25/02",
       "type": "enigma",
       "text": "Pensant piéger son fils, un père lui dit qu'il ne l'autorisera à conduire sa voiture qu'autant de fois que le tiers de jours du reste de sa vie.\nComment le fils peut-il être sûr de respecter la consigne de alors qu'il ignore combien de temps il lui reste à vivre ?\n",
-      "answer": ">"
+      "answer": ""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 292,
+      "line": 293,
       "id": 227,
       "date": "27/02",
       "type": "enigma",
       "text": "Qu'obtient-on en ôtant le tiers de 9 à la moitié du triple de la racine carré de 4 ?\n",
-      "answer": "> 0"
+      "answer": "0"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 297,
+      "line": 298,
       "id": 228,
       "date": "28/02",
       "type": "enigma",
       "text": "Mon premier peut être poussé, dans la joie comme dans la peine.\nMon second vaut mieux qu'un toc.\nMon tout est parfois tatillon.\n",
-      "answer": "> Critique"
+      "answer": "Critique"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 304,
+      "line": 305,
       "id": 229,
       "date": "29/02",
       "type": "enigma",
       "text": "Comment obtenir 30 en multipliant 10 par 10 ?\n",
-      "answer": "> X X X"
+      "answer": "X X X"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 309,
+      "line": 310,
       "id": 301,
       "date": "01/03",
       "type": "enigma",
       "text": "Quel jour serons-nous après-demain, sachant que le dernier jour du week-end était deux jours après avant-hier\n",
-      "answer": "> Mardi"
+      "answer": "Mardi"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 314,
+      "line": 315,
       "id": 303,
       "date": "03/03",
       "type": "enigma",
       "text": "Quel est l'intrus ?\nJANVIER\nJUILLET\nOCTOBRE\nNOVEMBRE\n",
-      "answer": "> NOVEMBRE (8 lettres)"
+      "answer": "NOVEMBRE (8 lettres)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 323,
+      "line": 324,
       "id": 304,
       "date": "04/03",
       "type": "enigma",
       "text": "La capacité d'un bateau de croisière est de 300 passagers.\nCombien de personnes peut-il accueillir simultanément au maximum, sachant que le capitaine souhaite pouvoir diviser - en fonction des activités proposés - l'ensemble des passagers par groupes de 2, 3, 5, 6 ou 7 ?\n",
-      "answer": "> 210 personnes"
+      "answer": "210 personnes"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 329,
+      "line": 330,
       "id": 306,
       "date": "06/03",
       "type": "enigma",
       "text": "Sept véhicules commettent un excès de vitesse au même moment, sur la même route.\nPourtant, seul un conducteur est verbalisé.\nPourquoi ?\n",
-      "answer": "> C'est un camion qui transporte 6 voitures."
+      "answer": "C'est un camion qui transporte 6 voitures."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 336,
+      "line": 337,
       "id": 307,
       "date": "07/03",
       "type": "enigma",
       "text": "Un braqueur remplit deux mallettes de billets de 500 euros dérobés à la banque. Sa grande mallette peut contenir trois fois plus de billets que sa petite, qui peut en contenir 900.\nQuelle somme d'argent le braqueur peut-il emporter au maximum ?\n",
-      "answer": "> 1 800 000€"
+      "answer": "1 800 000€"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 342,
+      "line": 343,
       "id": 308,
       "date": "08/03",
       "type": "enigma",
       "text": "Si le fils de Julien, lui-même fils de Paul qui n'est pas mon frère,\nest le père de mon fils, quel est le lien de parenté entre Julien et l'homme que je suis ?\n",
-      "answer": "> Julien est mon père"
+      "answer": "Julien est mon père"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 348,
+      "line": 349,
       "id": 309,
       "date": "09/03",
       "type": "enigma",
       "text": "Mon premier peut être fait de sable.\nLe cow-boy manie mon deuxième, sans mettre les pieds sur mon troisième.\nMon quatrième est un heureux anglais.\nPeut être parce qu'il a apprécié mon tout.\n",
-      "answer": "> Thalassothérapie"
+      "answer": "Thalassothérapie"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 356,
+      "line": 357,
       "id": 310,
       "date": "10/03",
       "type": "enigma",
       "text": "Un bandit a enlevé une impératrice.\nIl n'acceptera de la relâcher qu'en échange de six outils, car alors la transaction sera équitable.\nQuels sont ces outils ?\nQui est l'impératrice ?\n",
-      "answer": "> Scies, Sissi"
+      "answer": "Scies, Sissi"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 364,
+      "line": 365,
       "id": 311,
       "date": "11/03",
       "type": "enigma",
       "text": "Je n'ai pas de bouche ni d'autre orifice.\nPourtant, je suis capable de me remplir et de me vider en même temps.\nQui suis-je ?\n",
-      "answer": "> Un sablier"
+      "answer": "Un sablier"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 371,
+      "line": 372,
       "id": 312,
       "date": "12/03",
       "type": "enigma",
       "text": "Quel nombre complète logiquement cette série ?\n143 78 182 26 ??\n64, 84 ou 91 ?\n",
-      "answer": "> 91 (mult de 13)"
+      "answer": "91 (mult de 13)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 378,
+      "line": 379,
       "id": 313,
       "date": "13/03",
       "type": "enigma",
       "text": "Corrigez cette égalité en ne déplaçant qu'une seule barre.\nXIV + XV = XXIV\n",
-      "answer": "> XIV + XV = XXIX"
+      "answer": "XIV + XV = XXIX"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 384,
+      "line": 385,
       "id": 314,
       "date": "14/03",
       "type": "enigma",
       "text": "Comment expliquer qu'en français,\nun mot de onze lettres toutes différentes soit introuvable ?\n",
-      "answer": "> Parce que ce mot est le mot \"introuvable\""
+      "answer": "Parce que ce mot est le mot \"introuvable\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 390,
+      "line": 391,
       "id": 315,
       "date": "15/03",
       "type": "enigma",
       "text": "Ôtez un arbre, il restera une fleur.\nPLTUALTAIPENE\n",
-      "answer": "> PLATANE TULIPE"
+      "answer": "PLATANE TULIPE"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 396,
+      "line": 397,
       "id": 316,
       "date": "16/03",
       "type": "enigma",
       "text": "Faites le calcul ligne par ligne\n1000\n+40\n+1000\n+30\n+1000\n+20\n+1000\n+10\n",
-      "answer": "> 4100"
+      "answer": "4100"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 409,
+      "line": 410,
       "id": 317,
       "date": "17/03",
       "type": "enigma",
       "text": "Changez de plateau trois poids pour équilibrer cette balance.\n|35|9|14|2|5|16|6| __ |12|22|7|3|15|\n",
-      "answer": "> 5, 7 et 16"
+      "answer": "5, 7 et 16"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 415,
+      "line": 416,
       "id": 318,
       "date": "18/03",
       "type": "enigma",
       "text": "Quelle plante courante se trouve aussi bien en ville qu'à la campagne,\nGrandit sans avoir besoin d'être arrosée,\nSe cache plus souvent qu'elle ne se montre,\nEst piétinée sans être écrasée ?\n",
-      "answer": "> La plante de pieds"
+      "answer": "La plante de pieds"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 423,
+      "line": 424,
       "id": 319,
       "date": "19/03",
       "type": "enigma",
       "text": "Un trader gagne 100 euros le premier jour du mois,\n200 le deuxième, 300 le troisème, etc.\nEst-il mieux ou moins payé que son collègue, qui gagne 750 euros chaque jour ?\n",
-      "answer": "> Oui bien mieux : 46 500 >> 22 500"
+      "answer": "Oui bien mieux : 46 500 >> 22 500"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 430,
+      "line": 431,
       "id": 321,
       "date": "21/03",
       "type": "enigma",
       "text": "Assez collet monté, on peut me trouver dans les bois et dans les énigmes.\nQui sui-je ?\n",
-      "answer": "> Un piège."
+      "answer": "Un piège."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 436,
+      "line": 437,
       "id": 322,
       "date": "22/03",
       "type": "enigma",
       "text": "ABC est un nombre impair.\nQuel est ce nombre sachant que :\nA + B + C = 10\nA + B = 3 (B + C)\nC + 1 = B\n",
-      "answer": "> 721"
+      "answer": "721"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 445,
+      "line": 446,
       "id": 323,
       "date": "23/03",
       "type": "enigma",
       "text": "Quelle lettre remplace logiquement le point d'interrogation ?\nL I A I\nB R R ?\n",
-      "answer": "> E (pour faire LIBRAIRE)"
+      "answer": "E (pour faire LIBRAIRE)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 452,
+      "line": 453,
       "id": 324,
       "date": "24/03",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\nDÉDIABLETAILS\n",
-      "answer": "> Le diable se cache dans les détails."
+      "answer": "Le diable se cache dans les détails."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 458,
+      "line": 459,
       "id": 325,
       "date": "25/03",
       "type": "enigma",
       "text": "Mon premier peut être d'école, quand il n'est pas d'urgence.\nMon tout dort dans mon second.\n",
-      "answer": "> Caniche"
+      "answer": "Caniche"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 464,
+      "line": 465,
       "id": 326,
       "date": "26/03",
       "type": "enigma",
       "text": "Monsieur et Madame Blanc ont cinq enfants :\nBéatrice, Loui, Anne, Nicolas et...\nPierre, Clément ou Gilles ?\n",
-      "answer": "> Clément (initiales)"
+      "answer": "Clément (initiales)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 471,
+      "line": 472,
       "id": 327,
       "date": "27/03",
       "type": "enigma",
       "text": "Combien de fois la petite et la grande aiguille d'une montre formeront-elles un angle droit entre deux et trois heures ?\n",
-      "answer": "> Deux fois"
+      "answer": "Deux fois"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 476,
+      "line": 477,
       "id": 328,
       "date": "28/03",
       "type": "enigma",
       "text": "Quel nombre est divisible par n'importe quel chiffre si on lui ajoute ce chiffre et qu'on soustrait 1 ?\n",
-      "answer": "> 1"
+      "answer": "1"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 481,
+      "line": 482,
       "id": 329,
       "date": "29/03",
       "type": "enigma",
       "text": "Ajourd'hui, un médecin spécialiste a soigné 15 patients.\nAucun ne l'a remercié.\nPourtant, tous étaient en âge et en état de le faire et aucun n'avait oublié son dentier.\nAlors pourquoi ?\n",
-      "answer": "> C'était un véto"
+      "answer": "C'était un véto"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 489,
+      "line": 490,
       "id": 330,
       "date": "30/03",
       "type": "enigma",
       "text": "Lorsque je ne suis pas quelqu'un, je suis masculin,\nLorsque je suis quelqu'un, je suis féminin\nOn dit de moi que je ne suis pas parfait,\nMais on peut faire des erreurs à mon sujet.\nQui suis-je ?\n",
-      "answer": "> Personne"
+      "answer": "Personne"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 498,
+      "line": 499,
       "id": 331,
       "date": "31/03",
       "type": "enigma",
       "text": "Quel mot pouvez-vous découvrir à partir de ces cinq termes ?\nCHOC\nCOUTURE\nMAMIE\nIRIS\nCANON\n",
-      "answer": "> CUMIN (lettres en double)"
+      "answer": "CUMIN (lettres en double)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 508,
+      "line": 509,
       "id": 402,
       "date": "02/04",
       "type": "enigma",
       "text": "Comment devez-vous vous y prendre pour obtenir 7 en divisant 12 par 2 ?\n",
-      "answer": "> Il faut écrire en chiffre romain et enlever la moitié inférieure des chiffres/lettres"
+      "answer": "Il faut écrire en chiffre romain et enlever la moitié inférieure des chiffres/lettres"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 513,
+      "line": 514,
       "id": 403,
       "date": "03/04",
       "type": "enigma",
       "text": "Quel est l'animal qui a le plus de dents ?\n",
-      "answer": "> La petite souris !"
+      "answer": "La petite souris !"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 518,
+      "line": 519,
       "id": 404,
       "date": "04/04",
       "type": "enigma",
       "text": "Jules souffle ses 30 bougies. Pour les consoler d'avoir pris un coup de vieux, Thomas lui dit :\n\"À une époque, tu étais deux fois plus vieux que moi. L'année suivante, tu n'étais plus qu'une fois et demie plus âgé. Je vais finir par de rattraper !\"\nQuel âge a Thomas ?\n",
-      "answer": "> 29 ans"
+      "answer": "29 ans"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 525,
+      "line": 526,
       "id": 405,
       "date": "05/04",
       "type": "enigma",
       "text": "Trouvez de quelle qualité un bon menteur doit faire preuve s'il souhaite être crédible.\nune lettre\n----------\nANSE\n",
-      "answer": "> Assurance"
+      "answer": "Assurance"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 533,
+      "line": 534,
       "id": 406,
       "date": "06/04",
       "type": "enigma",
       "text": "Y a-t-il plus de façons différentes de placer quatre personnes en rang ou en cercle ?\n",
-      "answer": "> En rang (24 positions contre 6)"
+      "answer": "En rang (24 positions contre 6)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 538,
+      "line": 539,
       "id": 407,
       "date": "07/04",
       "type": "enigma",
       "text": "Sur un plateau sont disposés 4 cakes au chocolat, 6 à la fraise, 3 au citron et 8 aux pommes.\nTous sont d'aspect identique.\nCombien devez-vous prendre de cakes au minimum pour être certain d'en avoir deux au chocolat ?\n",
-      "answer": "> 19"
+      "answer": "19"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 545,
+      "line": 546,
       "id": 408,
       "date": "08/04",
       "type": "enigma",
       "text": "Quel est le point commun entre BIDE, ECHO et DIX ?\n",
-      "answer": "> Ils ont un axe de symétrie"
+      "answer": "Ils ont un axe de symétrie"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 550,
+      "line": 551,
       "id": 409,
       "date": "09/04",
       "type": "enigma",
       "text": "Sauter mon premier est souvent risqué.\nMon deuxième est forcément sélectif.\nSans mon troisième, bonjour l'odeur.\nMon quatrième peut être de Corinthe.\nMon tout fait preuve d'attachement.\n",
-      "answer": "> Patriotisme"
+      "answer": "Patriotisme"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 559,
+      "line": 560,
       "id": 411,
       "date": "11/04",
       "type": "enigma",
       "text": "Trouvez l'intrus.\nCHOCOLAT\nBAOBAB\nCACAO\nKOALA\n",
-      "answer": "> CHOCOLAT (les autres ont 2 A et 1 O)"
+      "answer": "CHOCOLAT (les autres ont 2 A et 1 O)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 568,
+      "line": 569,
       "id": 412,
       "date": "12/04",
       "type": "enigma",
       "text": "Ôtez un vice, il restera une vertu.\nPRAUVDARENICECE\n",
-      "answer": "> AVARICE et PRUDENCE"
+      "answer": "AVARICE et PRUDENCE"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 574,
+      "line": 575,
       "id": 413,
       "date": "13/04",
       "type": "enigma",
       "text": "Qui vole ma queue, aussi modeste soit-elle, me vole tout entier.\nQui suis-je ?\n",
-      "answer": "> Boeuf (oeuf c'est la queue du mot)"
+      "answer": "Boeuf (oeuf c'est la queue du mot)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 580,
+      "line": 581,
       "id": 414,
       "date": "14/04",
       "type": "enigma",
       "text": "Le paradis malhonnête cache un poète.\nLequel ?\n",
-      "answer": "> Alphonse de Lamartine (anagramme)"
+      "answer": "Alphonse de Lamartine (anagramme)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 586,
+      "line": 587,
       "id": 415,
       "date": "15/04",
       "type": "enigma",
       "text": "Cent pièces d'or sont réparties en cinq sacs. Sachant que :\nsac1 + sac2 = 46\nsac2 + sac3 = 39\nsac3 + sac4 = 36\nsac4 + sac5 = 29\nCombien chaque sac contient-il de pièces ?\n",
-      "answer": "> sac1 : 32, sac2 : 14, sac3 : 25, sac4 : 11, sac5 18"
+      "answer": "sac1 : 32, sac2 : 14, sac3 : 25, sac4 : 11, sac5 18"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 596,
+      "line": 597,
       "id": 417,
       "date": "17/04",
       "type": "enigma",
       "text": "Utilisez une fois au maximum chaque opérateur pour que cette égalité soit juste.\nLes paranthèses sont permises.\n2 2 2 = 1\n",
-      "answer": "> 2 - (2 / 2) = 1"
+      "answer": "2 - (2 / 2) = 1"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 603,
+      "line": 604,
       "id": 418,
       "date": "18/04",
       "type": "enigma",
       "text": "Un jeune homme se vante auprès de ses amis de ses nombreuses conquêtes amoureuses.\nIl indique que toutes sauf trois sont blondes, toutes sauf trois sont rousses, toutes sauf trois sont brunes et toutes sauf trois son châtain.\nCombien de conquêtes a-t-il ?\n",
-      "answer": "> 4, une de chaque"
+      "answer": "4, une de chaque"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 610,
+      "line": 611,
       "id": 419,
       "date": "19/04",
       "type": "enigma",
       "text": "La girafe et l'éléphant n'en ont qu'un.\nLa cigogne n'en a pas, le zèbre non plus.\nLe koala, bien pourvu, en a deux, comme le panda.\nDe quoi s'agit-il ?\n",
-      "answer": "> La lettre A"
+      "answer": "La lettre A"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 618,
+      "line": 619,
       "id": 420,
       "date": "20/04",
       "type": "enigma",
       "text": "Sylvie affirme que Les Liaisons dangereuses comptent 22 lettres.\nHéloïse soutient que ce roman épistolaire en contient 175.\nQui a raison ?\n",
-      "answer": "> Les deux : lettres différentes dans le roman et nombre de lettres dans le titre"
+      "answer": "Les deux : lettres différentes dans le roman et nombre de lettres dans le titre"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 625,
+      "line": 626,
       "id": 422,
       "date": "22/04",
       "type": "enigma",
       "text": "Monsieur Seguin a attaché sa chèvre à une corde de 5 mètres.\nDès qu'il a le dos tourné, elle parvient à parcourir 10 mètres en ligne droite sans faire demi-tour.\nComment cela est-il possible ?\n",
-      "answer": "> La corde est pas attaché à autre chose."
+      "answer": "La corde est pas attaché à autre chose."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 632,
+      "line": 633,
       "id": 423,
       "date": "23/04",
       "type": "enigma",
       "text": "Bien souvent, on me possède sans le savoir.\nJe ne suis ni visible, ni palpable.\nMalheureux qui me devine, bienheureux qui m'ignore.\nPas besoin de se gratter le front pour découvrir l'affront que je marque.\n",
-      "answer": "> Les cornes (de cocu)"
+      "answer": "Les cornes (de cocu)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 640,
+      "line": 641,
       "id": 424,
       "date": "24/04",
       "type": "enigma",
       "text": "Qu'est-ce qui fait le lien entre un artichaut, Charles et l'amour ?\n",
-      "answer": "> Le coeur"
+      "answer": "Le coeur"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 645,
+      "line": 646,
       "id": 426,
       "date": "26/04",
       "type": "enigma",
       "text": "Remplacez les pointillés par la lettre qui convient.\nGV...OPIDLN\n",
-      "answer": "> Q (épeler)"
+      "answer": "Q (épeler)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 651,
+      "line": 652,
       "id": 427,
       "date": "27/04",
       "type": "enigma",
       "text": "Antoine parie 50 euros à Vincent qu'une pièce de cinq centimes jetée dans un sceau d'eau à 30 degrés atteindra plus vite le fond qu'une pièce de cinq centimes jetée dans un seau d'eau à 15 degrés.\nVincent doit-il accepter ?\n",
-      "answer": "> Non. La raison est nulle : Antoine parle en Fahrenheit..."
+      "answer": "Non. La raison est nulle : Antoine parle en Fahrenheit..."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 657,
+      "line": 658,
       "id": 428,
       "date": "28/04",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\nCOQÊTREUILLETTE\nCOQCOQUILLETTE\n",
-      "answer": "> Être comme coq en pâte"
+      "answer": "Être comme coq en pâte"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 664,
+      "line": 665,
       "id": 429,
       "date": "29/04",
       "type": "enigma",
       "text": "Qu'est-ce qui fait le plus monter le niveau de [l'eau] dans un seau où se trouve une coquille de noix :\nune bille de plomb mise dans la coquille ou une bille de plomb mise dans l'eau ?\n",
-      "answer": "> La bille dans la coquille car elle déplace son poids et non son volume."
+      "answer": "La bille dans la coquille car elle déplace son poids et non son volume."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 670,
+      "line": 671,
       "id": 430,
       "date": "30/04",
       "type": "enigma",
       "text": "Quel nombre complète logiquement cette série ?\n4 5 7 10 14 ??\n17, 20 ou 19\n",
-      "answer": "> 19"
+      "answer": "19"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 677,
+      "line": 678,
       "id": 501,
       "date": "01/05",
       "type": "enigma",
       "text": "Hier, je coulais,\nAujourd'hui pris, je flotte,\nEn ce que je fus,\nDans peu de temps,\nJe n'y paraîtrai plus.\nQui suis-je ?\n",
-      "answer": "> Je suis le glaçon"
+      "answer": "Je suis le glaçon"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 687,
+      "line": 688,
       "id": 502,
       "date": "02/05",
       "type": "enigma",
       "text": "Corrigez cette égalité en ne déplaçant qu'une seule barre.\nX - I = I\n",
-      "answer": "> I X I = I"
+      "answer": "I X I = I"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 693,
+      "line": 694,
       "id": 504,
       "date": "04/05",
       "type": "enigma",
       "text": "Une joueuse a trois cartes en main.\nReconstituez sa main, sachant qu'elle a :\n- un roi à droite d'un sept et un roi à gauche d'un roi.\n- un coeur à gauche d'un trèfle.\n- un coeur à droite d'un coeur.\n",
-      "answer": "> 7 de coeur, roi de coeur, roi de trèfle"
+      "answer": "7 de coeur, roi de coeur, roi de trèfle"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 702,
+      "line": 703,
       "id": 505,
       "date": "05/05",
       "type": "enigma",
       "text": "Quel jour étions-nous avant-hier sachant que le nom du jour d'hier ne comporte pas deux syllabes, que celui de demain en comporte trois et qu'hier nous étions plus près du week-end que du début de la semaine ?\n",
-      "answer": "> Mercredi"
+      "answer": "Mercredi"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 707,
+      "line": 708,
       "id": 506,
       "date": "06/05",
       "type": "enigma",
       "text": "Il fait beau, le soleil lui et Adèle, petite fille de 6 ans, s'amuse à marcher, les mains dans les poches, dans la neige fraîche, tombée cette nuit.\nLorsqu'elle se retourne, elle ne voit pas la trace de ses pas.\nPourquoi ?\n",
-      "answer": "> Elle marche à reculons."
+      "answer": "Elle marche à reculons."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 714,
+      "line": 715,
       "id": 509,
       "date": "09/05",
       "type": "enigma",
       "text": "Vous avez cinq morceaux de chaînes constituées chacune de quatre maillons. Combien de maillons devrez-vous couper puis ressouder au minimum pour obtenir une seule chaîne fermée ?\n",
-      "answer": "> Quatre (cela fonctionne si les quatres maillons proviennent du même morceau)"
+      "answer": "Quatre (cela fonctionne si les quatres maillons proviennent du même morceau)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 719,
+      "line": 720,
       "id": 510,
       "date": "10/05",
       "type": "enigma",
       "text": "Mon premier n'est ni vichy ni bayadère.\nMon deuxième est secondaire.\nUne Anglaise sert mon troisième à six amies.\nMon tout fait germer les esprits.\n",
-      "answer": "> Université"
+      "answer": "Université"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 727,
+      "line": 728,
       "id": 511,
       "date": "11/05",
       "type": "enigma",
       "text": "ABC est un nombre pair.\nQuel est ce nombre, sachant que :\nA + B + C = 9\nB + C = (A + C) / 2\nA - 3 = B\n",
-      "answer": "> 630"
+      "answer": "630"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 736,
+      "line": 737,
       "id": 512,
       "date": "12/05",
       "type": "enigma",
       "text": "Si ABRICOT vaut un, comme ANANAS\nQue CERISE vaut trois, comme CLEMENTINE,\nQue FRAISE vaut six, comme FRAMBOISE,\nCombien vaut KIWI ?\n",
-      "answer": "> 11"
+      "answer": "11"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 744,
+      "line": 745,
       "id": 513,
       "date": "13/05",
       "type": "enigma",
       "text": "Jeanne entre à la pâtisserie.\nElle dépense 4 euros de plus que la moitié de ce qu'elle a si bien qu'en sortant, il lui reste 6 euros de plus que le quart de ce qu'elle avait en arrivant.\nCombien avait-elle au départ ?\n",
-      "answer": "> 40€"
+      "answer": "40€"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 751,
+      "line": 752,
       "id": 514,
       "date": "14/05",
       "type": "enigma",
       "text": "Je ne suis pas si bête qu'on le dit,\nJe ne perds pas la tête,\nMême si j'en change souvent.\nQui suis-je ?\n",
-      "answer": "> Le pou"
+      "answer": "Le pou"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 759,
+      "line": 760,
       "id": 515,
       "date": "15/05",
       "type": "enigma",
       "text": "Ma mère m'a eu à 21 ans. Mon père avait alors 25 ans. Dans 10 ans, ils auront à eux deux le triple de l'âge que j'aurai.\nQuel est mon âge ?\n",
-      "answer": "> 36 ans"
+      "answer": "36 ans"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 765,
+      "line": 766,
       "id": 516,
       "date": "16/05",
       "type": "enigma",
       "text": "Émilie a des chats, des poules, des canards et au moins un mouton à cinq pattes. Cela représente 14 têtes et 45 pattes. Sachant qu'il y a deux fois plus de poules que de canards, dénombrez les animaux de chaque espèce.\n",
-      "answer": "> Émilie a 7 chats, 4 poules, 2 canards et 1 mouton à cinq pattes"
+      "answer": "Émilie a 7 chats, 4 poules, 2 canards et 1 mouton à cinq pattes"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 770,
+      "line": 771,
       "id": 517,
       "date": "17/05",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\nEDNOM\n",
-      "answer": "> C'est le monde à l'envers"
+      "answer": "C'est le monde à l'envers"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 776,
+      "line": 777,
       "id": 518,
       "date": "18/05",
       "type": "enigma",
       "text": "Quelle lettre complète logiquement cette série ?\nD R M F S ??\nL, T ou P ?\n",
-      "answer": "> L (initiale des notes de musique)"
+      "answer": "L (initiale des notes de musique)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 783,
+      "line": 784,
       "id": 520,
       "date": "20/05",
       "type": "enigma",
       "text": "Pleine de vigueur, je ne me déplace jamais durant ma jeunesse,\nCe n'est qu'une fois morte que je me mets à voyager.\nQui suis-je ?\n",
-      "answer": "> Une feuille d'arbre"
+      "answer": "Une feuille d'arbre"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 790,
+      "line": 791,
       "id": 521,
       "date": "21/05",
       "type": "enigma",
       "text": "Fleur est plus âgée que Julie.\nLola est née avant Julie, mais elle est plus jeune que Fleur, elle-même née après Camille.\nClassez les filles de la plus jeune à la plus âgée.\n",
-      "answer": "> Julie Lola Fleur Camille"
+      "answer": "Julie Lola Fleur Camille"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 797,
+      "line": 798,
       "id": 522,
       "date": "22/05",
       "type": "enigma",
       "text": "Un pirate a enfermé son trésor dans trois coffres cadenassés, chacun contenant trois coffres cadenassés, chacun contenant 10 diamants.\nIl a besoin de 55 diamants pour racheter son navire, qu'il a perdu au jeu.\nCombien de cadenas doit-il ouvrir ?\n",
-      "answer": "> 8"
+      "answer": "8"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 804,
+      "line": 805,
       "id": 523,
       "date": "23/05",
       "type": "enigma",
       "text": "Qui est, par rapport à ma mère, la fille de la mère de la fille de la mère de sa fille ?\n",
-      "answer": "> Sa fille"
+      "answer": "Sa fille"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 809,
+      "line": 810,
       "id": 524,
       "date": "24/05",
       "type": "enigma",
       "text": "Mon premier parfois, surpasse la figure.\nDe mon deuxième point n'en faut.\nMon troisième est un repaire de fées.\nPour connaître mon tout, regardez le ciel.\n",
-      "answer": "> Astrologie (as trop logie)"
+      "answer": "Astrologie (as trop logie)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 817,
+      "line": 818,
       "id": 525,
       "date": "25/05",
       "type": "enigma",
       "text": "Cyrille, une pâtissère, a fait tomber la pièce montée qu'elle devait livrer. Il faut recommencer.\nSachant qu'avec l'aide de Marion, il lui faudrait 1h12 pour la refaire, qu'aidé de Laure elle mettrait 1h30 et que Marion et Laure auraient besoin de 2h à elles deux, combien de temps mettront-elles à trois ?\n",
-      "answer": "> 1h"
+      "answer": "1h"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 823,
+      "line": 824,
       "id": 526,
       "date": "26/05",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\nCANINEMOLAIREINCISIVEPREMOLAIRE\n",
-      "answer": "> Serrer les dents"
+      "answer": "Serrer les dents"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 829,
+      "line": 830,
       "id": 527,
       "date": "27/05",
       "type": "enigma",
       "text": "Changer de plateau 3 poids pour équilibrer cette balance.\n|    2\n18_12 |   8_3\n17_5_4 | 9_16_10\n",
-      "answer": "> Les poids 3, 10 et 17"
+      "answer": "Les poids 3, 10 et 17"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 837,
+      "line": 838,
       "id": 528,
       "date": "28/05",
       "type": "enigma",
       "text": "Rosalie a acheté deux meubles pour 1010 €. Sachant que le canapé coûtait 100 € de plus que la commode, combien chaque meuble a-t-il coûté ?\n",
-      "answer": "> 555€ et 465€ respectivement"
+      "answer": "555€ et 465€ respectivement"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 842,
+      "line": 843,
       "id": 529,
       "date": "29/05",
       "type": "enigma",
       "text": "Quelle promesse le soigneur cache-t-il en son nom ?\n",
-      "answer": "> La guérison (anagramme)"
+      "answer": "La guérison (anagramme)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 847,
+      "line": 848,
       "id": 530,
       "date": "30/05",
       "type": "enigma",
       "text": "Touche touche pas,\ntouche pas touche.\nQu'est-ce qui touche et pourquoi ?\n",
-      "answer": "> Ce sont les lèvres"
+      "answer": "Ce sont les lèvres"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 854,
+      "line": 855,
       "id": 531,
       "date": "31/05",
       "type": "enigma",
       "text": "Docteur No retient Jame Bond prisonnier.\nIl lui dit : \"Voici quatre gélules d'aspect identique.\nDeux sont le poison, deux sont l'antidote.\nChoisi bien, tu dois impérativement en avaler deux.\"\nComment 007 peut-il s'y prendre pour rester en vie à coup sûr ?\n",
-      "answer": "> Il sépare chaque gélule en deux et avale une moitié de chaque."
+      "answer": "Il sépare chaque gélule en deux et avale une moitié de chaque."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 863,
+      "line": 864,
       "id": 601,
       "date": "01/06",
       "type": "enigma",
       "text": "Les sept nains ont décidé de se séparer.\nIls se serrent la main pour se dire au revoir.\nCombien cela représente-t-il de poignées de mains ?\n",
-      "answer": "> (7*(7-1)/2 = 21"
+      "answer": "(7*(7-1)/2 = 21"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 870,
+      "line": 871,
       "id": 602,
       "date": "02/06",
       "type": "enigma",
       "text": "Ôtez un métier, il restera un loisir :\nLBEOCUCTHUERRE\n",
-      "answer": "> BOUCHER LECTURE"
+      "answer": "BOUCHER LECTURE"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 876,
+      "line": 877,
       "id": 603,
       "date": "03/06",
       "type": "enigma",
       "text": "Trouvez l'intrus :\n29 novembre 1192\n12 juillet 1854\n10 février 2001\n",
-      "answer": "> 12 juillet 1854, les autres peuvent se lire dans l'autre sens"
+      "answer": "12 juillet 1854, les autres peuvent se lire dans l'autre sens"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 884,
+      "line": 885,
       "id": 604,
       "date": "04/06",
       "type": "enigma",
       "text": "Je suis toujours le premier,\nJamais le dernier.\nSans moi, il ne peut être de fin.\nAvant tout, je suis...\n",
-      "answer": "> Le début"
+      "answer": "Le début"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 892,
+      "line": 893,
       "id": 605,
       "date": "05/06",
       "type": "enigma",
       "text": "Luc, 91 kg, Henri, 75 kg, et Robert, 66 kg, doivent traverser une rivière.\nIls disposent d'une barque, qui ne supportera pas plus de 150 kg.\nComment les trois hommes peuvent-ils faire pour traverser ?\n",
-      "answer": "> Henri + Robert > Henri ou Robert (HoR) > Luc > RoH > H + R"
+      "answer": "Henri + Robert > Henri ou Robert (HoR) > Luc > RoH > H + R"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 899,
+      "line": 900,
       "id": 607,
       "date": "07/06",
       "type": "enigma",
       "text": "Trois collégiens se présentent aux élections de délégué de classe.\nLe vainqueur devra avoir plus de voix que les deux autres réunis.\nSachant que chacun des 30 élèves de la classe vote pour un candidat, combien faut-il de voix au minimum à un candidat pour être élu ?\n",
-      "answer": "> 15"
+      "answer": "15"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 906,
+      "line": 907,
       "id": 608,
       "date": "08/06",
       "type": "enigma",
       "text": "Mon premier est troué par mon deuxième.\nMon troisième tient la main au panier.\nMon tout a de la constance.\n",
-      "answer": "> Persévérance"
+      "answer": "Persévérance"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 913,
+      "line": 914,
       "id": 609,
       "date": "09/06",
       "type": "enigma",
       "text": "Qu'obtient-on en ajoutant la moitié de la moitié du quart de 16 au triple du quart de 12, et en multipliant le résultat par un dixième ?\n",
-      "answer": "> 1"
+      "answer": "1"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 918,
+      "line": 919,
       "id": 610,
       "date": "10/06",
       "type": "enigma",
       "text": "Souvent encerclé, je suis coincé entre un plus court mais plus long que moi et un plus long mais plus court que moi.\nQui suis-je ?\n",
-      "answer": "> Je suis l'annulaire"
+      "answer": "Je suis l'annulaire"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 924,
+      "line": 925,
       "id": 611,
       "date": "11/06",
       "type": "enigma",
       "text": "Quelle immense toile se cache en ces mots ?\n\"Au-delà de la démesure !\"\n",
-      "answer": "> Le Radeau de la Méduse (anagramme)"
+      "answer": "Le Radeau de la Méduse (anagramme)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 930,
+      "line": 931,
       "id": 612,
       "date": "12/06",
       "type": "enigma",
       "text": "Un homme prétend avoir retrouvé intact, pris dans des glaces, le cadavre d'Ève, la première femme.\nComment prouver facilement que c'est un imposteur ?\n",
-      "answer": "> Si le cadavre à un nombril ce n'est pas Ève"
+      "answer": "Si le cadavre à un nombril ce n'est pas Ève"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 936,
+      "line": 937,
       "id": 613,
       "date": "13/06",
       "type": "enigma",
       "text": "Il faut 15 minutes à Emma pour dénoyauter 1 kg de cerises, alors qu'Astrid n'en a besoin que de 10.\nCombien de temps leur faut-il si elles s'y mettent à deux ?\n",
-      "answer": "> 6 min"
+      "answer": "6 min"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 942,
+      "line": 943,
       "id": 614,
       "date": "14/06",
       "type": "enigma",
       "text": "Placez correctement les opérateurs de votre choix pour que cette égalité soit juste.\nLes parenthèses sont permises.\n5 5 5 5 5 = 1\n",
-      "answer": "> 55 / 5 - 5 -5 = 1"
+      "answer": "55 / 5 - 5 -5 = 1"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 949,
+      "line": 950,
       "id": 615,
       "date": "15/06",
       "type": "enigma",
       "text": "Titouan dit :\n- Si tu me donnais deux billes, j'en aurais trois fois plus que toi.\nTim répond :\n- Si toi tu m'en donnais deux, nous en aurions le même nombre.\nCombien chacun possède-t-il de billes ?\n",
-      "answer": "> Titouan en a 10 et Tim 6"
+      "answer": "Titouan en a 10 et Tim 6"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 958,
+      "line": 959,
       "id": 616,
       "date": "16/06",
       "type": "enigma",
       "text": "Prenez mon sextuple, ôtez la moitié de 120 et vous trouverez le double de 3.\nQuel nombre suis-je ?\n",
-      "answer": "> 11"
+      "answer": "11"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 964,
+      "line": 965,
       "id": 617,
       "date": "17/06",
       "type": "enigma",
       "text": "- Je te parie, dit Manon, que je peux enfoncer une aiguille dans un ballon de baudruche gonflé et fermé sans le faire exploser.\n- Pari tenu, dit Caroline.\nComment Manon doit-elle s'y prendre pour réussir ?\n",
-      "answer": "> Elle met un morceau de ruban adhésif avant de percer."
+      "answer": "Elle met un morceau de ruban adhésif avant de percer."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 971,
+      "line": 972,
       "id": 618,
       "date": "18/06",
       "type": "enigma",
       "text": "Après une course, un marathonien appelle sa mère pour lui faire part de ses résultats :\n- Je suis le premier à avoir franchi la ligne d'arrivée.\n- Quoi ! Tu as gagné ?\n- Non.\n- Tu as été disqualifié ?\n- Non plus.\nMais alors ?\n",
-      "answer": "> Il \"suit\" le premier, il ne l'\"est\" pas."
+      "answer": "Il \"suit\" le premier, il ne l'\"est\" pas."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 982,
+      "line": 983,
       "id": 619,
       "date": "19/06",
       "type": "enigma",
       "text": "Plus j'ai de gardiens,\nmoins je suis gardé.\nMoins j'ai de gardiens,\nplus je suis gardé.\nQui suis-je ?\n",
-      "answer": "> Je suis un secret"
+      "answer": "Je suis un secret"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 991,
+      "line": 992,
       "id": 621,
       "date": "21/06",
       "type": "enigma",
       "text": "Quelle lettre complète logiquement cette série ?\nA H I M ?\nO, P ou Q ?\n",
-      "answer": ">"
+      "answer": ""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 998,
+      "line": 999,
       "id": 623,
       "date": "23/06",
       "type": "enigma",
       "text": "Un grand couturier est complètement \"en vrac\", car sa dernière collection n'a pas marché.\nDe qui s'agit-il ?\n",
-      "answer": "> Carven (anagramme)"
+      "answer": "Carven (anagramme)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1004,
+      "line": 1005,
       "id": 624,
       "date": "24/06",
       "type": "enigma",
       "text": "Mon premier peut être dur à passer.\nMon deuxième est parfois mené à la baguette.\nMon troisième ne se trouve pas sur Terre.\nMon tout sait ce qu'il veut et le fait savoir.\n",
-      "answer": "> Capricieux"
+      "answer": "Capricieux"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1012,
+      "line": 1013,
       "id": 625,
       "date": "25/06",
       "type": "enigma",
       "text": "Je suis commun aux yeux, aux oreilles, aux sourcils.\nJe double tout et tout le monde, mais je me fais doubler aussi.\nVous me trouverez au début de l'année et à la fin de décembre.\nQui suis-je ?\n",
-      "answer": "> Le chiffre 2 (année : 2000, mois n°12)"
+      "answer": "Le chiffre 2 (année : 2000, mois n°12)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1020,
+      "line": 1021,
       "id": 626,
       "date": "26/06",
       "type": "enigma",
       "text": "Sarah veut perdre 15 kg, mais elle a du mal à suivre rigoureusement son régime.\nUne semaine, elle parvient à perdre 3 kg, la semaine suivante elle en reprend 1.\nAu bout de combien de temps parviendra-t-elle à son objectif ?\n",
-      "answer": "> 13 semaines"
+      "answer": "13 semaines"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1027,
+      "line": 1028,
       "id": 627,
       "date": "27/06",
       "type": "enigma",
       "text": "Corrigez cette égalité en ne déplaçant qu'une seule barre.\nVII=I\n",
-      "answer": "> racine_carré(I) = I"
+      "answer": "racine_carré(I) = I"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1033,
+      "line": 1034,
       "id": 628,
       "date": "28/06",
       "type": "enigma",
       "text": "Maxime peut acheter 5 sucettes et 3 caramels pour 3,40 € ou 3 sucettes et 5 caramels pour 3 €.\nCombien coûte un caramel ? et une sucette ?\n",
-      "answer": "> Une sucette coûte 50 centimes et un caramel 30 centimes"
+      "answer": "Une sucette coûte 50 centimes et un caramel 30 centimes"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1039,
+      "line": 1040,
       "id": 629,
       "date": "29/06",
       "type": "enigma",
       "text": "Deux personnes regardent dans deux directions opposées, l'une vers le nord, l'autre vers le sud.\nPourtant, elles parviennent à se voir, sans avoir besoin de miroir ni sans se retourner.\nComment est-ce possible ?\n",
-      "answer": "> Elles sont l'une en face de l'autre"
+      "answer": "Elles sont l'une en face de l'autre"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1046,
+      "line": 1047,
       "id": 630,
       "date": "30/06",
       "type": "enigma",
       "text": "Si FROT vaut un, comme DARC.\nQue BAERT vaut deux, comme TESTUD.\nQue DENEUVE vaut trois et que TAUTOU vaut quatre.\nCombien vaut MARCEAU ?\n",
-      "answer": "> 4 (nombre de voyelles)"
+      "answer": "4 (nombre de voyelles)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1054,
+      "line": 1055,
       "id": 701,
       "date": "01/07",
       "type": "enigma",
       "text": "Placez correctement les opérateurs de votre choix pour que cette égalité soit juste.\nLes parenthèses sont permises.\n6 6 6 6 6 = 1\n",
-      "answer": "> (6 + 6) + 6 - 6 = 1"
+      "answer": "(6 + 6) + 6 - 6 = 1"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1061,
+      "line": 1062,
       "id": 702,
       "date": "02/07",
       "type": "enigma",
       "text": "Il reste dix chips dans le paquet.\nÇa tombe bien, Lola et ses amis sont cinq, ça en fera deux chacun.\nComment faire un partage équitable, sachant qu'après la répartition il doit rester une chips dans le paquet ?\n",
-      "answer": "> Chacun en prend deux sauf la dernière personne qui en prend une puis le paquet"
+      "answer": "Chacun en prend deux sauf la dernière personne qui en prend une puis le paquet"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1068,
+      "line": 1069,
       "id": 703,
       "date": "03/07",
       "type": "enigma",
       "text": "Quel nombre complète logiquement cette série ?\n489 367 841 529 ???\n753, 349 ou 407 ?\n",
-      "answer": "> 407 (chiffre du milieu)"
+      "answer": "407 (chiffre du milieu)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1075,
+      "line": 1076,
       "id": 704,
       "date": "04/07",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\n15 kilos\n69 kilos\n1,30 mètre\n4 décimètres\n",
-      "answer": "> Faire deux poids, deux mesures"
+      "answer": "Faire deux poids, deux mesures"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1084,
+      "line": 1085,
       "id": 706,
       "date": "06/07",
       "type": "enigma",
       "text": "Nuisible sur six pattes,\nje suis utiles au typographe et à l'informaticien lorsque j'en suis dépourvu.\nQui suis-je ?\n",
-      "answer": "> La puce"
+      "answer": "La puce"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1091,
+      "line": 1092,
       "id": 707,
       "date": "07/07",
       "type": "enigma",
       "text": "Quel jour étions-nous hier, sachant que demain ne sera ni la veille ni le premier jour du week-end,\nque le nom d'ajourd'hui ne commence pas par un \"M\",\nqu'hier, nous n'étions pas dimanche, et que demain, je commence les cours à 8h ?\n",
-      "answer": "> Hier était samedi"
+      "answer": "Hier était samedi"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1098,
+      "line": 1099,
       "id": 708,
       "date": "08/07",
       "type": "enigma",
       "text": "Éva plonge un oeuf cru dans un verre d'eau.\nIl coule. Comment peut-elle s'y prendre pour faire flotter l'oeuf sans y toucher ?\n",
-      "answer": "> Saler l'eau"
+      "answer": "Saler l'eau"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1104,
+      "line": 1105,
       "id": 709,
       "date": "09/07",
       "type": "enigma",
       "text": "Quel nombre complète logiquement la dernière égalité ?\n1 x 1     = 1\n11 x 11    = 121\n111 x 111   = 12321\n1111 x 1111  = 1234321\n11111 x 111111 = ?\n",
-      "answer": "> 1234554321"
+      "answer": "1234554321"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1114,
+      "line": 1115,
       "id": 710,
       "date": "10/07",
       "type": "enigma",
       "text": "Un touriste dépense 50 dinars dans la première boutique du souk, puis double ses dépenses dans chaque nouvelle boutiques.\nDans combien de boutiques peut-il faire des achats sachant qu'il a 10 000 dinars dans son portefeuille ?\n",
-      "answer": "> 8 boutiques"
+      "answer": "8 boutiques"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1120,
+      "line": 1121,
       "id": 712,
       "date": "12/07",
       "type": "enigma",
       "text": "Les mystères du couple sont impénétrables.\nPourtant, il est une chose que l'on rencontre toujours entre mari et femme.\nDe quoi s'agit-il ?\n",
-      "answer": "> Le mot \"et\""
+      "answer": "Le mot \"et\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1127,
+      "line": 1128,
       "id": 713,
       "date": "13/07",
       "type": "enigma",
       "text": "Il y a un problème de taille dans cette égalité ! Lequel ?\n1 = 32 - 23\n",
-      "answer": "> Certains chiffres sont des exposants : 1 = 3^2 - 2^3"
+      "answer": "Certains chiffres sont des exposants : 1 = 3^2 - 2^3"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1133,
+      "line": 1134,
       "id": 714,
       "date": "14/07",
       "type": "enigma",
       "text": "Quelle capitale africaine vaut bien un festin ?\n",
-      "answer": "> Alger (anagramme de régal)"
+      "answer": "Alger (anagramme de régal)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1138,
+      "line": 1139,
       "id": 715,
       "date": "15/07",
       "type": "enigma",
       "text": "Le fils de cet homme est le père du fils de l'homme que je suis.\nQui est cet homme par rapport à ma femme ?\n",
-      "answer": "> Son beau père"
+      "answer": "Son beau père"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1144,
+      "line": 1145,
       "id": 716,
       "date": "16/07",
       "type": "enigma",
       "text": "Quel nombre complète logiquement la dernière égalité ?\n583 = 2    511 = 0\n774 = 1    127 = 0\n200 = 2    882 = 4\n986 = 4    205 = ?\n",
-      "answer": "> 1 (nombre de boucles fermées dans chaque chiffre)"
+      "answer": "1 (nombre de boucles fermées dans chaque chiffre)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1153,
+      "line": 1154,
       "id": 717,
       "date": "17/07",
       "type": "enigma",
       "text": "Une boîte à bonbons remplie pèse 1,1kg.\nDurant l'anniversaire de Côme, les enfant mangent les trois quarts des bonbons et la boîte ne pèse plus que 500g.\nCombien pèse la boîte vide ?\n",
-      "answer": "> 300g"
+      "answer": "300g"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1160,
+      "line": 1161,
       "id": 718,
       "date": "18/07",
       "type": "enigma",
       "text": "Un cordonnier sans sa tête ne vaut presque rien.\nPourquoi ?\n",
-      "answer": "> Si on enlève CORDON, qui est la tête de CORDONNIER, on obitent une anagramme de RIEN."
+      "answer": "Si on enlève CORDON, qui est la tête de CORDONNIER, on obitent une anagramme de RIEN."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1166,
+      "line": 1167,
       "id": 720,
       "date": "20/07",
       "type": "enigma",
       "text": "Corrigez cette égalité en ne déplaçant qu'une seule barre.\nXXI + IV + XI = XXVII\n",
-      "answer": "> XXI - IV + XI = XXVII"
+      "answer": "XXI - IV + XI = XXVII"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1172,
+      "line": 1173,
       "id": 721,
       "date": "21/07",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\nMARIENINS\nPORIENCHES\n",
-      "answer": "> \"Rien dans les mains, rien dans les poches\""
+      "answer": "\"Rien dans les mains, rien dans les poches\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1179,
+      "line": 1180,
       "id": 722,
       "date": "22/07",
       "type": "enigma",
       "text": "Je suis en châtaigner mais en érable.\nEn caoutchouc mais pas en plastique.\nSans moi, vous ne pouvez avoir l'heure, même si le temps se passe de moi.\nQui suis-je ?\n",
-      "answer": "> La lettre h"
+      "answer": "La lettre h"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1187,
+      "line": 1188,
       "id": 723,
       "date": "23/07",
       "type": "enigma",
       "text": "Un homme menotté se présente chez un serrurier pour qu'il le libère.\n\"Donnez-moi cent euros et je vous en soulage.\" propose le serrurier\nL'homme accepte mais, en ressortant, furieux, il est toujours menotté.\nPourquoi ?\n",
-      "answer": "> Le serrurier l'a soulagé des euros pas des menottes."
+      "answer": "Le serrurier l'a soulagé des euros pas des menottes."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1195,
+      "line": 1196,
       "id": 724,
       "date": "24/07",
       "type": "enigma",
       "text": "Qu'est-ce qui fait le lien entre Ronsard, Rosette et paradis ?\n",
-      "answer": "> Le mot pierre"
+      "answer": "Le mot pierre"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1200,
+      "line": 1201,
       "id": 725,
       "date": "25/07",
       "type": "enigma",
       "text": "Rien à changer, rien à ôter à cette égalité :\n12 + 1 = 1\nComment l'expliquer ?\n",
-      "answer": "> C'est des heures"
+      "answer": "C'est des heures"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1207,
+      "line": 1208,
       "id": 726,
       "date": "26/07",
       "type": "enigma",
       "text": "De quelle personnalité politique française pourrait-on dire :\n\"voilà le joli pinson\" ?\n",
-      "answer": "> Lionel Jospin (c'est un anagramme)"
+      "answer": "Lionel Jospin (c'est un anagramme)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1213,
+      "line": 1214,
       "id": 727,
       "date": "27/07",
       "type": "enigma",
       "text": "Quel est l'intrus ?\n81  144  4  9\n",
-      "answer": "> 9 (c'est un cube les autres sont des carrés)"
+      "answer": "9 (c'est un cube les autres sont des carrés)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1219,
+      "line": 1220,
       "id": 728,
       "date": "28/07",
       "type": "enigma",
       "text": "Dans le Rhône, 11% des propriétaires de téléphone fixe ont un numéro confidentiel.\nSi l'on choisit au hasard 250 personnes dans l'annuaire, combien ont un numéro confidentiel ?\n",
-      "answer": "> Aucun"
+      "answer": "Aucun"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1225,
+      "line": 1226,
       "id": 729,
       "date": "29/07",
       "type": "enigma",
       "text": "J'ai trois fois l'âge que vous aviez quand j'avais l'âge que vous avez.\nQuand vous aurez l'âge que j'ai, nous aurons 154 ans à nous deux.\nQuels sont nos âges ?\n",
-      "answer": "> J'ai 66 ans et vous 44."
+      "answer": "J'ai 66 ans et vous 44."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1232,
+      "line": 1233,
       "id": 730,
       "date": "30/07",
       "type": "enigma",
       "text": "Un faceur envoie cette invitation à sa fiancée :\n\"Que dirais-tu d'aller voir un bébé vache à Nice et Antibes ce soir ?\"\nElle sourit et se prépare.\nPour aller où ?\n",
-      "answer": "> Pour aller voir un vaudevilles (un veau, deux villes)"
+      "answer": "Pour aller voir un vaudevilles (un veau, deux villes)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1240,
+      "line": 1241,
       "id": 731,
       "date": "31/07",
       "type": "enigma",
       "text": "Comment expliquez-vous cette égalité ?\nDEUX MILLE CINQ CENT QUARANTE-CINQ DIVISÉ PAR CINQ ÉGALE DIX\n",
-      "answer": "> 2545 / 5 = 509, soit DIX en chiffres romains"
+      "answer": "2545 / 5 = 509, soit DIX en chiffres romains"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1246,
+      "line": 1247,
       "id": 801,
       "date": "01/08",
       "type": "enigma",
       "text": "J'ai la même tête qu'un dinosaure, la même queue qu'un primate et le tact d'un ambassadeur.\nQui suis-je ?\n",
-      "answer": "> Je suis un diplomate. Les premières lettres (la tête) sont les même que \"dinosaure\" et les dernières (la queue) sont les même que \"primate\""
+      "answer": "Je suis un diplomate. Les premières lettres (la tête) sont les même que \"dinosaure\" et les dernières (la queue) sont les même que \"primate\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1252,
+      "line": 1253,
       "id": 802,
       "date": "02/08",
       "type": "enigma",
       "text": "Complétez ces phrases avec au maximum deux nombres différents, afin que toutes soient vraies :\nIl y a ... fois le nombre 1 dans ce jeu.\nIl y a ... fois le nombre 2 dans ce jeu.\nIl y a ... fois le nombre 3 dans ce jeu.\nIl y a ... fois le nombre 4 dans ce jeu.\n",
-      "answer": "> 2x1 3x2 2x3 1x4 ou 3x1 1x2 3x3 1x4"
+      "answer": "2x1 3x2 2x3 1x4 ou 3x1 1x2 3x3 1x4"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1261,
+      "line": 1262,
       "id": 803,
       "date": "03/08",
       "type": "enigma",
       "text": "Un artiste met 14 jours pour peindre une fresque.\nSachant que la surface peinte double chaque jour, combien de jours faut-il à l'artiste pour peindre la moitié de la fresque ?\n",
-      "answer": "> 13 jours"
+      "answer": "13 jours"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1267,
+      "line": 1268,
       "id": 804,
       "date": "04/08",
       "type": "enigma",
       "text": "Mon premier était la première.\nLe premier de mon deuxième est fêté.\nMon troisième ne compte soi-disant pas.\nMon tout s'ouvre en été.\n",
-      "answer": "> Éventail (Éve - an - taille)"
+      "answer": "Éventail (Éve - an - taille)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1275,
+      "line": 1276,
       "id": 805,
       "date": "05/08",
       "type": "enigma",
       "text": "Marie fait les achats pour la rentrée. Elle dépense 90€ pour 90 objets, parmis lesquels au moins un crayon, une gomme et un cahier.\nQu'a-t-elle acheté sachant que :\n- un crayon coûte 80cts;\n- une gomme coûte 2€;\n- un cahier coûte 3,5€;\n",
-      "answer": "> 80 crayons, 6 gommes et 4 cahiers"
+      "answer": "80 crayons, 6 gommes et 4 cahiers"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1284,
+      "line": 1285,
       "id": 806,
       "date": "06/08",
       "type": "enigma",
       "text": "Comment placer sept souris dans dix cages... sans les couper ?\n",
-      "answer": "> Mettre les lettres de SEPT SOURIS chacune dans une cage (ou mettre des cages dans des cages mdr)"
+      "answer": "Mettre les lettres de SEPT SOURIS chacune dans une cage (ou mettre des cages dans des cages mdr)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1289,
+      "line": 1290,
       "id": 807,
       "date": "07/08",
       "type": "enigma",
       "text": "Par quelle lettre faut-il remplacer le point d'interrogation ?\nA P A E\nL H B ?\n",
-      "answer": "> T. Lues en colonne, les lettres forment le mot \"alphabet\""
+      "answer": "T. Lues en colonne, les lettres forment le mot \"alphabet\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1296,
+      "line": 1297,
       "id": 808,
       "date": "08/08",
       "type": "enigma",
       "text": "Quelle expression se cache dans ci-dessous ?\nG € O € U € T € T € E € S (les € ressembles plus à des C avec une seule barre)\n",
-      "answer": "> \"Passer entre les gouttes\" (pas C entre les lettres du mot GOUTTES)"
+      "answer": "\"Passer entre les gouttes\" (pas C entre les lettres du mot GOUTTES)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1302,
+      "line": 1303,
       "id": 809,
       "date": "09/08",
       "type": "enigma",
       "text": "Si six robots mettent chacun six minutes pour fabriquer une poupée, combien faut-il de robots pour fabriquer 120 poupées en deux heures ?\n",
-      "answer": "> 6"
+      "answer": "6"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1307,
+      "line": 1308,
       "id": 810,
       "date": "10/08",
       "type": "enigma",
       "text": "Combien existe-t-il de nombres entiers à trois chiffres ?\n",
-      "answer": "> 900"
+      "answer": "900"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1312,
+      "line": 1313,
       "id": 811,
       "date": "11/08",
       "type": "enigma",
       "text": "Un bijoutier peut fabriquer un anneau d'or, en refondant les chutes d'or de quatres anneaux.\nSur 650 anneaux, combien ont été fabriqués avec des chutes ?\n",
-      "answer": "> 130"
+      "answer": "130"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1318,
+      "line": 1319,
       "id": 812,
       "date": "12/08",
       "type": "enigma",
       "text": "Qu'est-ce qui fait le lien entre la chantilly, la neige, la glace à la noix de coco et Michel ?\n",
-      "answer": "> Le blanc"
+      "answer": "Le blanc"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1323,
+      "line": 1324,
       "id": 813,
       "date": "13/08",
       "type": "enigma",
       "text": "Quel nombre complète logiquement cette série ?\n1 2 2 4 16 ??\n32, 64 ou 256 ?\n",
-      "answer": "> 256"
+      "answer": "256"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1330,
+      "line": 1331,
       "id": 814,
       "date": "14/08",
       "type": "enigma",
       "text": "Mon premier est 25%.\nMon deuxième a deux trous.\nMi et do forment mon troisème.\nMon tout se montre aisément lorqu'il est bon.\n",
-      "answer": "> Un carnet de notes (un quart - nez - deux notes)"
+      "answer": "Un carnet de notes (un quart - nez - deux notes)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1338,
+      "line": 1339,
       "id": 815,
       "date": "15/08",
       "type": "enigma",
       "text": "Comment un serveur peut-il répartir dix glaçons dans trois verres à whisky, en faisant en sorte que chaque verre contienne un nombre impair de glaçons ?\n",
-      "answer": "> Il met 3 glaçons dans le verre 1, 2 dans le verre 2 et 5 dans le vere 3... qu'il place dans le verre 2."
+      "answer": "Il met 3 glaçons dans le verre 1, 2 dans le verre 2 et 5 dans le vere 3... qu'il place dans le verre 2."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1343,
+      "line": 1344,
       "id": 816,
       "date": "16/08",
       "type": "enigma",
       "text": "Faites la somme de votre année de naissance et de celle d'une personne de votre choix.\nAjoutez l'âge que vous aurez cette année ainsi que celui de cette personne.\nQu'obtenez-vous ?\n",
-      "answer": "> Le double de l'année en cours"
+      "answer": "Le double de l'année en cours"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1350,
+      "line": 1351,
       "id": 817,
       "date": "17/08",
       "type": "enigma",
       "text": "De 13h à 13h le lendemain, combien de fois les aiguilles d'une montre sont-elles superposées ?\n",
-      "answer": "> 22 fois"
+      "answer": "22 fois"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1355,
+      "line": 1356,
       "id": 818,
       "date": "18/08",
       "type": "enigma",
       "text": "On me prend plus souvent qu'on ne me tient.\nJe nais au début de l'année.\nJe fonds au fil des mois, jusqu'à l'année suivante, où je retrouve toute ma vigueur.\nQui suis-je ?\n",
-      "answer": "> Une bonne résolution"
+      "answer": "Une bonne résolution"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1363,
+      "line": 1364,
       "id": 819,
       "date": "19/08",
       "type": "enigma",
       "text": "Quel mot peut précéder ces trois-là ?\nCOURANTE\nPROPRE\nBASSE\n",
-      "answer": "> Main"
+      "answer": "Main"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1371,
+      "line": 1372,
       "id": 820,
       "date": "20/08",
       "type": "enigma",
       "text": "Monsieur Laroche est tout retourné par la maladie qu'il a attrapée.\nDe quoi souffre-t-il ?\n",
-      "answer": "> Il souffre du choléra (anagramme de \"Laroche\")"
+      "answer": "Il souffre du choléra (anagramme de \"Laroche\")"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1377,
+      "line": 1378,
       "id": 821,
       "date": "21/08",
       "type": "enigma",
       "text": "Quatre amies se partagent 60 huîtres.\nSachant que Flore en mange une de moins que Jeanne, qui en mange deux de plus que Sibylle, qui en mange trois de plus qu'Amandine.\nCombien chacune a-t-elle mangé d'huîtres ?\n",
-      "answer": "> Flore: 16, Jeanne: 17, Sibylle: 15 et Amandine: 12"
+      "answer": "Flore: 16, Jeanne: 17, Sibylle: 15 et Amandine: 12"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1384,
+      "line": 1385,
       "id": 822,
       "date": "22/08",
       "type": "enigma",
       "text": "Changez de plateau 3 poids pour équilibrer cette balance.\n14 20  7  ||   5  9\n18  2 12  ||  15  4\n",
-      "answer": "> Il faut changer 5, 18 et 7"
+      "answer": "Il faut changer 5, 18 et 7"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1391,
+      "line": 1392,
       "id": 823,
       "date": "23/08",
       "type": "enigma",
       "text": "Comment obtenir 1001 en multipliant trois nombres ?\n",
-      "answer": "> 3 * 7 * 11"
+      "answer": "3 * 7 * 11"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1396,
+      "line": 1397,
       "id": 824,
       "date": "24/08",
       "type": "enigma",
       "text": "Maya parie que sa copine Alice ne parviendra pas à sauter par-dessus sa corde à sauter, si elle l'étale sur tout sa longueur par terre.\nComment Maya doit-elle disposer la corde pour être sûre de gagner le pari ?\n",
-      "answer": "> Elle étale la corde par terre... le long d'un mur !"
+      "answer": "Elle étale la corde par terre... le long d'un mur !"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1402,
+      "line": 1403,
       "id": 825,
       "date": "25/08",
       "type": "enigma",
       "text": "Quelle lettre complète ce carré ?\nD H L\nP R T\nB C ?\n",
-      "answer": "> D (la progression est de +4 pour la 1ere ligne, +2 pour la 2e et +1 pour la 3e)"
+      "answer": "D (la progression est de +4 pour la 1ere ligne, +2 pour la 2e et +1 pour la 3e)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1410,
+      "line": 1411,
       "id": 826,
       "date": "26/08",
       "type": "enigma",
       "text": "Mon premier mesure le bois.\nMon deuxième vaut bien \"You hou\".\nMon troisième fait l'objet d'une rencontre, justement parce qu'il est troisième.\nMon tout fait un peu cliché.\n",
-      "answer": "> Stéréotype (stère - hé ho - type)"
+      "answer": "Stéréotype (stère - hé ho - type)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1418,
+      "line": 1419,
       "id": 827,
       "date": "27/08",
       "type": "enigma",
       "text": "Une noce compte 140 personnes, dont 60 femmes.\n25% des hommes et 50% des femmes dansent.\nQuel est le pourcentage de participants qui dansent ?\n",
-      "answer": "> 35.7%"
+      "answer": "35.7%"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1425,
+      "line": 1426,
       "id": 828,
       "date": "28/08",
       "type": "enigma",
       "text": "Un inspecteur arrête deux suspects.\nIl sait que l'un d'eux ment toujours tandis que l'autre jamais.\nComment peut-il identifier le menteur, en ne posant qu'une question à l'un des suspects ?\n",
-      "answer": "> Il lui suffit de poser une question dont tout le monde connaît la réponse. Du type : quelle est la couleur du soleil ?"
+      "answer": "Il lui suffit de poser une question dont tout le monde connaît la réponse. Du type : quelle est la couleur du soleil ?"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1432,
+      "line": 1433,
       "id": 829,
       "date": "29/08",
       "type": "enigma",
       "text": "Lise dit à Quentin :\n- À part sur mes fesses évidemment, il y a un endroit où je peux m'asseoir et où toi tu ne pourras jamais.\nQuel est cet endroit ?\n",
-      "answer": "> Sur les genoux de Quentin"
+      "answer": "Sur les genoux de Quentin"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1439,
+      "line": 1440,
       "id": 830,
       "date": "30/08",
       "type": "enigma",
       "text": "Qui discute ainsi ?\n- Tu n'a rien à faire là.\n- J'aimerais partir mais ne le peux pas.\n- Dans ce cas je vais te manger.\n- Alors celui qui m'a mis là te mangera toi.\n",
-      "answer": "> Un poisson et un asticot au bout d'un hameçon"
+      "answer": "Un poisson et un asticot au bout d'un hameçon"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1448,
+      "line": 1449,
       "id": 831,
       "date": "31/08",
       "type": "enigma",
       "text": "Quel mot peut compléter cette phrase ?\n\"Sans un mot ni un bruit, Olivia fixait son amant Romuald, qui parlait d'un ton...\"\nmonocorde, las ou désinvolte\n",
-      "answer": "> Las. Ce mot ne comporte pas de \"e\" comme le reste de la phrase"
+      "answer": "Las. Ce mot ne comporte pas de \"e\" comme le reste de la phrase"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1455,
+      "line": 1456,
       "id": 901,
       "date": "01/09",
       "type": "enigma",
       "text": "Djebril dit :\n- Si tu me donnais trois bonbons, j'en aurais trois fois plus que toi.\nArthur répond :\n- Ne te plains pas. Tu en as déjà 50% de plus que moi.\nCombien chacun a-t-il de bonbons ?\n",
-      "answer": "> Djebril a 12 bonbons et Arthur 8 bonbons"
+      "answer": "Djebril a 12 bonbons et Arthur 8 bonbons"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1464,
+      "line": 1465,
       "id": 902,
       "date": "02/09",
       "type": "enigma",
       "text": "Sachant que :\nM=mouton\nL=lapin\nC=canard\nP=cochon\nML | LLC\nLL | C\nMCC | LP\n\nÉquilibrez cette balance avec le bon nombre de L :\nP | ...\n",
-      "answer": "> Il faut 6 L"
+      "answer": "Il faut 6 L"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1464,
+      "line": 1465,
       "id": 902,
       "date": "02/09",
       "type": "enigma",
       "text": "Sachant que :\nM=mouton\nL=lapin\nC=canard\nP=cochon\nML | LLC\nLL | C\nMCC | LP\n\nÉquilibrez cette balance avec le bon nombre de L :\nP | ...\n",
-      "answer": "> Il faut 6 L"
+      "answer": "Il faut 6 L"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1479,
+      "line": 1480,
       "id": 903,
       "date": "03/09",
       "type": "enigma",
       "text": "Mardi, au club d'échecs, Maurice et René ont joué trois parties, qui se sont toutes soldées par la victoire d'un joueur.\nChacun des deux a gagné le même nombre de parties.\nComment est-ce possible ?\n",
-      "answer": "> Ils n'ont pas joué l'un contre l'autre"
+      "answer": "Ils n'ont pas joué l'un contre l'autre"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1486,
+      "line": 1487,
       "id": 904,
       "date": "04/09",
       "type": "enigma",
       "text": "Sofia fait les soldes.\nPour 140€, elle s'achète un manteau, qui vaut aussi cher que sa robe et son pull réunis.\nSa robe vaut le prix de son pull et de son chemisier, qui coûtait, lui 40€.\nCombien coûtaient respectivement la robe et le pull ?\n",
-      "answer": "> 90€ la robe et 50€ le pull"
+      "answer": "90€ la robe et 50€ le pull"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1494,
+      "line": 1495,
       "id": 905,
       "date": "05/09",
       "type": "enigma",
       "text": "Il faut 3 minutes à Tom pour confectionner un rouleau de printemps alors qu'il en faut 4 à Tim.\nAu bout de combien de temps Tom aura-t-il fait un rouleau de printemps de plus que Tim ?\n",
-      "answer": "> Au bout de 12 minutes. Tom aura fait 4 rouleaux et Tim 3"
+      "answer": "Au bout de 12 minutes. Tom aura fait 4 rouleaux et Tim 3"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1500,
+      "line": 1501,
       "id": 906,
       "date": "06/09",
       "type": "enigma",
       "text": "Épelez l'eau de deux façons différentes.\n",
-      "answer": "> E,A,U et H,2,0 (et O ?)"
+      "answer": "E,A,U et H,2,0 (et O ?)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1505,
+      "line": 1506,
       "id": 907,
       "date": "07/09",
       "type": "enigma",
       "text": "Qu'est-ce qui fait le lien entre la poussière, la folie et le blé ?\n",
-      "answer": "> Le grain"
+      "answer": "Le grain"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1510,
+      "line": 1511,
       "id": 908,
       "date": "08/09",
       "type": "enigma",
       "text": "Ôtez un fromage, il restera un dessert.\nPMROOFRITBIEREOLRES\n",
-      "answer": "> En ôtant MORBIER, il reste PROFITEROLES"
+      "answer": "En ôtant MORBIER, il reste PROFITEROLES"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1516,
+      "line": 1517,
       "id": 909,
       "date": "09/09",
       "type": "enigma",
       "text": "Un père donne 3 euros à son fils pour chaque bonne réponse, mais son fils doit lui donner 4 euros pour chaque mauvaise réponse.\nAu bout de 14 questions, personne ne doit rien à l'autre.\nCombien le fils a-t-il eu de bonnes réponses ?\n",
-      "answer": "> Il a eu 8 bonnes réponses"
+      "answer": "Il a eu 8 bonnes réponses"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1523,
+      "line": 1524,
       "id": 910,
       "date": "10/09",
       "type": "enigma",
       "text": "Quelle carte remplace logiquement le point d'interrogation ?\n3T 9C 3C\n1C 4C 4P\n2C ?? 5T\n",
-      "answer": "> 10P. La carte de chaque rangée égale aux produits des deux autres et les diagonales donnent la couleur."
+      "answer": "10P. La carte de chaque rangée égale aux produits des deux autres et les diagonales donnent la couleur."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1531,
+      "line": 1532,
       "id": 911,
       "date": "11/09",
       "type": "enigma",
       "text": "Un homme lit dans le métro.\nSoudant, il y a une panne d'électricité. La rame est plongée dans le noir et on n'y voit plus rien.\nPourtant, il continue à lire.\nComment est-ce possible ?\n",
-      "answer": "> C'est un aveugle, qui lit en braille. (ou juste il lit sur son tel mdr)"
+      "answer": "C'est un aveugle, qui lit en braille. (ou juste il lit sur son tel mdr)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1539,
+      "line": 1540,
       "id": 912,
       "date": "12/09",
       "type": "enigma",
       "text": "Mon premier a une tête de mule.\nMon deuxième peut se pousser mais pas se tirer.\nMon troisième ne pèse pas lourd.\nVous trouverez mon tout dans ce calendrier.\n",
-      "answer": "> Anagramme (âne - ah - gramme)"
+      "answer": "Anagramme (âne - ah - gramme)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1547,
+      "line": 1548,
       "id": 913,
       "date": "13/09",
       "type": "enigma",
       "text": "Un producteur veut conditionner ses bouteilles de vin.\nIl s'arrache les cheveux, car il n'arrive à les conditionner ni par 10 ni par 9, 8, 7, 6, 5, 4, 3 ou 2.\nMais, s'il en avait juste une de plus, tous ces conditionnements seraient possibles.\nCombien en a-t-il ?\n",
-      "answer": "> 2519, plus petit multiplicateur commun"
+      "answer": "2519, plus petit multiplicateur commun"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1555,
+      "line": 1556,
       "id": 914,
       "date": "14/09",
       "type": "enigma",
       "text": "Au masculin, je suis de service.\nAu féminin, je peux être de garde.\nOn doit me tourner pour avancer.\nQui suis-je ?\n",
-      "answer": "> Le (ou la) page"
+      "answer": "Le (ou la) page"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1563,
+      "line": 1564,
       "id": 915,
       "date": "15/09",
       "type": "enigma",
       "text": "Gilles achète en nombre égal des croissants, des brioches et des pains au chocolat.\nSans les croissants, il aurait déboursé 10 euros.\nSans les brioches, il en aurait eu pour 14 euros.\nSans les pains au chocolat, il aurait dépensé 11 euros.\nQuelle viennoiserie coûtait le moins cher ?\n",
-      "answer": "> Les brioches"
+      "answer": "Les brioches"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1572,
+      "line": 1573,
       "id": 916,
       "date": "16/09",
       "type": "enigma",
       "text": "Quelle lettre complète logiquement cette série ?\nC P H S E L\nO A D I M ?\n",
-      "answer": "> R. Lues en zigzag, les lettres forment le mot \"cahier\""
+      "answer": "R. Lues en zigzag, les lettres forment le mot \"cahier\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1579,
+      "line": 1580,
       "id": 917,
       "date": "17/09",
       "type": "enigma",
       "text": "En raison de la pollution, la circulation est interdite à tous les véhicules, sauf ceux des secours.\nPourtant, un chauffeur de taxi passe ostensiblement devant les policiers, qui ne lui disent rien.\nPourquoi ?\n",
-      "answer": "> Il est à pieds"
+      "answer": "Il est à pieds"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1586,
+      "line": 1587,
       "id": 918,
       "date": "18/09",
       "type": "enigma",
       "text": "Dans son devoir sur le Moyen Âge, un lycéen fait référence à plusieurs reprises aux chevaliers de l'an 1049.\nPourquoi ?\n",
-      "answer": "> Il veut parler des chevaliers de l'an MIL. 1049 en chiffres romains"
+      "answer": "Il veut parler des chevaliers de l'an MIL. 1049 en chiffres romains"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1592,
+      "line": 1593,
       "id": 919,
       "date": "19/09",
       "type": "enigma",
       "text": "Léonard a accepté d'être transformé en objet par le diable, qui lui a promis en échange la gloire éternelle.\nQuel était cet objet ?\n",
-      "answer": "> Une scie. C'est ainsi que Léonard devient scie..."
+      "answer": "Une scie. C'est ainsi que Léonard devient scie..."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1598,
+      "line": 1599,
       "id": 920,
       "date": "20/09",
       "type": "enigma",
       "text": "> Que jour étions-nous avant-hier sachant que, le lendemain, nous nétions pas en week-end, alors que nous l'étions la veille, qui n'était pas le surlendemain de jeudi ?\n",
-      "answer": "> Nous étions lundi. (c'était bien écrit \"Que\" et pas \"Quel\")"
+      "answer": "Nous étions lundi. (c'était bien écrit \"Que\" et pas \"Quel\")"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1603,
+      "line": 1604,
       "id": 921,
       "date": "21/09",
       "type": "enigma",
       "text": "Pour régler ses 4 articles en soldes, Justine a le choix entre deux promotions :\n2 achetés = 1 gratuit ou 1 acheté = le 2e à -50%.\nQuelle promotion doit-elle choisir ?\n",
-      "answer": "> N'importe, cela revient au même"
+      "answer": "N'importe, cela revient au même"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1610,
+      "line": 1611,
       "id": 922,
       "date": "22/09",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\nOCOMPASEIL\n",
-      "answer": "> Avoir le compas dans l'oeil"
+      "answer": "Avoir le compas dans l'oeil"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1616,
+      "line": 1617,
       "id": 923,
       "date": "23/09",
       "type": "enigma",
       "text": "Cinquante-cinq personnes participent à une rencontre entre étudiants et recruteurs.\nPendant la rencontre, le 1er étudiant rencontre 6 recruteurs, le 2e en rencontre 7, le 3e en rencontre 8, etc.\nLe dernier étudiant rencontre chaque recruteur.\nCombien d'étudiants étaient présents ?\n",
-      "answer": "> Il y avait 25 étudiants"
+      "answer": "Il y avait 25 étudiants"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1624,
+      "line": 1625,
       "id": 924,
       "date": "24/09",
       "type": "enigma",
       "text": "Avant la partie de tarot, Rémi prend une feuille et note :\nTRACES\nECARTS\nCASTRE\nQue fait-il ?\n",
-      "answer": "> Il mélange les cartes"
+      "answer": "Il mélange les cartes"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1633,
+      "line": 1634,
       "id": 925,
       "date": "25/09",
       "type": "enigma",
       "text": "Décryptez ce message.\nDOS FEE ULM GAG\nTRI NON MULE SENS\nILE POD LYS ARA TAON\nBRU TAS MIE BLEU POT\n",
-      "answer": "> Tu es un as des énigmes. Il faut prendre la dernière lettre de chaque mot et lire en partant du dernier"
+      "answer": "Tu es un as des énigmes. Il faut prendre la dernière lettre de chaque mot et lire en partant du dernier"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1642,
+      "line": 1643,
       "id": 926,
       "date": "26/09",
       "type": "enigma",
       "text": "Ajouez quatre fois le même opérateur pour que cette égalité soit juste. Les parenthèses sont permises.\n11+12+13+16=2\n",
-      "answer": "> 1/1 + 1/2 + 1/3 + 1/6 = 2"
+      "answer": "1/1 + 1/2 + 1/3 + 1/6 = 2"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1648,
+      "line": 1649,
       "id": 927,
       "date": "27/09",
       "type": "enigma",
       "text": "Le président veut intercepter les 200 000 exemplaires d'un ouvrage compromettant avant leur mise en vente.\nIls sont mis par 10 dans des cartons, eux-mêmes rangés par 12 dans des caisses, elles-mêmes placées par 30 dans des camions.\nCombien de camions doit-il intercepter ?\n",
-      "answer": "> 56 camions"
+      "answer": "56 camions"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1655,
+      "line": 1656,
       "id": 928,
       "date": "28/09",
       "type": "enigma",
       "text": "Monsieur et madame Hébert ont cinq enfants : Lucie, Martin, Melvin, Jérémy et ...\nVéronique, Olivia, Suzon ou Tristan ?\n",
-      "answer": "> Véronique (les deux premières lettres de chaque prénom sont celles des jours de la semaine)"
+      "answer": "Véronique (les deux premières lettres de chaque prénom sont celles des jours de la semaine)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1661,
+      "line": 1662,
       "id": 930,
       "date": "30/09",
       "type": "enigma",
       "text": "Pour convaincre un sceptique qu'il est un grand voyant, un imposteur lui dit :\n- Je suis capable d'écrire votre nom sans avoir à vous demander.\nEt il le fait.\nComment l'expliquer ?\n",
-      "answer": "> Il écrit \"votre nom\""
+      "answer": "Il écrit \"votre nom\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1669,
+      "line": 1670,
       "id": 1001,
       "date": "01/10",
       "type": "enigma",
       "text": "Remplacez les lettres par des chiffres pour que l'addition soit juste.\nE L E V E\n+ L E C O N\n-----------\nD E V O I R\n",
-      "answer": "> 69656 + 96078 = 165734"
+      "answer": "69656 + 96078 = 165734"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1678,
+      "line": 1679,
       "id": 1002,
       "date": "02/10",
       "type": "enigma",
       "text": "Un campeur à vélo route à 12 km/h dans la garrigue.\nSoudain, il voit un incendie derrière lui.\nDu fait d'un fort vent arrière, les flammes progressent dans sa direction à la vitesse de 25 km/h.\nComment peut-il s'en sortir ?\n",
-      "answer": "> Il allume un feu devant lui. Il pourra rouler sur la zone brûlée sans danger. Lorsque l'incendie derrière lui atteindra la zone brûlée il s'arrêtera."
+      "answer": "Il allume un feu devant lui. Il pourra rouler sur la zone brûlée sans danger. Lorsque l'incendie derrière lui atteindra la zone brûlée il s'arrêtera."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1686,
+      "line": 1687,
       "id": 1004,
       "date": "04/10",
       "type": "enigma",
       "text": "Un inspecteur arrête deux frères, Jean et John.\nIl sait que l'un d'eux est le coupable qu'il cherche.\nJean ment toujours, John jamais?\nQuelle unique question l'inspecteur pose-t-il à n'importe lequel des deux pour connaître le nom du coupable ?\n",
-      "answer": "> Es-tu le coupable ?"
+      "answer": "Es-tu le coupable ?"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1694,
+      "line": 1695,
       "id": 1005,
       "date": "05/10",
       "type": "enigma",
       "text": "Vingt-cinq femmes participent à un speed dating.\nChacune repart avec 4 numéros de téléphone tandis que chaque homme repart avec 5 numéros.\nSachant que chaque homme qui a donné son numéro a reçu celui de la femme en retour, combien y avait-il d'hommes ?\n",
-      "answer": "> 20"
+      "answer": "20"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1701,
+      "line": 1702,
       "id": 1006,
       "date": "06/10",
       "type": "enigma",
       "text": "Quelle souverraine se cache derrière l'étrange Mario ?\n",
-      "answer": "> La reine Margot (anagrame)"
+      "answer": "La reine Margot (anagrame)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1706,
+      "line": 1707,
       "id": 1007,
       "date": "07/10",
       "type": "enigma",
       "text": "Quel est l'intrus ?\n632 972 853 761\n",
-      "answer": "> 632 (le deuxième chiffre soustrait au premier donne le troisième)"
+      "answer": "632 (le deuxième chiffre soustrait au premier donne le troisième)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1712,
+      "line": 1713,
       "id": 1009,
       "date": "09/10",
       "type": "enigma",
       "text": "Prenons deux personnes.\nL'une est le père du fils de l'autre.\nQue sont ces deux peronnes l'une pour l'autre ?\n",
-      "answer": "> Deux parents d'un même enfant"
+      "answer": "Deux parents d'un même enfant"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1719,
+      "line": 1720,
       "id": 1010,
       "date": "10/10",
       "type": "enigma",
       "text": "Mon premier est le premier nombre.\nMon deuxième est aussi un nombre,\nqui vaut dix fois mon troisième.\nMon tout fait des ravages.\n",
-      "answer": "> Incendie (un - cent - dix)"
+      "answer": "Incendie (un - cent - dix)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1727,
+      "line": 1728,
       "id": 1011,
       "date": "11/10",
       "type": "enigma",
       "text": "Où devez-vous tracer un segment séparant en deux parties égales le cadran de votre montre pour que la somme des nombres soit égale de part et d'autre du segment ?\n",
-      "answer": "> ~9h17"
+      "answer": "~9h17"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1732,
+      "line": 1733,
       "id": 1012,
       "date": "12/10",
       "type": "enigma",
       "text": "Je suis poilue.\nJe suis charnue.\nJe donne du lait.\nJe vis en altitude.\nMais je n'ai pas de pattes.\nQui suis-je ?\n",
-      "answer": "> Je suis la noix de coco"
+      "answer": "Je suis la noix de coco"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1742,
+      "line": 1743,
       "id": 1013,
       "date": "13/10",
       "type": "enigma",
       "text": "Quelle expression se cache ci-dessous ?\n[(écrit en vert) ÊTRE] RAGE RAGE\n",
-      "answer": "> Être vert de rage (Être vert - deux rages)"
+      "answer": "Être vert de rage (Être vert - deux rages)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1748,
+      "line": 1749,
       "id": 1014,
       "date": "14/10",
       "type": "enigma",
       "text": "Quel nombre complète logiquement cette série ?\n7 18 30 43 ??\n61, 57 ou 59 ?\n",
-      "answer": "> 57, Il faut ajouter 11 puis 12 puis 13..."
+      "answer": "57, Il faut ajouter 11 puis 12 puis 13..."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1755,
+      "line": 1756,
       "id": 1015,
       "date": "15/10",
       "type": "enigma",
       "text": "Sur la porte, il n'est pas marqué \"TIRER\" ou \"POUSSER\" mais \"ABC\".\nComment ouvrir la porte ?\n",
-      "answer": "> En abaissant la porte (ABC = abaisser)"
+      "answer": "En abaissant la porte (ABC = abaisser)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1761,
+      "line": 1762,
       "id": 1016,
       "date": "16/10",
       "type": "enigma",
       "text": "Un bourreau dit à un condamné à mort :\n- Tu dois choisir une porte. Derrière la première se trouve un guerrier armé jusqu'aux dents, la deuxième cache un lion affamé qui n'a pas mangé depuis 5 semaines et la dernière un brasier.\nQuelle porte doit-il choisir ?\n",
-      "answer": "> La deuxième, si le lion n'a pas mangé depuis 5 semaines, il est mort."
+      "answer": "La deuxième, si le lion n'a pas mangé depuis 5 semaines, il est mort."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1768,
+      "line": 1769,
       "id": 1017,
       "date": "17/10",
       "type": "enigma",
       "text": "Trois candidats à une élection font les comptes.\n- J'ai récolté plus de 5000 suffrages, affirme le premier.\n- C'est faux, j'en suis sûr, rétorque le deuxième.\n- En tous cas, au moins un électeur a voté pour lui, fait le troisième.\nSachant qu'un seul candidat dit vrai, combien de suffrages le premier candidat a-t-il récoltés ?\n",
-      "answer": "> Aucun, c'est le deuxième qui dit vrai."
+      "answer": "Aucun, c'est le deuxième qui dit vrai."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1777,
+      "line": 1778,
       "id": 1018,
       "date": "18/10",
       "type": "enigma",
       "text": "Les mannequins me font.\nLes militaires m'apprécient, les carnavaliers aussi.\nMais les alpinistes me redoutent parfois.\nQui suis-je ?\n",
-      "answer": "> Je suis le déilé. Outre son acception commune, le terme défilé désigne aussi une passage étroit entre deux petites raides."
+      "answer": "Je suis le déilé. Outre son acception commune, le terme défilé désigne aussi une passage étroit entre deux petites raides."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1785,
+      "line": 1786,
       "id": 1019,
       "date": "19/10",
       "type": "enigma",
       "text": "Une chatte pèse trois plus que son chaton, qui pèse 6kg de moins qu'elle.\nQuel est le poids de la chatte ?\n",
-      "answer": "> La chatte pèse 9kg"
+      "answer": "La chatte pèse 9kg"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1791,
+      "line": 1792,
       "id": 1020,
       "date": "20/10",
       "type": "enigma",
       "text": "Quelle fleur se cache ci-dessous ?\nP I (barré)\n",
-      "answer": "> Un pissenlit. (un PI sans le I)"
+      "answer": "Un pissenlit. (un PI sans le I)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1797,
+      "line": 1798,
       "id": 1021,
       "date": "21/10",
       "type": "enigma",
       "text": "La mamie de robin lui donne 1 pièce pour ses un an, deux pour ses deux ans, trois pour ses trois ans, etc.\nElle ajoute 10 pièces à chaque dizaine. Robin a 320 pièces.\nQuel âge a-t-il ?\n",
-      "answer": "> Il a 24 ans"
+      "answer": "Il a 24 ans"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1804,
+      "line": 1805,
       "id": 1022,
       "date": "22/10",
       "type": "enigma",
       "text": "Plus je vieillis, plus je suis fort, et pourtant, je ne suis pas musclé.\nQui suis-je ?\n",
-      "answer": "> Je suis le fromage"
+      "answer": "Je suis le fromage"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1810,
+      "line": 1811,
       "id": 1023,
       "date": "23/10",
       "type": "enigma",
       "text": "Quel nombre complète logiquement la dernière égalité ?\n1 = 2\n2 = 8\n3 = 15\n4 = 24\n5 = 20\n6 = ?\n",
-      "answer": "> 18. Il faut compter le nombre de lettres du nom du premier nombre et multiplier par ce nombre : six -> 3 * 6 = 18"
+      "answer": "18. Il faut compter le nombre de lettres du nom du premier nombre et multiplier par ce nombre : six -> 3 * 6 = 18"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1821,
+      "line": 1822,
       "id": 1024,
       "date": "24/10",
       "type": "enigma",
       "text": "Quelle carte remplace logiquement le point d'interrogation ?\n10T 6Co 9P 2Ca\n9Co 5P ?? AT\n",
-      "answer": "> 8C. La somme des points d'une carte du bas est égale à celle des points de la carte du dessus moins 1. Et on trouve une fois chaque couleur sur une ligne."
+      "answer": "8C. La somme des points d'une carte du bas est égale à celle des points de la carte du dessus moins 1. Et on trouve une fois chaque couleur sur une ligne."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1828,
+      "line": 1829,
       "id": 1025,
       "date": "25/10",
       "type": "enigma",
       "text": "Derrière le jade libanais se cache une actrice française.\nLaquelle ?\n",
-      "answer": "> Isabelle Adjani (anagramme)"
+      "answer": "Isabelle Adjani (anagramme)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1834,
+      "line": 1835,
       "id": 1026,
       "date": "26/10",
       "type": "enigma",
       "text": "Qu'est-ce qui fait le lien entre un miroir, un sorbet et de l'eau ?\n",
-      "answer": "> La glace"
+      "answer": "La glace"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1839,
+      "line": 1840,
       "id": 1027,
       "date": "27/10",
       "type": "enigma",
       "text": "Mon premier est un petit professionnel.\nMon deuxième ne fait pas net.\nMon troisème est un thé anglais.\nMon quatrième vaut un pays.\nMon tout attendra demain.\n",
-      "answer": "> Procrastination (pro - crasse - tea - nation)"
+      "answer": "Procrastination (pro - crasse - tea - nation)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1848,
+      "line": 1849,
       "id": 1028,
       "date": "28/10",
       "type": "enigma",
       "text": "Pour rentrer chez lui, Hugo doit emprunter un escalier de cinq marches, qu'il gravit par une, par deux ou par trois.\nCombien a-t-il de possibilités de monter l'escalier ?\n",
-      "answer": "> Il existe 13 combinaisons"
+      "answer": "Il existe 13 combinaisons"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1854,
+      "line": 1855,
       "id": 1030,
       "date": "30/10",
       "type": "enigma",
       "text": "Un TGV doit parcourir 900km. Il roule à 150km/h sur la première moitié du trajet.\nÀ quelle vitesse devra-t-il rouler sur la deuxième moitié s'il veut arriver à une moyenne globale de 300km/h ?\n",
-      "answer": "> C'est impossible. Pour arriver à une moyenne de 300km/h il devrait mettre 3h pour la totalité du trajet, or c'est le temps qu'il a mis pour la première moitié."
+      "answer": "C'est impossible. Pour arriver à une moyenne de 300km/h il devrait mettre 3h pour la totalité du trajet, or c'est le temps qu'il a mis pour la première moitié."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1860,
+      "line": 1861,
       "id": 1031,
       "date": "31/10",
       "type": "enigma",
       "text": "Un inspecteur a identifié l'auteur d'un meurtre. Sa culpabilité ne fait aucun doute.\nPourtant, même si ce n'est ni un enfant, ni une personne irresponsable de ses actes, il n'ira jamais en prison.\nPourquoi ?\n",
-      "answer": "> Il s'est suicidé après le meurtre (forcément suicidé, il peut pas être mort d'une autre façon, c'est pas valide sinon)"
+      "answer": "Il s'est suicidé après le meurtre (forcément suicidé, il peut pas être mort d'une autre façon, c'est pas valide sinon)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1867,
+      "line": 1868,
       "id": 1102,
       "date": "02/11",
       "type": "enigma",
       "text": "Somme de deux tout petits impairs, je suis un carré coincé entre deux nombres premiers\nQui suis-je ?\n",
-      "answer": "> 4"
+      "answer": "4"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1873,
+      "line": 1874,
       "id": 1103,
       "date": "03/11",
       "type": "enigma",
       "text": "Un homme s'est glissé parmi les scientifiques en combinaison d'un laboratoire de haute sécrurité, qui manipulent un gaz destiné à des réacteurs de recherche nucléaire.\nIl menace de tout faire sauter, en allumant le briquer qu'il a la main.\nTout le monde s'en moque.\nPourquoi ?\n",
-      "answer": "> Le laboratoire est rempli d'hélium, un gaz non combustible (wtf et oui \"qu'il a la main\")"
+      "answer": "Le laboratoire est rempli d'hélium, un gaz non combustible (wtf et oui \"qu'il a la main\")"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1881,
+      "line": 1882,
       "id": 1104,
       "date": "04/11",
       "type": "enigma",
       "text": "Résolvez cette addition, sachant qu'une lettre correspond toujours au même chiffre.\nABA\nACB\nAAB\n+BACA\n-----\nCBAB\n",
-      "answer": "> A = 8 B = 4 C = 7"
+      "answer": "A = 8 B = 4 C = 7"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1892,
+      "line": 1893,
       "id": 1105,
       "date": "05/11",
       "type": "enigma",
       "text": "Une femme de 26 ans met au monde des triplés.\nDans combien d'années l'âge de cette femme sera-t-il égal à la somme des âges de ses enfants ?\n",
-      "answer": "> Dans 13 ans, elle aura 39 et les triplés 13 ans"
+      "answer": "Dans 13 ans, elle aura 39 et les triplés 13 ans"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1898,
+      "line": 1899,
       "id": 1106,
       "date": "06/11",
       "type": "enigma",
       "text": "Deux femmes commandent le même thé, l'une avec un filet de citron, l'autre sans.\nLe serveur pose deux tasses rigoureusement identiques sur la table.\nQuelle tasse contient du citron ?\n",
-      "answer": "> Celle qui contient le liquide le plus clair, car le citron éclaircit le thé"
+      "answer": "Celle qui contient le liquide le plus clair, car le citron éclaircit le thé"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1905,
+      "line": 1906,
       "id": 1107,
       "date": "07/11",
       "type": "enigma",
       "text": "Ôtez un véhicule, il en restera un autre\nF P O A U Q U R G E O N B O N T E T T E\n",
-      "answer": "> En ôtant FOURGONNETTE, il reste PAQUEBOT"
+      "answer": "En ôtant FOURGONNETTE, il reste PAQUEBOT"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1911,
+      "line": 1912,
       "id": 1108,
       "date": "08/11",
       "type": "enigma",
       "text": "Un inspecteur interroge quatre suspects sur le vol d'un Rembrandt.\nRobert: Je suis innocent.\nSimon: C'est Claude !\nClaude: C'est Robert qui a fait le coup !\nGérard: Non, Robert n'est pas le coupable !\nSachant qu'une seul suspect dit vrai, qui est le coupable ?\n",
-      "answer": "> Le coupable est Robert"
+      "answer": "Le coupable est Robert"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1921,
+      "line": 1922,
       "id": 1109,
       "date": "09/11",
       "type": "enigma",
       "text": "Quelle lettre complète logiquement cette série ?\nN U S J M ?\nG, T ou I ?\n",
-      "answer": "> T (ce sont les initiales des planètes du système solaireen partant de la plus éloignée)"
+      "answer": "T (ce sont les initiales des planètes du système solaireen partant de la plus éloignée)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1928,
+      "line": 1929,
       "id": 1110,
       "date": "10/11",
       "type": "enigma",
       "text": "Un professeur de fac demande à ses élèves :\n- N'oubliez pas votre code 100 1 5 1 50 !\nQu'enseigne ce professeur ?\nComment le savez-vous ?\n",
-      "answer": "> Il enseigne le droit. Il a demandé aux élèves d'apporter leur code CIVIL (en chiffre romain)"
+      "answer": "Il enseigne le droit. Il a demandé aux élèves d'apporter leur code CIVIL (en chiffre romain)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1936,
+      "line": 1937,
       "id": 1111,
       "date": "11/11",
       "type": "enigma",
       "text": "Lila dit à Prune :\n- Je te parie 5€ que si tu me donnes 10€, je te donnerai 15€ en retour.\nPrune doit-elle parier ?\n",
-      "answer": "> Non, au mieux ça ne changera rien, au pire elle perd 5€"
+      "answer": "Non, au mieux ça ne changera rien, au pire elle perd 5€"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1943,
+      "line": 1944,
       "id": 1112,
       "date": "12/11",
       "type": "enigma",
       "text": "Quel jour étions-nous hier sachant qu'avant-hier était un jour commençant par M et que, le lendemain d'après-demain, nous ne serons pas un lundi ?\n",
-      "answer": "> Mercredi"
+      "answer": "Mercredi"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1948,
+      "line": 1949,
       "id": 1113,
       "date": "13/11",
       "type": "enigma",
       "text": "Monsieur et madame Lenoir ont cinq enfants :\nAchille, Zoé, Émeline, Romain et\nLouise, Thomas ou Jacob ?\n",
-      "answer": "> Thomas, AZER..T"
+      "answer": "Thomas, AZER..T"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1955,
+      "line": 1956,
       "id": 1114,
       "date": "14/11",
       "type": "enigma",
       "text": "Mon premier vaut un certain prix.\nMon deuxième vaut un prix, c'est certain.\nPlusieurs sommets forment mon troisième.\nMon tout s'exerce sur les bancs de l'école.\n",
-      "answer": "> Orthographe (or - taux - graphe)"
+      "answer": "Orthographe (or - taux - graphe)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1963,
+      "line": 1964,
       "id": 1115,
       "date": "15/11",
       "type": "enigma",
       "text": "Utilisez les opérateurs de votre choix pour que cette égalité soit juste.\nLes paranthèses sont permises.\n7 7 7 7 7 7 = 5\n",
-      "answer": "> 77 / 7  + 7 / 7 - 7 = 5"
+      "answer": "77 / 7  + 7 / 7 - 7 = 5"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1970,
+      "line": 1971,
       "id": 1116,
       "date": "16/11",
       "type": "enigma",
       "text": "Quel pays africain cache une ville péruvienne ?\n",
-      "answer": "> Le Mali (anagramme de Lima)"
+      "answer": "Le Mali (anagramme de Lima)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1975,
+      "line": 1976,
       "id": 1117,
       "date": "17/11",
       "type": "enigma",
       "text": "J'ai cinq doigt, mais je n'ai pas de phalange.\nJe peux être en peau, mais je ne suis pas fait de chair.\nQui suis-je ?\n",
-      "answer": "> Je suis le gant"
+      "answer": "Je suis le gant"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1982,
+      "line": 1983,
       "id": 1118,
       "date": "18/11",
       "type": "enigma",
       "text": "Une boîte contient 12 caramels, 20 réglisses et 14 gimauves.\nEn fermant les yeux, combien Jules doit-il prendre de bonbons au minimum pour être certain d'en avoir deux identiques ?\n",
-      "answer": "> 4"
+      "answer": "4"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1988,
+      "line": 1989,
       "id": 1119,
       "date": "19/11",
       "type": "enigma",
       "text": "Une maman est chargée de numéroter tous les tickets de tombola de 1 à 100 pour la kermesse de l'école.\nCombien de fois écrira-t-elle le chiffre 8 ?\n",
-      "answer": "> 20 fois"
+      "answer": "20 fois"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1994,
+      "line": 1995,
       "id": 1120,
       "date": "20/11",
       "type": "enigma",
       "text": "Comment devez-vous vous y prendre pour obtenir dix en ôtant un de neuf ?\n",
-      "answer": "> En chiffre romains (woah original)"
+      "answer": "En chiffre romains (woah original)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 1999,
+      "line": 2000,
       "id": 1121,
       "date": "21/11",
       "type": "enigma",
       "text": "Trouvez l'intrus\nCRÂNE\nÉCRAN\nNACRE\nÉCART\n",
-      "answer": "> Écart, car ce n'est pas un anagramme des autres. (ou nacre parce qu'il n'a pas d'accent mdr)"
+      "answer": "Écart, car ce n'est pas un anagramme des autres. (ou nacre parce qu'il n'a pas d'accent mdr)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2008,
+      "line": 2009,
       "id": 1122,
       "date": "22/11",
       "type": "enigma",
       "text": "Au début du cours de dessin, la prof distribue à chacun des 20 élèves un pinceau identique.\nÀ la fin, les pinceaux sont rangés dans un pot commun.\nQuelle est la probabilité pour qu'au cours suivant 19 élèves en tout retrouvent le même pinceau qu'au cours précédent ?\n",
-      "answer": "> Impossible car le 20e élève aurait lui aussi le même pinceau qu'au cours précédent"
+      "answer": "Impossible car le 20e élève aurait lui aussi le même pinceau qu'au cours précédent"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2015,
+      "line": 2016,
       "id": 1123,
       "date": "23/11",
       "type": "enigma",
       "text": "Quel est le seul mot de la langue française qui contient cinq \"t\" ?\n",
-      "answer": "> Trotinette"
+      "answer": "Trotinette"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2020,
+      "line": 2021,
       "id": 1124,
       "date": "24/11",
       "type": "enigma",
       "text": "Yann dépense le tiers de la somme qu'il a dans son portefeuille pour acheter un costume, le quart pour acheter des chaussures et le dixième pour une ceinture.\nIl lui reste 114€. Combien avait-il au départ ?\n",
-      "answer": "> Il avait 360€"
+      "answer": "Il avait 360€"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2026,
+      "line": 2027,
       "id": 1125,
       "date": "25/11",
       "type": "enigma",
       "text": "Un matin, Amaury ouvre ses volets et s'écrie :\n\"Quel champ de coton !\"\nEst-ce qu'il pleut ?\n",
-      "answer": "> Probablement. C'est une contrepétrie : \"Quel temps de cochon\""
+      "answer": "Probablement. C'est une contrepétrie : \"Quel temps de cochon\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2033,
+      "line": 2034,
       "id": 1126,
       "date": "26/11",
       "type": "enigma",
       "text": "Emmanuelle se vante de toujours dire la vérité.\nQuelle question, à laquelle elle doit répondre par oui ou par non, Arsène peut-il lui poser pour la faire mentir à coup sûr ?\n",
-      "answer": "> \"Est-ce que le prochain mot que tu vas dire est \"non\" ?\""
+      "answer": "\"Est-ce que le prochain mot que tu vas dire est \"non\" ?\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2039,
+      "line": 2040,
       "id": 1127,
       "date": "27/11",
       "type": "enigma",
       "text": "Paul aime les armoires mais pas les commodes, l'ordinateur mais pas l'informatique, les rhododendrons mais pas les roses.\nAime-t-il les brocolis ?\n",
-      "answer": "> Non, il n'aime que les mots avec 2 \"r\""
+      "answer": "Non, il n'aime que les mots avec 2 \"r\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2045,
+      "line": 2046,
       "id": 1129,
       "date": "29/11",
       "type": "enigma",
       "text": "Quand je suis noir, je suis propre.\nPlus on me salit, plus je blanchis.\nQui suis-je ?\n",
-      "answer": "> Le tableau noir"
+      "answer": "Le tableau noir"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2052,
+      "line": 2053,
       "id": 1130,
       "date": "30/11",
       "type": "enigma",
       "text": "Gladys répartit les biscuits du goûter entre ses trois enfants.\nL'aîné a la moitié des biscuits plus un demi-biscuit, le deuxième la moitié du restant plus un demi-biscuit et le plus petit la moitié du restant plus un demi-biscuit.\nIl reste deux biscuits dans le paquet.\nCombien y en avait-il ?\n",
-      "answer": "> Il y avait 23 biscuits"
+      "answer": "Il y avait 23 biscuits"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2060,
+      "line": 2061,
       "id": 1201,
       "date": "01/12",
       "type": "enigma",
       "text": "Cherchez l'errreur :\nA B C D E F G H I J K L M\nN O P Q R S T U V W X Y Z\n",
-      "answer": "> Le mot \"erreur\" a 3 \"r\""
+      "answer": "Le mot \"erreur\" a 3 \"r\""
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2067,
+      "line": 2068,
       "id": 1202,
       "date": "02/12",
       "type": "enigma",
       "text": "Quelle carte remplace logiquement le point d'interrogation ?\n2Co  5T  8P\n6Co  8T 10P\n9Co 10T ??\n",
-      "answer": "> Valet de pique, sur la ligne 1 la valeur augmente de 3 sur la 2 de 2 et sur la 3 de 1 et la colonne donne la couleur."
+      "answer": "Valet de pique, sur la ligne 1 la valeur augmente de 3 sur la 2 de 2 et sur la 3 de 1 et la colonne donne la couleur."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2075,
+      "line": 2076,
       "id": 1203,
       "date": "03/12",
       "type": "enigma",
       "text": "Pourquoi les lettres\nI L M M\nN N O O U\nsont-elles célèbres ?\n",
-      "answer": "> Parce que ce sont les Lettres de mon moulin"
+      "answer": "Parce que ce sont les Lettres de mon moulin"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2083,
+      "line": 2084,
       "id": 1204,
       "date": "04/12",
       "type": "enigma",
       "text": "Vous avez huit allumettes.\nCombien vous en manque-t-il pour arriver à cent ?\n",
-      "answer": "> Trois, avec onze allumettes on peut écrire CENT"
+      "answer": "Trois, avec onze allumettes on peut écrire CENT"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2089,
+      "line": 2090,
       "id": 1205,
       "date": "05/12",
       "type": "enigma",
       "text": "Mon premier est un petit trou.\nOn peut faire descendre mon deuxième dans un trou.\nMon troisième porte malheur, dit-on.\nÀ l'issue de mon tout, on trouve parfois mon quatrième.\n",
-      "answer": "> Chasse au trésor (chas - sceau - treize - or)"
+      "answer": "Chasse au trésor (chas - sceau - treize - or)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2097,
+      "line": 2098,
       "id": 1206,
       "date": "06/12",
       "type": "enigma",
       "text": "J'ai 24 ans de moins que mon oncle. Il y a 6 ans, nous avions 46 ans à nous deux.\nQuel âge chacun de nous a-t-il aujourd'hui ?\n",
-      "answer": "> J'ai 17 ans et mon oncle 41"
+      "answer": "J'ai 17 ans et mon oncle 41"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2103,
+      "line": 2104,
       "id": 1207,
       "date": "07/12",
       "type": "enigma",
       "text": "Monsieur et madame Giraud ont eu deux enfants ensemble.\nIls sont nés le même jour, à quelques minutes d'intervalle, mais ne sont pas des jumeaux.\nComment l'expliquer ?\n",
-      "answer": "> Ils ne sont pas nés la même année"
+      "answer": "Ils ne sont pas nés la même année"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2110,
+      "line": 2111,
       "id": 1208,
       "date": "08/12",
       "type": "enigma",
       "text": "Si l'homme me défie, je brûle.\nS'il me regarde lorsque je me cache, je lui hôte la vue.\nS'il m'approche trop, je le tue.\nPourtant, si je n'étais pas là, il mourrait.\nQui suis-je ?\n",
-      "answer": "> Je suis le soleil"
+      "answer": "Je suis le soleil"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2119,
+      "line": 2120,
       "id": 1209,
       "date": "09/12",
       "type": "enigma",
       "text": "Un homme ne peut pas se passer de sa bouteille quotidienne.\nUn jour, il se rend compte que sa bouteille est vide et il meurt.\nComment l'expliquer ?\n",
-      "answer": "> L'homme est plongeur professionnel, il ne peut se passer de ses bouteilles... d'oxygène"
+      "answer": "L'homme est plongeur professionnel, il ne peut se passer de ses bouteilles... d'oxygène"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2126,
+      "line": 2127,
       "id": 1210,
       "date": "10/12",
       "type": "enigma",
       "text": "En quel mois sommes-nous, sachant que :\n- on ne changera pas de saison le mois prochain, qui ne sera pas un mois en \"-embre\"\n- le nom de ce mois, qui ne termine pas l'année, ne commence pas par un \"j\", il contient un \"r\" mais pas de \"a\"\n",
-      "answer": "> Nous sommes en septembre"
+      "answer": "Nous sommes en septembre"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2133,
+      "line": 2134,
       "id": 1211,
       "date": "11/12",
       "type": "enigma",
       "text": "Quelle forme obtient-on si l'on dispose 10 statues de manière à former 5 rangées de 4 statues ?\n",
-      "answer": "> Une étoile à 5 branches"
+      "answer": "Une étoile à 5 branches"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2138,
+      "line": 2139,
       "id": 1212,
       "date": "12/12",
       "type": "enigma",
       "text": "Si CHAT vaut 32,\nque BICHE vaut 27,\nque PORC vaut 52 et\nque DINDON vaut 60,\ncombien vaut OIE ?\n",
-      "answer": "> 29, il faut faire la somme des chiffres correspondant aux rangs des lettres dans l'alphabet"
+      "answer": "29, il faut faire la somme des chiffres correspondant aux rangs des lettres dans l'alphabet"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2147,
+      "line": 2148,
       "id": 1213,
       "date": "13/12",
       "type": "enigma",
       "text": "Je suis parfois bonne, jamais délicieuse.\nParfois mauvaise mais pas méchante.\nJe peux être de sel ou d'argent.\nJe me pointe dans les trousses des écoliers.\nQui suis-je ?\n",
-      "answer": "> Je suis une mine"
+      "answer": "Je suis une mine"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2156,
+      "line": 2157,
       "id": 1214,
       "date": "14/12",
       "type": "enigma",
       "text": "Quel couple de lettres complète logiquement cette série ?\nCH CN S SU SD ?\nQD, ST ou CH ?\n",
-      "answer": "> ST, ce sont des abréviations des nombres Cinquante-Huit, Cinquente-Neuf, Soixante..."
+      "answer": "ST, ce sont des abréviations des nombres Cinquante-Huit, Cinquente-Neuf, Soixante..."
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2163,
+      "line": 2164,
       "id": 1215,
       "date": "15/12",
       "type": "enigma",
       "text": "En 24h, combien de fois le chiffre 1 apparaît-il sur une horloge à affichage digital ?\n",
-      "answer": "> 397 fois"
+      "answer": "397 fois"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2168,
+      "line": 2169,
       "id": 1216,
       "date": "16/12",
       "type": "enigma",
       "text": "- Je suis plus âgé que Lucas, dit Axel.\n- Je suis moins vieux qu'Axel, dit Lucas.\nSachant qu'au moins l'un des deux se trompe, qui est plus âgé que qui ?\n",
-      "answer": "> Lucas est plus âgé qu'Axel. Les deux se trompent"
+      "answer": "Lucas est plus âgé qu'Axel. Les deux se trompent"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2175,
+      "line": 2176,
       "id": 1218,
       "date": "18/12",
       "type": "enigma",
       "text": "Une serveuse met 10 secondes pour descendre de la salle à la cuisine.\nRemonter l'escalier, qui fait 20 marches, lui demande deux fois plus de temps.\nSachant qu'elle passe en moyenne 3 heures par jour dans l'escalier, combien emprunte-t-elle de marches ?\n",
-      "answer": "> Elle emprunte 14400 marches !"
+      "answer": "Elle emprunte 14400 marches !"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2182,
+      "line": 2183,
       "id": 1219,
       "date": "19/12",
       "type": "enigma",
       "text": "ABC est un nombre premier.\nQuel est ce nombre sachant que :\nA + B + C = 10\nB != C\nA <= 5\nB <= 5\nC <= 5\nB = A - 1\n",
-      "answer": "> 541"
+      "answer": "541"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2194,
+      "line": 2195,
       "id": 1220,
       "date": "20/12",
       "type": "enigma",
       "text": "Trois comploteurs sont arrêtés.\nLe premier est décapité, le deuxième écartelé et le troisième embastillé.\nPourtant, un seul homme est mort.\nComment l'expliquer ?\n",
-      "answer": "> L'un des deux premiers était une femme"
+      "answer": "L'un des deux premiers était une femme"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2202,
+      "line": 2203,
       "id": 1221,
       "date": "21/12",
       "type": "enigma",
       "text": "Au moyen Âge, un paysan valait presque un gros gibier.\nQuel gibier et pourquoi ?\n",
-      "answer": "> Un paysan était un serf. À une lettre près, il valait un cerf"
+      "answer": "Un paysan était un serf. À une lettre près, il valait un cerf"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2208,
+      "line": 2209,
       "id": 1222,
       "date": "22/12",
       "type": "enigma",
       "text": "Quelle lettre remplace logiquement le point d'interrogation ?\n|T|\n-----\nI| |R\n-----\nR| |?\n-----\n|O|\n",
-      "answer": "> I, on lit le mot tiroir dans le sens inverse des aiguilles d'une montre"
+      "answer": "I, on lit le mot tiroir dans le sens inverse des aiguilles d'une montre"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2220,
+      "line": 2221,
       "id": 1223,
       "date": "23/12",
       "type": "enigma",
       "text": "Décryptez ce message :\nCAR MER DEJA EMIR VUE\nREVE OIE PUR LYS RAT\nFER PONT DARD TRUC\nFRAC FLAN BOB TOUR\n",
-      "answer": "> Ce jeu vous rendra fou. Il faut prendre la 1e lettre du 1er mot, la 2e du 2e etc"
+      "answer": "Ce jeu vous rendra fou. Il faut prendre la 1e lettre du 1er mot, la 2e du 2e etc"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2229,
+      "line": 2230,
       "id": 1224,
       "date": "24/12",
       "type": "enigma",
       "text": "Deux roues dentées forment un engrenage.\nSachant que la première roue, qui a 9 dents, fait 6 tours quand la deuxième roue en fait 3, combien cette roue a-t-elle de dents ?\n",
-      "answer": "> 18"
+      "answer": "18"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2235,
+      "line": 2236,
       "id": 1225,
       "date": "25/12",
       "type": "enigma",
       "text": "Le frère du père de Noël peut-il devenir le gendre de Noël ?\nSi oui, comment ?\n",
-      "answer": "> Oui, mais par alliance seulement. Il doit épouser la fille que l'épouse actuelle de Noël a eue d'une précédente union (y a rien qui va là, déjà \"Noël\" s'appelait Grégoire à la base, alors qu'ils pouvaient faire un truc avec Noël, puis l'oncle a juste à marier la fille de Noël, c'est consanguin mais possible)"
+      "answer": "Oui, mais par alliance seulement. Il doit épouser la fille que l'épouse actuelle de Noël a eue d'une précédente union (y a rien qui va là, déjà \"Noël\" s'appelait Grégoire à la base, alors qu'ils pouvaient faire un truc avec Noël, puis l'oncle a juste à marier la fille de Noël, c'est consanguin mais possible)"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2241,
+      "line": 2242,
       "id": 1226,
       "date": "26/12",
       "type": "enigma",
       "text": "Observez cette suite d'heures :\n00h50 ; 00h05 ; 00h35 ; 1h20\nQuelle heure doit suivre ?\n2h20 ; 3h45 ; 4h10 ; 4h35\n",
-      "answer": "> 2h20, il faut ajouter 15min, puis 30, puis 40 etc"
+      "answer": "2h20, il faut ajouter 15min, puis 30, puis 40 etc"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2249,
+      "line": 2250,
       "id": 1227,
       "date": "27/12",
       "type": "enigma",
       "text": "Une voiture avec son conducteur pèse 300kg.\nSachant que le poids du conducteur est égal au tiers du poids de la voiture vide, combien pèse le conduceur ?\n",
-      "answer": "> 75kg"
+      "answer": "75kg"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2255,
+      "line": 2256,
       "id": 1228,
       "date": "28/12",
       "type": "enigma",
       "text": "Trente enfants forment une ronde.\nChaque enfant affirme qu'il ne ment jamais, contrairement à ses voisins.\nCombien y a-t-il de menteurs ?\n",
-      "answer": "> 15"
+      "answer": "15"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2262,
+      "line": 2263,
       "id": 1229,
       "date": "29/12",
       "type": "enigma",
       "text": "Je peux avoir du poids, pourtant je ne pèse rien.\nJe peux être persuasif, pourtant je ne sais pas parler.\nJe peux être en faveur de quelqu'un, pourtant je ne vote pas.\nOn peut être court d'idées comme moi.\nQui suis-je ?\n",
-      "answer": "> Je suis un argument"
+      "answer": "Je suis un argument"
     },
     {
       "almanachName": "365 Casse-Tête pour se creuser les méninges",
       "almanachFile": "AlmanachCasseTete.txt",
-      "line": 2271,
+      "line": 2272,
       "id": 1230,
       "date": "30/12",
       "type": "enigma",
       "text": "Le chien dort dans sa niche.\nÉlisa dort à l'asile, Simona dort dans sa maison.\nOù dort Macha ?\n",
-      "answer": "> Dans un haMac"
+      "answer": "Dans un haMac"
     }
   ]
 }

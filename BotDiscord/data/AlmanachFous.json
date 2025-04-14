@@ -6,7 +6,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 4,
+      "line": 5,
       "id": 10101,
       "date": "01/01",
       "type": "text",
@@ -15,7 +15,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 10,
+      "line": 11,
       "id": 10102,
       "date": "02/01",
       "type": "text",
@@ -24,17 +24,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 15,
+      "line": 16,
       "id": 10103,
       "date": "03/01",
       "type": "enigma",
       "text": "Pourquoi il n'y plus de fous dans les asiles ?\n",
-      "answer": "> Parce qu'ils sont tous dans les histoires drôles !"
+      "answer": "Parce qu'ils sont tous dans les histoires drôles !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 20,
+      "line": 21,
       "id": 10104,
       "date": "04/01",
       "type": "text",
@@ -43,7 +43,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 26,
+      "line": 27,
       "id": 10105,
       "date": "05/01",
       "type": "text",
@@ -52,7 +52,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 32,
+      "line": 33,
       "id": 10106,
       "date": "06/01",
       "type": "text",
@@ -61,7 +61,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 38,
+      "line": 39,
       "id": 10107,
       "date": "07/01",
       "type": "text",
@@ -70,7 +70,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 44,
+      "line": 45,
       "id": 10108,
       "date": "08/01",
       "type": "text",
@@ -79,7 +79,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 50,
+      "line": 51,
       "id": 10109,
       "date": "09/01",
       "type": "text",
@@ -88,7 +88,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 55,
+      "line": 56,
       "id": 10110,
       "date": "10/01",
       "type": "text",
@@ -97,17 +97,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 60,
+      "line": 61,
       "id": 10111,
       "date": "11/01",
       "type": "enigma",
       "text": "Comment un fou éteint-il la lumière ?\n",
-      "answer": "> En fermant les yeux !"
+      "answer": "En fermant les yeux !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 65,
+      "line": 66,
       "id": 10112,
       "date": "12/01",
       "type": "text",
@@ -116,7 +116,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 70,
+      "line": 71,
       "id": 10113,
       "date": "13/01",
       "type": "text",
@@ -125,7 +125,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 76,
+      "line": 77,
       "id": 10114,
       "date": "14/01",
       "type": "text",
@@ -134,7 +134,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 84,
+      "line": 85,
       "id": 10115,
       "date": "15/01",
       "type": "text",
@@ -143,7 +143,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 90,
+      "line": 91,
       "id": 10116,
       "date": "16/01",
       "type": "text",
@@ -152,7 +152,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 95,
+      "line": 96,
       "id": 10117,
       "date": "17/01",
       "type": "text",
@@ -161,7 +161,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 101,
+      "line": 102,
       "id": 10118,
       "date": "18/01",
       "type": "text",
@@ -170,7 +170,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 106,
+      "line": 107,
       "id": 10119,
       "date": "19/01",
       "type": "text",
@@ -179,7 +179,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 111,
+      "line": 112,
       "id": 10120,
       "date": "20/01",
       "type": "text",
@@ -188,7 +188,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 118,
+      "line": 119,
       "id": 10121,
       "date": "21/01",
       "type": "text",
@@ -197,7 +197,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 123,
+      "line": 124,
       "id": 10122,
       "date": "22/01",
       "type": "text",
@@ -206,17 +206,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 128,
+      "line": 129,
       "id": 10123,
       "date": "23/01",
       "type": "enigma",
       "text": "Pourquoi les fous portent-ils un pyjama quand ils font de la moto ?\n",
-      "answer": "> Pour mieux se coucher dans les virages."
+      "answer": "Pour mieux se coucher dans les virages."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 133,
+      "line": 134,
       "id": 10124,
       "date": "24/01",
       "type": "text",
@@ -225,7 +225,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 140,
+      "line": 141,
       "id": 10125,
       "date": "25/01",
       "type": "text",
@@ -234,7 +234,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 147,
+      "line": 148,
       "id": 10126,
       "date": "26/01",
       "type": "text",
@@ -243,7 +243,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 153,
+      "line": 154,
       "id": 10127,
       "date": "27/01",
       "type": "text",
@@ -252,7 +252,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 159,
+      "line": 160,
       "id": 10128,
       "date": "28/01",
       "type": "text",
@@ -261,7 +261,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 164,
+      "line": 165,
       "id": 10129,
       "date": "29/01",
       "type": "text",
@@ -270,7 +270,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 169,
+      "line": 170,
       "id": 10130,
       "date": "30/01",
       "type": "text",
@@ -279,7 +279,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 175,
+      "line": 176,
       "id": 10131,
       "date": "31/01",
       "type": "text",
@@ -288,7 +288,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 183,
+      "line": 184,
       "id": 10201,
       "date": "01/02",
       "type": "text",
@@ -297,7 +297,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 190,
+      "line": 191,
       "id": 10202,
       "date": "02/02",
       "type": "text",
@@ -306,7 +306,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 196,
+      "line": 197,
       "id": 10203,
       "date": "03/02",
       "type": "text",
@@ -315,17 +315,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 201,
+      "line": 202,
       "id": 10204,
       "date": "04/02",
       "type": "enigma",
       "text": "Quelle est la différence entre un fou et une enveloppe ?\n",
-      "answer": "> Aucune, ils sont tous les deux timbrés !"
+      "answer": "Aucune, ils sont tous les deux timbrés !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 206,
+      "line": 207,
       "id": 10205,
       "date": "05/02",
       "type": "text",
@@ -334,7 +334,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 212,
+      "line": 213,
       "id": 10206,
       "date": "06/02",
       "type": "text",
@@ -343,7 +343,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 218,
+      "line": 219,
       "id": 10207,
       "date": "07/02",
       "type": "text",
@@ -352,7 +352,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 225,
+      "line": 226,
       "id": 10208,
       "date": "08/02",
       "type": "text",
@@ -361,7 +361,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 231,
+      "line": 232,
       "id": 10209,
       "date": "09/02",
       "type": "text",
@@ -370,7 +370,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 237,
+      "line": 238,
       "id": 10210,
       "date": "10/02",
       "type": "text",
@@ -379,7 +379,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 243,
+      "line": 244,
       "id": 10211,
       "date": "11/02",
       "type": "text",
@@ -388,17 +388,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 248,
+      "line": 249,
       "id": 10212,
       "date": "12/02",
       "type": "enigma",
       "text": "À quoi reconnaît-on un fou dans un parc ?\n",
-      "answer": "> Il arrive en aboyant et va toujours chercher la baballe !"
+      "answer": "Il arrive en aboyant et va toujours chercher la baballe !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 253,
+      "line": 254,
       "id": 10213,
       "date": "13/02",
       "type": "text",
@@ -407,7 +407,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 263,
+      "line": 264,
       "id": 10214,
       "date": "14/02",
       "type": "text",
@@ -416,7 +416,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 270,
+      "line": 271,
       "id": 10215,
       "date": "15/02",
       "type": "text",
@@ -425,7 +425,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 275,
+      "line": 276,
       "id": 10216,
       "date": "16/02",
       "type": "text",
@@ -434,7 +434,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 283,
+      "line": 284,
       "id": 10217,
       "date": "17/02",
       "type": "text",
@@ -443,7 +443,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 290,
+      "line": 291,
       "id": 10218,
       "date": "18/02",
       "type": "text",
@@ -452,7 +452,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 296,
+      "line": 297,
       "id": 10219,
       "date": "19/02",
       "type": "text",
@@ -461,7 +461,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 302,
+      "line": 303,
       "id": 10220,
       "date": "20/02",
       "type": "text",
@@ -470,7 +470,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 308,
+      "line": 309,
       "id": 10221,
       "date": "21/02",
       "type": "text",
@@ -479,17 +479,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 314,
+      "line": 315,
       "id": 10222,
       "date": "22/02",
       "type": "enigma",
       "text": "Pourquoi les fous ont-ils toujours les cheuveux mouillés le matin ?\n",
-      "answer": "> Parce qu'ils disent bonjour à leur poisson rouge en lui faisant un bisou !"
+      "answer": "Parce qu'ils disent bonjour à leur poisson rouge en lui faisant un bisou !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 319,
+      "line": 320,
       "id": 10223,
       "date": "23/02",
       "type": "text",
@@ -498,7 +498,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 326,
+      "line": 327,
       "id": 10224,
       "date": "24/02",
       "type": "text",
@@ -507,7 +507,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 331,
+      "line": 332,
       "id": 10225,
       "date": "25/02",
       "type": "text",
@@ -516,7 +516,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 337,
+      "line": 338,
       "id": 10226,
       "date": "26/02",
       "type": "text",
@@ -525,7 +525,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 343,
+      "line": 344,
       "id": 10227,
       "date": "27/02",
       "type": "text",
@@ -534,17 +534,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 348,
+      "line": 349,
       "id": 10228,
       "date": "28/02",
       "type": "enigma",
       "text": "Comment un fou fait-il pour se regarder dans un miroir ?\n",
-      "answer": "> Il regarde sa photo."
+      "answer": "Il regarde sa photo."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 353,
+      "line": 354,
       "id": 10229,
       "date": "29/02",
       "type": "text",
@@ -553,7 +553,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 359,
+      "line": 360,
       "id": 10301,
       "date": "01/03",
       "type": "text",
@@ -562,7 +562,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 365,
+      "line": 366,
       "id": 10302,
       "date": "02/03",
       "type": "text",
@@ -571,7 +571,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 372,
+      "line": 373,
       "id": 10303,
       "date": "03/03",
       "type": "text",
@@ -580,17 +580,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 379,
+      "line": 380,
       "id": 10304,
       "date": "04/03",
       "type": "enigma",
       "text": "Comment sait-on qu'un fou a utilisé un ordinateur ?\n",
-      "answer": "> Il y a du fromage à côté de la souris."
+      "answer": "Il y a du fromage à côté de la souris."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 384,
+      "line": 385,
       "id": 10305,
       "date": "05/03",
       "type": "text",
@@ -599,7 +599,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 389,
+      "line": 390,
       "id": 10306,
       "date": "06/03",
       "type": "text",
@@ -608,7 +608,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 397,
+      "line": 398,
       "id": 10307,
       "date": "07/03",
       "type": "text",
@@ -617,7 +617,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 403,
+      "line": 404,
       "id": 10308,
       "date": "08/03",
       "type": "text",
@@ -626,7 +626,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 410,
+      "line": 411,
       "id": 10309,
       "date": "09/03",
       "type": "text",
@@ -635,7 +635,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 416,
+      "line": 417,
       "id": 10310,
       "date": "10/03",
       "type": "text",
@@ -644,7 +644,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 422,
+      "line": 423,
       "id": 10311,
       "date": "11/03",
       "type": "text",
@@ -653,7 +653,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 429,
+      "line": 430,
       "id": 10312,
       "date": "12/03",
       "type": "text",
@@ -662,17 +662,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 435,
+      "line": 436,
       "id": 10313,
       "date": "13/03",
       "type": "enigma",
       "text": "Comment reconnaît-on un concierge fou ?\n",
-      "answer": "> Il nettoie l'ascenceur à tous les étages !"
+      "answer": "Il nettoie l'ascenceur à tous les étages !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 440,
+      "line": 441,
       "id": 10314,
       "date": "14/03",
       "type": "text",
@@ -681,7 +681,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 446,
+      "line": 447,
       "id": 10315,
       "date": "15/03",
       "type": "text",
@@ -690,7 +690,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 453,
+      "line": 454,
       "id": 10316,
       "date": "16/03",
       "type": "text",
@@ -699,7 +699,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 460,
+      "line": 461,
       "id": 10317,
       "date": "17/03",
       "type": "text",
@@ -708,7 +708,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 467,
+      "line": 468,
       "id": 10318,
       "date": "18/03",
       "type": "text",
@@ -717,7 +717,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 472,
+      "line": 473,
       "id": 10319,
       "date": "19/03",
       "type": "text",
@@ -726,7 +726,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 479,
+      "line": 480,
       "id": 10320,
       "date": "20/03",
       "type": "text",
@@ -735,7 +735,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 486,
+      "line": 487,
       "id": 10321,
       "date": "21/03",
       "type": "text",
@@ -744,7 +744,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 493,
+      "line": 494,
       "id": 10322,
       "date": "22/03",
       "type": "text",
@@ -753,7 +753,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 500,
+      "line": 501,
       "id": 10323,
       "date": "23/03",
       "type": "text",
@@ -762,7 +762,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 505,
+      "line": 506,
       "id": 10324,
       "date": "24/03",
       "type": "text",
@@ -771,7 +771,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 512,
+      "line": 513,
       "id": 10325,
       "date": "25/03",
       "type": "text",
@@ -780,7 +780,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 518,
+      "line": 519,
       "id": 10326,
       "date": "26/03",
       "type": "text",
@@ -789,7 +789,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 524,
+      "line": 525,
       "id": 10327,
       "date": "27/03",
       "type": "text",
@@ -798,7 +798,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 530,
+      "line": 531,
       "id": 10328,
       "date": "28/03",
       "type": "text",
@@ -807,7 +807,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 537,
+      "line": 538,
       "id": 10329,
       "date": "29/03",
       "type": "text",
@@ -816,7 +816,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 544,
+      "line": 545,
       "id": 10330,
       "date": "30/03",
       "type": "text",
@@ -825,17 +825,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 550,
+      "line": 551,
       "id": 10331,
       "date": "31/03",
       "type": "enigma",
       "text": "Pourquoi un fou n'arrive pas à additionner 10 et 5 avec une calculatrice ?\n",
-      "answer": "> Parce qu'il ne trouve jamais la touche 10 !"
+      "answer": "Parce qu'il ne trouve jamais la touche 10 !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 555,
+      "line": 556,
       "id": 10401,
       "date": "01/04",
       "type": "text",
@@ -844,7 +844,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 561,
+      "line": 562,
       "id": 10402,
       "date": "02/04",
       "type": "text",
@@ -853,7 +853,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 569,
+      "line": 570,
       "id": 10403,
       "date": "03/04",
       "type": "text",
@@ -862,7 +862,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 576,
+      "line": 577,
       "id": 10404,
       "date": "04/04",
       "type": "text",
@@ -871,17 +871,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 584,
+      "line": 585,
       "id": 10405,
       "date": "05/04",
       "type": "enigma",
       "text": "Que fait un fou après avoir ramassé les feuilles d'un arbre ?\n",
-      "answer": "> Il descend de l'arbre !"
+      "answer": "Il descend de l'arbre !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 589,
+      "line": 590,
       "id": 10406,
       "date": "06/04",
       "type": "text",
@@ -890,7 +890,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 595,
+      "line": 596,
       "id": 10407,
       "date": "07/04",
       "type": "text",
@@ -899,7 +899,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 602,
+      "line": 603,
       "id": 10408,
       "date": "08/04",
       "type": "text",
@@ -908,7 +908,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 608,
+      "line": 609,
       "id": 10409,
       "date": "09/04",
       "type": "text",
@@ -917,7 +917,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 616,
+      "line": 617,
       "id": 10410,
       "date": "10/04",
       "type": "text",
@@ -926,7 +926,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 622,
+      "line": 623,
       "id": 10411,
       "date": "11/04",
       "type": "text",
@@ -935,7 +935,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 630,
+      "line": 631,
       "id": 10412,
       "date": "12/04",
       "type": "text",
@@ -944,7 +944,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 636,
+      "line": 637,
       "id": 10413,
       "date": "13/04",
       "type": "text",
@@ -953,17 +953,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 641,
+      "line": 642,
       "id": 10414,
       "date": "14/04",
       "type": "enigma",
       "text": "Combien de fou faut-il pour changer une ampoule ?\n",
-      "answer": "> Cinq. Un qui monte sur la table, et quatre autres qui tournent la table."
+      "answer": "Cinq. Un qui monte sur la table, et quatre autres qui tournent la table."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 646,
+      "line": 647,
       "id": 10415,
       "date": "15/04",
       "type": "text",
@@ -972,7 +972,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 651,
+      "line": 652,
       "id": 10416,
       "date": "16/04",
       "type": "text",
@@ -981,17 +981,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 657,
+      "line": 658,
       "id": 10417,
       "date": "17/04",
       "type": "enigma",
       "text": "Comment occuper un fou pendant des heures ?\n",
-      "answer": "> En lui donnant une feuille de papier sur laquelle il y a écrit des deux côtés : \"Tournez la page\""
+      "answer": "En lui donnant une feuille de papier sur laquelle il y a écrit des deux côtés : \"Tournez la page\""
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 662,
+      "line": 663,
       "id": 10418,
       "date": "18/04",
       "type": "text",
@@ -1000,7 +1000,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 668,
+      "line": 669,
       "id": 10419,
       "date": "19/04",
       "type": "text",
@@ -1009,7 +1009,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 673,
+      "line": 674,
       "id": 10420,
       "date": "20/04",
       "type": "text",
@@ -1018,7 +1018,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 680,
+      "line": 681,
       "id": 10421,
       "date": "21/04",
       "type": "text",
@@ -1027,7 +1027,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 688,
+      "line": 689,
       "id": 10422,
       "date": "22/04",
       "type": "text",
@@ -1036,7 +1036,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 696,
+      "line": 697,
       "id": 10423,
       "date": "23/04",
       "type": "text",
@@ -1045,7 +1045,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 703,
+      "line": 704,
       "id": 10424,
       "date": "24/04",
       "type": "text",
@@ -1054,17 +1054,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 709,
+      "line": 710,
       "id": 10425,
       "date": "25/04",
       "type": "enigma",
       "text": "Pourquoi les fous mettent-ils la main au-dessus des yeux pour regarder loin ?\n",
-      "answer": "> Parce que s'ils la mettaient devant, il ne verraient rien."
+      "answer": "Parce que s'ils la mettaient devant, il ne verraient rien."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 714,
+      "line": 715,
       "id": 10426,
       "date": "26/04",
       "type": "text",
@@ -1073,7 +1073,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 720,
+      "line": 721,
       "id": 10427,
       "date": "27/04",
       "type": "text",
@@ -1082,7 +1082,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 726,
+      "line": 727,
       "id": 10428,
       "date": "28/04",
       "type": "text",
@@ -1091,17 +1091,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 733,
+      "line": 734,
       "id": 10429,
       "date": "29/04",
       "type": "enigma",
       "text": "Un fous a repéré un billet de 60€ au sommet d'une montagne.\nComment fait-il pour l'escalader et récupérer le billet ?\n",
-      "answer": "> Tu as déjà vu un billet de 60€ toi ?"
+      "answer": "Tu as déjà vu un billet de 60€ toi ?"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 739,
+      "line": 740,
       "id": 10430,
       "date": "30/04",
       "type": "text",
@@ -1110,7 +1110,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 745,
+      "line": 746,
       "id": 10501,
       "date": "01/05",
       "type": "text",
@@ -1119,17 +1119,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 751,
+      "line": 752,
       "id": 10502,
       "date": "02/05",
       "type": "enigma",
       "text": "Comment rendre fou un Belge ?\n",
-      "answer": "> En l'enfermant dans une pièce ronde et en lui annonçant qu'il y a une frite dans un coin."
+      "answer": "En l'enfermant dans une pièce ronde et en lui annonçant qu'il y a une frite dans un coin."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 756,
+      "line": 757,
       "id": 10503,
       "date": "03/05",
       "type": "text",
@@ -1138,7 +1138,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 761,
+      "line": 762,
       "id": 10504,
       "date": "04/05",
       "type": "text",
@@ -1147,7 +1147,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 767,
+      "line": 768,
       "id": 10505,
       "date": "05/05",
       "type": "text",
@@ -1156,7 +1156,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 772,
+      "line": 773,
       "id": 10506,
       "date": "06/05",
       "type": "text",
@@ -1165,7 +1165,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 778,
+      "line": 779,
       "id": 10507,
       "date": "07/05",
       "type": "text",
@@ -1174,7 +1174,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 783,
+      "line": 784,
       "id": 10508,
       "date": "08/05",
       "type": "text",
@@ -1183,7 +1183,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 792,
+      "line": 793,
       "id": 10509,
       "date": "09/05",
       "type": "text",
@@ -1192,17 +1192,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 798,
+      "line": 799,
       "id": 10510,
       "date": "10/05",
       "type": "enigma",
       "text": "Pourquoi les fous ne boivent-ils pas de lait ?\n",
-      "answer": "> Parce qu'ils n'ont jamais réussi à mettre une vache dans leur frigo !"
+      "answer": "Parce qu'ils n'ont jamais réussi à mettre une vache dans leur frigo !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 803,
+      "line": 804,
       "id": 10511,
       "date": "11/05",
       "type": "text",
@@ -1211,7 +1211,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 809,
+      "line": 810,
       "id": 10512,
       "date": "12/05",
       "type": "text",
@@ -1220,7 +1220,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 815,
+      "line": 816,
       "id": 10513,
       "date": "13/05",
       "type": "text",
@@ -1229,7 +1229,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 821,
+      "line": 822,
       "id": 10514,
       "date": "14/05",
       "type": "text",
@@ -1238,17 +1238,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 826,
+      "line": 827,
       "id": 10515,
       "date": "15/05",
       "type": "enigma",
       "text": "Comment un fou fait-il pour tuer un oiseau ?\n",
-      "answer": "> Il le jette du haut d'un immeuble !"
+      "answer": "Il le jette du haut d'un immeuble !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 831,
+      "line": 832,
       "id": 10516,
       "date": "16/05",
       "type": "text",
@@ -1257,7 +1257,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 836,
+      "line": 837,
       "id": 10517,
       "date": "17/05",
       "type": "text",
@@ -1266,17 +1266,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 842,
+      "line": 843,
       "id": 10518,
       "date": "18/05",
       "type": "enigma",
       "text": "Pourquoi y a-t-il des fous qui font leurs courses en rampant ?\n",
-      "answer": "> Parce qu'ils cherchent toujours les prix les plus bas !"
+      "answer": "Parce qu'ils cherchent toujours les prix les plus bas !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 847,
+      "line": 848,
       "id": 10519,
       "date": "19/05",
       "type": "text",
@@ -1285,7 +1285,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 853,
+      "line": 854,
       "id": 10520,
       "date": "20/05",
       "type": "text",
@@ -1294,7 +1294,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 860,
+      "line": 861,
       "id": 10521,
       "date": "21/05",
       "type": "text",
@@ -1303,7 +1303,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 866,
+      "line": 867,
       "id": 10522,
       "date": "22/05",
       "type": "text",
@@ -1312,7 +1312,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 872,
+      "line": 873,
       "id": 10523,
       "date": "23/05",
       "type": "text",
@@ -1321,17 +1321,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 877,
+      "line": 878,
       "id": 10524,
       "date": "24/05",
       "type": "enigma",
       "text": "Pourquoi certains fous portent-ils une chaîne autour du cou ?\n",
-      "answer": "> Pour savoir jusqu'où ils doivent se raser !"
+      "answer": "Pour savoir jusqu'où ils doivent se raser !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 882,
+      "line": 883,
       "id": 10525,
       "date": "25/05",
       "type": "text",
@@ -1340,7 +1340,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 889,
+      "line": 890,
       "id": 10526,
       "date": "26/05",
       "type": "text",
@@ -1349,17 +1349,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 895,
+      "line": 896,
       "id": 10527,
       "date": "27/05",
       "type": "enigma",
       "text": "Un fou arrive devant une porte de magasin et baisse son pantalon. Pourquoi ?\n",
-      "answer": "> Parce qu'il est écrit : \"Poussez fort !\""
+      "answer": "Parce qu'il est écrit : \"Poussez fort !\""
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 900,
+      "line": 901,
       "id": 10528,
       "date": "28/05",
       "type": "text",
@@ -1368,7 +1368,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 907,
+      "line": 908,
       "id": 10529,
       "date": "29/05",
       "type": "text",
@@ -1377,7 +1377,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 913,
+      "line": 914,
       "id": 10530,
       "date": "30/05",
       "type": "text",
@@ -1386,7 +1386,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 919,
+      "line": 920,
       "id": 10531,
       "date": "31/05",
       "type": "text",
@@ -1395,7 +1395,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 925,
+      "line": 926,
       "id": 10601,
       "date": "01/06",
       "type": "text",
@@ -1404,7 +1404,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 930,
+      "line": 931,
       "id": 10602,
       "date": "02/06",
       "type": "text",
@@ -1413,7 +1413,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 935,
+      "line": 936,
       "id": 10603,
       "date": "03/06",
       "type": "text",
@@ -1422,7 +1422,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 940,
+      "line": 941,
       "id": 10604,
       "date": "04/06",
       "type": "text",
@@ -1431,7 +1431,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 947,
+      "line": 948,
       "id": 10605,
       "date": "05/06",
       "type": "text",
@@ -1440,7 +1440,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 953,
+      "line": 954,
       "id": 10606,
       "date": "06/06",
       "type": "text",
@@ -1449,17 +1449,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 960,
+      "line": 961,
       "id": 10607,
       "date": "07/06",
       "type": "enigma",
       "text": "Pourquoi les fous jettent parfois du pain dans les toilettes ?\n",
-      "answer": "> Pour nourrir le Canard WC !"
+      "answer": "Pour nourrir le Canard WC !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 965,
+      "line": 966,
       "id": 10608,
       "date": "08/06",
       "type": "text",
@@ -1468,7 +1468,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 970,
+      "line": 971,
       "id": 10609,
       "date": "09/06",
       "type": "text",
@@ -1477,7 +1477,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 976,
+      "line": 977,
       "id": 10610,
       "date": "10/06",
       "type": "text",
@@ -1486,7 +1486,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 983,
+      "line": 984,
       "id": 10611,
       "date": "11/06",
       "type": "text",
@@ -1495,17 +1495,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 989,
+      "line": 990,
       "id": 10612,
       "date": "12/06",
       "type": "enigma",
       "text": "Pourquoi les fous mettent-ils les glaçons dans le frigo ?\n",
-      "answer": "> Pour que le frigo reste froid !"
+      "answer": "Pour que le frigo reste froid !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 994,
+      "line": 995,
       "id": 10613,
       "date": "13/06",
       "type": "text",
@@ -1514,7 +1514,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1001,
+      "line": 1002,
       "id": 10614,
       "date": "14/06",
       "type": "text",
@@ -1523,7 +1523,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1007,
+      "line": 1008,
       "id": 10615,
       "date": "15/06",
       "type": "text",
@@ -1532,17 +1532,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1013,
+      "line": 1014,
       "id": 10616,
       "date": "16/06",
       "type": "enigma",
       "text": "Comment un fou utilise-t-il un éventail ?\n",
-      "answer": "> En remuant la tête !"
+      "answer": "En remuant la tête !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1018,
+      "line": 1019,
       "id": 10617,
       "date": "17/06",
       "type": "text",
@@ -1551,7 +1551,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1024,
+      "line": 1025,
       "id": 10618,
       "date": "18/06",
       "type": "text",
@@ -1560,7 +1560,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1029,
+      "line": 1030,
       "id": 10619,
       "date": "19/06",
       "type": "text",
@@ -1569,7 +1569,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1036,
+      "line": 1037,
       "id": 10620,
       "date": "20/06",
       "type": "text",
@@ -1578,17 +1578,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1042,
+      "line": 1043,
       "id": 10621,
       "date": "21/06",
       "type": "enigma",
       "text": "Comment reconnaît-on un fou sur un circuit de Formule 1 ?\n",
-      "answer": "> Il demande son chemin à chaque virage."
+      "answer": "Il demande son chemin à chaque virage."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1047,
+      "line": 1048,
       "id": 10622,
       "date": "22/06",
       "type": "text",
@@ -1597,7 +1597,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1053,
+      "line": 1054,
       "id": 10623,
       "date": "23/06",
       "type": "text",
@@ -1606,7 +1606,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1059,
+      "line": 1060,
       "id": 10624,
       "date": "24/06",
       "type": "text",
@@ -1615,7 +1615,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1065,
+      "line": 1066,
       "id": 10625,
       "date": "25/06",
       "type": "text",
@@ -1624,7 +1624,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1071,
+      "line": 1072,
       "id": 10626,
       "date": "26/06",
       "type": "text",
@@ -1633,7 +1633,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1077,
+      "line": 1078,
       "id": 10627,
       "date": "27/06",
       "type": "text",
@@ -1642,7 +1642,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1086,
+      "line": 1087,
       "id": 10628,
       "date": "28/06",
       "type": "text",
@@ -1651,17 +1651,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1093,
+      "line": 1094,
       "id": 10629,
       "date": "29/06",
       "type": "enigma",
       "text": "Comment fait un fou pour savoir s'il a reçu un e-mail ?\n",
-      "answer": "> Il regarde dans la boîte aux lettres de chez lui"
+      "answer": "Il regarde dans la boîte aux lettres de chez lui"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1098,
+      "line": 1099,
       "id": 10630,
       "date": "30/06",
       "type": "text",
@@ -1670,7 +1670,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1104,
+      "line": 1105,
       "id": 10701,
       "date": "01/07",
       "type": "text",
@@ -1679,7 +1679,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1110,
+      "line": 1111,
       "id": 10702,
       "date": "02/07",
       "type": "text",
@@ -1688,7 +1688,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1115,
+      "line": 1116,
       "id": 10703,
       "date": "03/07",
       "type": "text",
@@ -1697,17 +1697,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1121,
+      "line": 1122,
       "id": 10704,
       "date": "04/07",
       "type": "enigma",
       "text": "Comment sont les échelles dans les hôpitaux pour fous ?\n",
-      "answer": "> Il y a écrit \"Stop\" sur le dernier barreau"
+      "answer": "Il y a écrit \"Stop\" sur le dernier barreau"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1126,
+      "line": 1127,
       "id": 10705,
       "date": "05/07",
       "type": "text",
@@ -1716,7 +1716,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1132,
+      "line": 1133,
       "id": 10706,
       "date": "06/07",
       "type": "text",
@@ -1725,7 +1725,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1138,
+      "line": 1139,
       "id": 10707,
       "date": "07/07",
       "type": "text",
@@ -1734,7 +1734,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1146,
+      "line": 1147,
       "id": 10708,
       "date": "08/07",
       "type": "text",
@@ -1743,7 +1743,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1153,
+      "line": 1154,
       "id": 10709,
       "date": "09/07",
       "type": "text",
@@ -1752,7 +1752,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1158,
+      "line": 1159,
       "id": 10710,
       "date": "10/07",
       "type": "text",
@@ -1761,7 +1761,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1165,
+      "line": 1166,
       "id": 10711,
       "date": "11/07",
       "type": "text",
@@ -1770,7 +1770,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1171,
+      "line": 1172,
       "id": 10712,
       "date": "12/07",
       "type": "text",
@@ -1779,7 +1779,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1179,
+      "line": 1180,
       "id": 10713,
       "date": "13/07",
       "type": "text",
@@ -1788,7 +1788,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1185,
+      "line": 1186,
       "id": 10714,
       "date": "14/07",
       "type": "text",
@@ -1797,7 +1797,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1191,
+      "line": 1192,
       "id": 10715,
       "date": "15/07",
       "type": "text",
@@ -1806,17 +1806,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1197,
+      "line": 1198,
       "id": 10716,
       "date": "16/07",
       "type": "enigma",
       "text": "Comment reconnaît-on un fou dans un sous-marin ?\n",
-      "answer": "> C'est le seul à avoir un parachute sur le dos."
+      "answer": "C'est le seul à avoir un parachute sur le dos."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1202,
+      "line": 1203,
       "id": 10717,
       "date": "17/07",
       "type": "text",
@@ -1825,7 +1825,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1208,
+      "line": 1209,
       "id": 10718,
       "date": "18/07",
       "type": "text",
@@ -1834,7 +1834,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1215,
+      "line": 1216,
       "id": 10719,
       "date": "19/07",
       "type": "text",
@@ -1843,7 +1843,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1221,
+      "line": 1222,
       "id": 10720,
       "date": "20/07",
       "type": "text",
@@ -1852,7 +1852,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1227,
+      "line": 1228,
       "id": 10721,
       "date": "21/07",
       "type": "text",
@@ -1861,7 +1861,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1233,
+      "line": 1234,
       "id": 10722,
       "date": "22/07",
       "type": "text",
@@ -1870,7 +1870,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1239,
+      "line": 1240,
       "id": 10723,
       "date": "23/07",
       "type": "text",
@@ -1879,17 +1879,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1245,
+      "line": 1246,
       "id": 10724,
       "date": "24/07",
       "type": "enigma",
       "text": "Pourquoi les fous nagent-ils toujours au fond des piscines ?\n",
-      "answer": "> Parce qu'au fond, ils ne sont pas si bêtes !"
+      "answer": "Parce qu'au fond, ils ne sont pas si bêtes !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1250,
+      "line": 1251,
       "id": 10725,
       "date": "25/07",
       "type": "text",
@@ -1898,7 +1898,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1256,
+      "line": 1257,
       "id": 10726,
       "date": "26/07",
       "type": "text",
@@ -1907,17 +1907,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1262,
+      "line": 1263,
       "id": 10727,
       "date": "27/07",
       "type": "enigma",
       "text": "Que fait un fou qui a l'oreille collée contre le mur de sa maison ?\n",
-      "answer": "> Il écoute de la house music (house veut dire \"maison\" en anglais)"
+      "answer": "Il écoute de la house music (house veut dire \"maison\" en anglais)"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1267,
+      "line": 1268,
       "id": 10728,
       "date": "28/07",
       "type": "text",
@@ -1926,7 +1926,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1272,
+      "line": 1273,
       "id": 10729,
       "date": "29/07",
       "type": "text",
@@ -1935,7 +1935,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1277,
+      "line": 1278,
       "id": 10730,
       "date": "30/07",
       "type": "text",
@@ -1944,7 +1944,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1283,
+      "line": 1284,
       "id": 10731,
       "date": "31/07",
       "type": "text",
@@ -1953,17 +1953,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1289,
+      "line": 1290,
       "id": 10801,
       "date": "01/08",
       "type": "enigma",
       "text": "Pourquoi certains fous mettent-ils comme fond d'écran sur leur ordinateur une photo du soleil qui brille ?\n",
-      "answer": "> Parce qu'ils pensent que ça va les faire bronzer."
+      "answer": "Parce qu'ils pensent que ça va les faire bronzer."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1294,
+      "line": 1295,
       "id": 10802,
       "date": "02/08",
       "type": "text",
@@ -1972,7 +1972,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1300,
+      "line": 1301,
       "id": 10803,
       "date": "03/08",
       "type": "text",
@@ -1981,7 +1981,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1306,
+      "line": 1307,
       "id": 10804,
       "date": "04/08",
       "type": "text",
@@ -1990,7 +1990,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1312,
+      "line": 1313,
       "id": 10805,
       "date": "05/08",
       "type": "text",
@@ -1999,7 +1999,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1318,
+      "line": 1319,
       "id": 10806,
       "date": "06/08",
       "type": "text",
@@ -2008,7 +2008,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1325,
+      "line": 1326,
       "id": 10807,
       "date": "07/08",
       "type": "text",
@@ -2017,7 +2017,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1331,
+      "line": 1332,
       "id": 10808,
       "date": "08/08",
       "type": "text",
@@ -2026,17 +2026,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1336,
+      "line": 1337,
       "id": 10809,
       "date": "09/08",
       "type": "enigma",
       "text": "Pourquoi y a-t-il des fous qui courent avec un seau d'eau autour de leur maison ?\n",
-      "answer": "> Pour avoir de l'eau courante."
+      "answer": "Pour avoir de l'eau courante."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1341,
+      "line": 1342,
       "id": 10810,
       "date": "10/08",
       "type": "text",
@@ -2045,7 +2045,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1347,
+      "line": 1348,
       "id": 10811,
       "date": "11/08",
       "type": "text",
@@ -2054,7 +2054,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1353,
+      "line": 1354,
       "id": 10812,
       "date": "12/08",
       "type": "text",
@@ -2063,17 +2063,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1361,
+      "line": 1362,
       "id": 10813,
       "date": "13/08",
       "type": "enigma",
       "text": "Pourquoi les fous découpent-ils les parties colorées de leurs vêtements avant de les laver ?\n",
-      "answer": "> Parce que sur l'étiquette, il est écrit : \"Laver les couleurs séparément.\""
+      "answer": "Parce que sur l'étiquette, il est écrit : \"Laver les couleurs séparément.\""
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1366,
+      "line": 1367,
       "id": 10814,
       "date": "14/08",
       "type": "text",
@@ -2082,7 +2082,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1373,
+      "line": 1374,
       "id": 10815,
       "date": "15/08",
       "type": "text",
@@ -2091,7 +2091,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1378,
+      "line": 1379,
       "id": 10816,
       "date": "16/08",
       "type": "text",
@@ -2100,17 +2100,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1385,
+      "line": 1386,
       "id": 10817,
       "date": "17/08",
       "type": "enigma",
       "text": "Un policier arrête un fou qui a trop bu d'alcool.\nLe fou retire ses lunettes. Pourquoi ?\n",
-      "answer": "> Parce que ça fait toujours deux verres en moins."
+      "answer": "Parce que ça fait toujours deux verres en moins."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1391,
+      "line": 1392,
       "id": 10818,
       "date": "18/08",
       "type": "text",
@@ -2119,7 +2119,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1397,
+      "line": 1398,
       "id": 10819,
       "date": "19/08",
       "type": "text",
@@ -2128,7 +2128,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1403,
+      "line": 1404,
       "id": 10820,
       "date": "20/08",
       "type": "text",
@@ -2137,17 +2137,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1409,
+      "line": 1410,
       "id": 10821,
       "date": "21/08",
       "type": "enigma",
       "text": "Comment les fous tuent-ils des poissons ?\n",
-      "answer": "> Ils les noient !"
+      "answer": "Ils les noient !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1414,
+      "line": 1415,
       "id": 10822,
       "date": "22/08",
       "type": "text",
@@ -2156,7 +2156,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1420,
+      "line": 1421,
       "id": 10823,
       "date": "23/08",
       "type": "text",
@@ -2165,7 +2165,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1425,
+      "line": 1426,
       "id": 10824,
       "date": "24/08",
       "type": "text",
@@ -2174,7 +2174,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1431,
+      "line": 1432,
       "id": 10825,
       "date": "25/08",
       "type": "text",
@@ -2183,7 +2183,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1437,
+      "line": 1438,
       "id": 10826,
       "date": "26/08",
       "type": "text",
@@ -2192,7 +2192,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1443,
+      "line": 1444,
       "id": 10827,
       "date": "27/08",
       "type": "text",
@@ -2201,17 +2201,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1449,
+      "line": 1450,
       "id": 10828,
       "date": "28/08",
       "type": "enigma",
       "text": "Pourquoi les fous se précipitent-ils à la fenêtre quand il y a des éclairs ?\n",
-      "answer": "> Pour être sur la photo."
+      "answer": "Pour être sur la photo."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1454,
+      "line": 1455,
       "id": 10829,
       "date": "29/08",
       "type": "text",
@@ -2220,7 +2220,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1461,
+      "line": 1462,
       "id": 10830,
       "date": "30/08",
       "type": "text",
@@ -2229,7 +2229,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1468,
+      "line": 1469,
       "id": 10831,
       "date": "31/08",
       "type": "text",
@@ -2238,7 +2238,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1474,
+      "line": 1475,
       "id": 10901,
       "date": "01/09",
       "type": "text",
@@ -2247,7 +2247,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1480,
+      "line": 1481,
       "id": 10902,
       "date": "02/09",
       "type": "text",
@@ -2256,17 +2256,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1486,
+      "line": 1487,
       "id": 10903,
       "date": "03/09",
       "type": "enigma",
       "text": "Pourquoi les fous vont-ils aux toilettes avec un fusil ?\n",
-      "answer": "> Pour tirer la chasse."
+      "answer": "Pour tirer la chasse."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1491,
+      "line": 1492,
       "id": 10904,
       "date": "04/09",
       "type": "text",
@@ -2275,7 +2275,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1497,
+      "line": 1498,
       "id": 10905,
       "date": "05/09",
       "type": "text",
@@ -2284,7 +2284,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1503,
+      "line": 1504,
       "id": 10906,
       "date": "06/09",
       "type": "text",
@@ -2293,7 +2293,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1510,
+      "line": 1511,
       "id": 10907,
       "date": "07/09",
       "type": "text",
@@ -2302,7 +2302,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1517,
+      "line": 1518,
       "id": 10908,
       "date": "08/09",
       "type": "text",
@@ -2311,7 +2311,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1523,
+      "line": 1524,
       "id": 10909,
       "date": "09/09",
       "type": "text",
@@ -2320,17 +2320,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1530,
+      "line": 1531,
       "id": 10910,
       "date": "10/09",
       "type": "enigma",
       "text": "Pourquoi les fous ne mangent pas des cornichons ?\n",
-      "answer": "> Parce qu'ils n'arrivent pas à rentrer la tête dans le bocal."
+      "answer": "Parce qu'ils n'arrivent pas à rentrer la tête dans le bocal."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1535,
+      "line": 1536,
       "id": 10911,
       "date": "11/09",
       "type": "text",
@@ -2339,7 +2339,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1540,
+      "line": 1541,
       "id": 10912,
       "date": "12/09",
       "type": "text",
@@ -2348,7 +2348,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1547,
+      "line": 1548,
       "id": 10913,
       "date": "13/09",
       "type": "text",
@@ -2357,7 +2357,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1553,
+      "line": 1554,
       "id": 10914,
       "date": "14/09",
       "type": "text",
@@ -2366,17 +2366,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1560,
+      "line": 1561,
       "id": 10915,
       "date": "15/09",
       "type": "enigma",
       "text": "Pourquoi certains fous se regardent-ils dans un miroir les yeux fermés ?\n",
-      "answer": "> Pour voir à quoi ils ressemblent quand il donnent."
+      "answer": "Pour voir à quoi ils ressemblent quand il donnent."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1565,
+      "line": 1566,
       "id": 10916,
       "date": "16/09",
       "type": "text",
@@ -2385,7 +2385,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1571,
+      "line": 1572,
       "id": 10917,
       "date": "17/09",
       "type": "text",
@@ -2394,7 +2394,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1577,
+      "line": 1578,
       "id": 10918,
       "date": "18/09",
       "type": "text",
@@ -2403,7 +2403,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1583,
+      "line": 1584,
       "id": 10919,
       "date": "19/09",
       "type": "text",
@@ -2412,7 +2412,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1590,
+      "line": 1591,
       "id": 10920,
       "date": "20/09",
       "type": "text",
@@ -2421,7 +2421,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1596,
+      "line": 1597,
       "id": 10921,
       "date": "21/09",
       "type": "text",
@@ -2430,7 +2430,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1602,
+      "line": 1603,
       "id": 10922,
       "date": "22/09",
       "type": "text",
@@ -2439,17 +2439,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1608,
+      "line": 1609,
       "id": 10923,
       "date": "23/09",
       "type": "enigma",
       "text": "Qu'emporte un fou quand il va au cinéma ?\n",
-      "answer": "> Sa télécommande car si le film ne lui plaît pas, il pourra toujours changer de chaîne !"
+      "answer": "Sa télécommande car si le film ne lui plaît pas, il pourra toujours changer de chaîne !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1613,
+      "line": 1614,
       "id": 10924,
       "date": "24/09",
       "type": "text",
@@ -2458,7 +2458,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1622,
+      "line": 1623,
       "id": 10925,
       "date": "25/09",
       "type": "text",
@@ -2467,7 +2467,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1629,
+      "line": 1630,
       "id": 10926,
       "date": "26/09",
       "type": "text",
@@ -2476,7 +2476,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1635,
+      "line": 1636,
       "id": 10927,
       "date": "27/09",
       "type": "text",
@@ -2485,7 +2485,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1642,
+      "line": 1643,
       "id": 10928,
       "date": "28/09",
       "type": "text",
@@ -2494,7 +2494,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1648,
+      "line": 1649,
       "id": 10929,
       "date": "29/09",
       "type": "text",
@@ -2503,17 +2503,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1656,
+      "line": 1657,
       "id": 10930,
       "date": "30/09",
       "type": "enigma",
       "text": "Pourquoi les fous dansent-ils devant les feux tricolores ?\n",
-      "answer": "> Parce qu'ils se croient en boîte de nuit !"
+      "answer": "Parce qu'ils se croient en boîte de nuit !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1661,
+      "line": 1662,
       "id": 11001,
       "date": "01/10",
       "type": "text",
@@ -2522,17 +2522,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1668,
+      "line": 1669,
       "id": 11002,
       "date": "02/10",
       "type": "enigma",
       "text": "Combien faut-il de fous pour faire un gâteau au chocolat ?\n",
-      "answer": "> Seize ! Un pour faire la pâte et quinze pour éplucher les Smarties !"
+      "answer": "Seize ! Un pour faire la pâte et quinze pour éplucher les Smarties !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1673,
+      "line": 1674,
       "id": 11003,
       "date": "03/10",
       "type": "text",
@@ -2541,7 +2541,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1679,
+      "line": 1680,
       "id": 11004,
       "date": "04/10",
       "type": "text",
@@ -2550,7 +2550,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1685,
+      "line": 1686,
       "id": 11005,
       "date": "05/10",
       "type": "text",
@@ -2559,7 +2559,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1692,
+      "line": 1693,
       "id": 11006,
       "date": "06/10",
       "type": "text",
@@ -2568,7 +2568,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1698,
+      "line": 1699,
       "id": 11007,
       "date": "07/10",
       "type": "text",
@@ -2577,7 +2577,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1707,
+      "line": 1708,
       "id": 11008,
       "date": "08/10",
       "type": "text",
@@ -2586,7 +2586,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1713,
+      "line": 1714,
       "id": 11009,
       "date": "09/10",
       "type": "text",
@@ -2595,17 +2595,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1719,
+      "line": 1720,
       "id": 11010,
       "date": "10/10",
       "type": "enigma",
       "text": "Comment reconnaît-on un fou dans un magasin de chaussures ?\n",
-      "answer": "> C'est le seul client qui essaie les boîtes !"
+      "answer": "C'est le seul client qui essaie les boîtes !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1724,
+      "line": 1725,
       "id": 11011,
       "date": "11/10",
       "type": "text",
@@ -2614,7 +2614,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1731,
+      "line": 1732,
       "id": 11012,
       "date": "12/10",
       "type": "text",
@@ -2623,7 +2623,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1738,
+      "line": 1739,
       "id": 11013,
       "date": "13/10",
       "type": "text",
@@ -2632,7 +2632,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1743,
+      "line": 1744,
       "id": 11014,
       "date": "14/10",
       "type": "text",
@@ -2641,7 +2641,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1750,
+      "line": 1751,
       "id": 11015,
       "date": "15/10",
       "type": "text",
@@ -2650,7 +2650,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1755,
+      "line": 1756,
       "id": 11016,
       "date": "16/10",
       "type": "text",
@@ -2659,7 +2659,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1763,
+      "line": 1764,
       "id": 11017,
       "date": "17/10",
       "type": "text",
@@ -2668,7 +2668,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1770,
+      "line": 1771,
       "id": 11018,
       "date": "18/10",
       "type": "text",
@@ -2677,17 +2677,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1776,
+      "line": 1777,
       "id": 11019,
       "date": "19/10",
       "type": "enigma",
       "text": "Que fait un fou avant d'éteindre une bougie ?\n",
-      "answer": "> Il l'allume."
+      "answer": "Il l'allume."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1781,
+      "line": 1782,
       "id": 11020,
       "date": "20/10",
       "type": "text",
@@ -2696,7 +2696,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1786,
+      "line": 1787,
       "id": 11021,
       "date": "21/10",
       "type": "text",
@@ -2705,7 +2705,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1792,
+      "line": 1793,
       "id": 11022,
       "date": "22/10",
       "type": "text",
@@ -2714,7 +2714,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1800,
+      "line": 1801,
       "id": 11023,
       "date": "23/10",
       "type": "text",
@@ -2723,17 +2723,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1808,
+      "line": 1809,
       "id": 11024,
       "date": "24/10",
       "type": "enigma",
       "text": "Pourquoi les fous mettent-ils le journal dans le frigo ?\n",
-      "answer": "> Pour avoir des nouvelles fraîches."
+      "answer": "Pour avoir des nouvelles fraîches."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1813,
+      "line": 1814,
       "id": 11025,
       "date": "25/10",
       "type": "text",
@@ -2742,7 +2742,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1819,
+      "line": 1820,
       "id": 11026,
       "date": "26/10",
       "type": "text",
@@ -2751,7 +2751,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1825,
+      "line": 1826,
       "id": 11027,
       "date": "27/10",
       "type": "text",
@@ -2760,7 +2760,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1835,
+      "line": 1836,
       "id": 11028,
       "date": "28/10",
       "type": "text",
@@ -2769,7 +2769,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1842,
+      "line": 1843,
       "id": 11029,
       "date": "29/10",
       "type": "text",
@@ -2778,7 +2778,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1848,
+      "line": 1849,
       "id": 11030,
       "date": "30/10",
       "type": "text",
@@ -2787,7 +2787,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1855,
+      "line": 1856,
       "id": 11031,
       "date": "31/10",
       "type": "text",
@@ -2796,7 +2796,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1861,
+      "line": 1862,
       "id": 11101,
       "date": "01/11",
       "type": "text",
@@ -2805,7 +2805,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1867,
+      "line": 1868,
       "id": 11102,
       "date": "02/11",
       "type": "text",
@@ -2814,7 +2814,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1873,
+      "line": 1874,
       "id": 11103,
       "date": "03/11",
       "type": "text",
@@ -2823,7 +2823,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1880,
+      "line": 1881,
       "id": 11104,
       "date": "04/11",
       "type": "text",
@@ -2832,17 +2832,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1887,
+      "line": 1888,
       "id": 11105,
       "date": "05/11",
       "type": "enigma",
       "text": "Comment reconnaît-on un fou dans un groupe de charmeurs de serpents ?\n",
-      "answer": "> C'est le seul qui essaie de soufler dans le serpent."
+      "answer": "C'est le seul qui essaie de soufler dans le serpent."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1892,
+      "line": 1893,
       "id": 11106,
       "date": "06/11",
       "type": "text",
@@ -2851,7 +2851,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1898,
+      "line": 1899,
       "id": 11107,
       "date": "07/11",
       "type": "text",
@@ -2860,7 +2860,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1904,
+      "line": 1905,
       "id": 11108,
       "date": "08/11",
       "type": "text",
@@ -2869,7 +2869,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1909,
+      "line": 1910,
       "id": 11109,
       "date": "09/11",
       "type": "text",
@@ -2878,17 +2878,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1916,
+      "line": 1917,
       "id": 11110,
       "date": "10/11",
       "type": "enigma",
       "text": "Qu'est-ce qu'un fou avec un cape ?\n",
-      "answer": "> Un super-fou !"
+      "answer": "Un super-fou !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1921,
+      "line": 1922,
       "id": 11111,
       "date": "11/11",
       "type": "text",
@@ -2897,7 +2897,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1928,
+      "line": 1929,
       "id": 11112,
       "date": "12/11",
       "type": "text",
@@ -2906,7 +2906,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1934,
+      "line": 1935,
       "id": 11113,
       "date": "13/11",
       "type": "text",
@@ -2915,7 +2915,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1940,
+      "line": 1941,
       "id": 11114,
       "date": "14/11",
       "type": "text",
@@ -2924,17 +2924,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1947,
+      "line": 1948,
       "id": 11115,
       "date": "15/11",
       "type": "enigma",
       "text": "Comment reconnaît-on un fou sur un Bateau-Mouche ?\n",
-      "answer": "> C'est le seul à utiliser un insecticide."
+      "answer": "C'est le seul à utiliser un insecticide."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1952,
+      "line": 1953,
       "id": 11116,
       "date": "16/11",
       "type": "text",
@@ -2943,7 +2943,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1958,
+      "line": 1959,
       "id": 11117,
       "date": "17/11",
       "type": "text",
@@ -2952,7 +2952,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1963,
+      "line": 1964,
       "id": 11118,
       "date": "18/11",
       "type": "text",
@@ -2961,17 +2961,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1969,
+      "line": 1970,
       "id": 11119,
       "date": "19/11",
       "type": "enigma",
       "text": "Que dit un fou quand il voit une peau de banane par terre ?\n",
-      "answer": "> J'espère que je ne vais pas tomber !"
+      "answer": "J'espère que je ne vais pas tomber !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1974,
+      "line": 1975,
       "id": 11120,
       "date": "20/11",
       "type": "text",
@@ -2980,7 +2980,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1980,
+      "line": 1981,
       "id": 11121,
       "date": "21/11",
       "type": "text",
@@ -2989,7 +2989,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1988,
+      "line": 1989,
       "id": 11122,
       "date": "22/11",
       "type": "text",
@@ -2998,7 +2998,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 1995,
+      "line": 1996,
       "id": 11123,
       "date": "23/11",
       "type": "text",
@@ -3007,7 +3007,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2001,
+      "line": 2002,
       "id": 11124,
       "date": "24/11",
       "type": "text",
@@ -3016,7 +3016,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2009,
+      "line": 2010,
       "id": 11125,
       "date": "25/11",
       "type": "text",
@@ -3025,7 +3025,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2016,
+      "line": 2017,
       "id": 11126,
       "date": "26/11",
       "type": "text",
@@ -3034,7 +3034,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2022,
+      "line": 2023,
       "id": 11127,
       "date": "27/11",
       "type": "text",
@@ -3043,7 +3043,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2028,
+      "line": 2029,
       "id": 11128,
       "date": "28/11",
       "type": "text",
@@ -3052,7 +3052,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2034,
+      "line": 2035,
       "id": 11129,
       "date": "29/11",
       "type": "text",
@@ -3061,7 +3061,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2040,
+      "line": 2041,
       "id": 11130,
       "date": "30/11",
       "type": "text",
@@ -3070,7 +3070,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2046,
+      "line": 2047,
       "id": 11201,
       "date": "01/12",
       "type": "text",
@@ -3079,17 +3079,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2052,
+      "line": 2053,
       "id": 11202,
       "date": "02/12",
       "type": "enigma",
       "text": "Pourquoi les fous ont-ils toujours une hache avec eux ?\n",
-      "answer": "> Pour se fendre la poire !"
+      "answer": "Pour se fendre la poire !"
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2057,
+      "line": 2058,
       "id": 11203,
       "date": "03/12",
       "type": "text",
@@ -3098,7 +3098,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2063,
+      "line": 2064,
       "id": 11204,
       "date": "04/12",
       "type": "text",
@@ -3107,7 +3107,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2070,
+      "line": 2071,
       "id": 11205,
       "date": "05/12",
       "type": "text",
@@ -3116,7 +3116,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2075,
+      "line": 2076,
       "id": 11206,
       "date": "06/12",
       "type": "text",
@@ -3125,7 +3125,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2081,
+      "line": 2082,
       "id": 11207,
       "date": "07/12",
       "type": "text",
@@ -3134,7 +3134,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2089,
+      "line": 2090,
       "id": 11208,
       "date": "08/12",
       "type": "text",
@@ -3143,7 +3143,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2095,
+      "line": 2096,
       "id": 11209,
       "date": "09/12",
       "type": "text",
@@ -3152,7 +3152,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2102,
+      "line": 2103,
       "id": 11210,
       "date": "10/12",
       "type": "text",
@@ -3161,7 +3161,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2107,
+      "line": 2108,
       "id": 11211,
       "date": "11/12",
       "type": "text",
@@ -3170,7 +3170,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2114,
+      "line": 2115,
       "id": 11212,
       "date": "12/12",
       "type": "text",
@@ -3179,7 +3179,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2122,
+      "line": 2123,
       "id": 11213,
       "date": "13/12",
       "type": "text",
@@ -3188,7 +3188,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2127,
+      "line": 2128,
       "id": 11214,
       "date": "14/12",
       "type": "text",
@@ -3197,7 +3197,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2133,
+      "line": 2134,
       "id": 11215,
       "date": "15/12",
       "type": "text",
@@ -3206,7 +3206,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2138,
+      "line": 2139,
       "id": 11216,
       "date": "16/12",
       "type": "text",
@@ -3215,7 +3215,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2144,
+      "line": 2145,
       "id": 11217,
       "date": "17/12",
       "type": "text",
@@ -3224,7 +3224,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2150,
+      "line": 2151,
       "id": 11218,
       "date": "18/12",
       "type": "text",
@@ -3233,7 +3233,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2155,
+      "line": 2156,
       "id": 11219,
       "date": "19/12",
       "type": "text",
@@ -3242,7 +3242,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2161,
+      "line": 2162,
       "id": 11220,
       "date": "20/12",
       "type": "text",
@@ -3251,7 +3251,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2167,
+      "line": 2168,
       "id": 11221,
       "date": "21/12",
       "type": "text",
@@ -3260,7 +3260,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2173,
+      "line": 2174,
       "id": 11222,
       "date": "22/12",
       "type": "text",
@@ -3269,17 +3269,17 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2180,
+      "line": 2181,
       "id": 11223,
       "date": "23/12",
       "type": "enigma",
       "text": "Pourquoi les fous sautent-ils sur les tuyaux d'arrosage ?\n",
-      "answer": "> Pour avoir de l'eau plate."
+      "answer": "Pour avoir de l'eau plate."
     },
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2185,
+      "line": 2186,
       "id": 11224,
       "date": "24/12",
       "type": "text",
@@ -3288,7 +3288,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2191,
+      "line": 2192,
       "id": 11225,
       "date": "25/12",
       "type": "text",
@@ -3297,7 +3297,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2197,
+      "line": 2198,
       "id": 11226,
       "date": "26/12",
       "type": "text",
@@ -3306,7 +3306,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2204,
+      "line": 2205,
       "id": 11227,
       "date": "27/12",
       "type": "text",
@@ -3315,7 +3315,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2210,
+      "line": 2211,
       "id": 11228,
       "date": "28/12",
       "type": "text",
@@ -3324,7 +3324,7 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2217,
+      "line": 2218,
       "id": 11229,
       "date": "29/12",
       "type": "text",
@@ -3333,12 +3333,12 @@
     {
       "almanachName": "365 Blagues de fou",
       "almanachFile": "AlmanachFous.txt",
-      "line": 2222,
+      "line": 2223,
       "id": 11230,
       "date": "30/12",
       "type": "enigma",
       "text": "Pourquoi certains fous dorment-ils avec des lunettes ?\n",
-      "answer": "> Pour mieux voir leurs rêves."
+      "answer": "Pour mieux voir leurs rêves."
     }
   ]
 }

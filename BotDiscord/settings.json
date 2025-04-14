@@ -1,0 +1,10 @@
+{
+    "almanachMessageSchedule": 16,
+    "almanachAnswerSchedule": 16,
+    "almanachDataFiles": [
+        "AlmanachCasseTete.json",
+        "AlmanachFous.json",
+        "AlmanachGeek.json",
+        "AlmanachHumour.json"
+    ]
+}
