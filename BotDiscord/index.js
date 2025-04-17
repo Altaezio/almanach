@@ -8,7 +8,10 @@ const {
 } = require('discord.js');
 const { almanachMessageSchedule,
 	almanachAnswerSchedule,
-	almanachDataFiles
+	almanachDataFiles,
+	daysBeforePickableAgain,
+	upVoteReaction,
+	downVoteReaction
 } = require('./settings.json');
 
 const client = new Client({
@@ -17,6 +20,7 @@ const client = new Client({
 		GatewayIntentBits.GuildMessages,
 		GatewayIntentBits.MessageContent,
 		GatewayIntentBits.GuildMembers,
+		GatewayIntentBits.GuildMessageReactions,
 	]
 });
 
@@ -56,68 +60,155 @@ for (const file of eventFiles) {
 // loop every loopDelay for sending the almanachs messages
 const loopDelay = 5; //30 * 60 * 1000; // 30min
 setInterval(async () => {
-	let runningData = require('./data/RunningData.json');
+	const runningData = require('./data/RunningData.json');
+	let dataChanged = false;
 
 	const currentTime = new Date();
 	const hour = currentTime.getHours();
 	if (hour == 0) {
-		runningData.todayMessageSent = false;
-		runningData.todayAnswerSent = false;
+		dataChanged = true;
+		runningData.state = 'startOfDay';
 	}
 
-	if (!runningData.todayMessageSent && hour >= almanachMessageSchedule) {
+	if (runningData.state == 'startOfDay' && hour >= almanachMessageSchedule) {
 		const channel = client.channels.cache.get(almanachChannelId);
-		if (channel) {
-			const almanachFile = almanachDataFiles[Math.floor(almanachDataFiles.length * Math.random())];
-			let almanachData = require('./data/' + 'AlmanachCasseTete.json');
-			let chosenDay = almanachData.days[Math.floor(almanachData.days.length * Math.random())];
-			while (runningData.lastMessages.findIndex((e) => e == chosenDay) != -1) {
-				chosenDay = almanachData.days[Math.floor(almanachData.days.length * Math.random())];
+		if (channel === undefined) {
+			return;
+		}
+
+		runningData.state = 'fetchingVotes';
+		const dataVotes = JSON.stringify(runningData, null, 4);
+		fs.writeFileSync('./data/RunningData.json', dataVotes);
+		if (runningData.lastMessages.length > 0) {
+			const lastMessageData = runningData.lastMessages[0];
+			let message = await channel.messages.fetch(lastMessageData.messageId);
+			if (typeof (message) !== 'Message' && Array.isArray(message)) {
+				message = message.find(e => e.id == lastMessageData.messageId);
 			}
-			let lastMessageData = {
-				"date": currentTime.getTime(),
-				"id": chosenDay.id,
-				"file": almanachData.almanachFile,
-				"upVotes": 0,
-				"downVotes": 0
-			};
-			console.log(currentTime);
-			runningData.lastMessages.unshift(lastMessageData);
-			if (chosenDay.type == "citation") {
-				let lines = chosenDay.text.split('\n');
-				lines.forEach(element => {
-					element = "> " + element;
+			if (message !== undefined) {
+				dataChanged = true;
+				await message.reactions.cache.forEach(async (reaction) => {
+					const emojiName = reaction._emoji.name
+					const emojiCount = reaction.count
+					const reactionUsers = await reaction.users.fetch();
+					if (emojiName === upVoteReaction) {
+						lastMessageData.upVotes += emojiCount - 1;
+					}
+					else if (emojiName === downVoteReaction) {
+						lastMessageData.downVotes += emojiCount - 1;
+					}
 				});
-				chosenDay.text = lines.join('\n');
-				chosenDay.text += chosenDay.author;
 			}
-			channel.send(chosenDay.text);
-			runningData.todayMessageSent = true;
-			if (chosenDay.type != "enigma") {
-				runningData.todayAnswerSent = true;
+		}
+
+		const almanachFile = almanachDataFiles[Math.floor(almanachDataFiles.length * Math.random())];
+		const almanachData = require('./data/' + almanachFile);
+		let chosenDay = almanachData.days[Math.floor(almanachData.days.length * Math.random())];
+		let alreadyPicked = true;
+		let lastMessageData = undefined;
+		while (alreadyPicked) {
+			alreadyPicked = false;
+			lastMessageData = runningData.lastMessages.find(e => e.dayId == chosenDay.id);
+			if (lastMessageData !== undefined) {
+				const timeLastPicked = lastMessageData.date[0];
+				const daysSinceLastPicked = (timeLastPicked - currentTime.getTime()) / (1000 * 60 * 60 * 24);
+				if (daysSinceLastPicked < daysBeforePickableAgain) {
+					chosenDay = almanachData.days[Math.floor(almanachData.days.length * Math.random())];
+					alreadyPicked = true;
+				}
 			}
+		}
+		if (lastMessageData === undefined) {
+			lastMessageData = {
+				'file': almanachFile,
+				'dayId': chosenDay.id,
+				'date': [currentTime.getTime()],
+				'upVotes': 0,
+				'downVotes': 0
+			};
+		}
+		else {
+			console.assert(lastMessageData.file == almanachFile, "File changed");
+			console.assert(lastMessageData.dayId == chosenDay.id, "Id changed");
+			lastMessageData.date.unshift(currentTime.getTime());
+		}
+
+		if (chosenDay.type == 'citation') {
+			const lines = chosenDay.text.split('\n');
+			lines.forEach(element => {
+				element = '> ' + element;
+			});
+			chosenDay.text = lines.join('\n');
+			chosenDay.text += chosenDay.author; // assumes last line ended with a line break
+		}
+
+		runningData.state = 'messageSending';
+		const data = JSON.stringify(runningData, null, 4);
+		fs.writeFileSync('./data/RunningData.json', data);
+		await channel.send(chosenDay.text)
+			.then((message) => {
+				lastMessageData.messageId = message.id;
+				message.react(upVoteReaction);
+				message.react(downVoteReaction);
+			});
+		dataChanged = true;
+		runningData.lastMessages.unshift(lastMessageData); // prepend
+		runningData.state = 'messageSent';
+		if (chosenDay.type != 'enigma') {
+			runningData.state = 'answerSent';
 		}
 	}
-	if (!runningData.todayAnswerSent && hour >= almanachAnswerSchedule) {
+	else if (runningData.state == 'messageSent' && hour >= almanachAnswerSchedule) {
 		const channel = client.channels.cache.get(almanachChannelId);
-		if (channel && runningData.lastMessages.length > 0) {
-			let todayData = runningData.lastMessages[0];
-			let todate = new Date(todayData.date);
-			console.assert(currentTime.getDay() == todate.getDay(), "not the same day");
-			let almanachData = require('./data/' + todayData.file);
-			today = almanachData.days.find((e) => e.id == todayData.id);
-			console.assert(today, "today of id " + todayData.id + " not found");
-			if (today) {
-				console.log(today);
-				console.assert(today.type == "enigma", "not an enigma");
-				channel.send(today.answer);
-			}
-			runningData.todayAnswerSent = true;
+		if (channel === undefined) {
+			return;
 		}
+		if (runningData.lastMessages.length <= 0) {
+			console.error('No last message but wanted an anwser');
+			return;
+		}
+
+		const todayData = runningData.lastMessages[0];
+		const todate = new Date(todayData.date[0]);
+		console.assert(currentTime.getDay() == todate.getDay(), 'not the same day');
+		const almanachData = require('./data/' + todayData.file);
+		today = almanachData.days.find((e) => e.id == todayData.dayId);
+		if (today === undefined) {
+			console.error('today of id ' + todayData.dayId + ' not found');
+			return;
+		}
+		console.assert(today.type == 'enigma', 'not an enigma');
+
+		runningData.state = 'answerSending';
+		const data = JSON.stringify(runningData, null, 4);
+		fs.writeFileSync('./data/RunningData.json', data);
+		const m = await channel.messages.fetch(todayData.messageId);
+		if (typeof (m) === 'Message') {
+
+			m.reply('||' + today.answer + '||');
+		}
+		else {
+			if (Array.isArray(m)) {
+				const message = m.find(e => e.id == todayData.messageId);
+				if (message !== undefined) {
+					m.reply('||' + today.answer + '||');
+				}
+				else {
+					channel.send('||' + today.answer + '||');
+				}
+			}
+			else {
+				channel.send('||' + today.answer + '||');
+			}
+		}
+		runningData.state = 'answerSent';
+		dataChanged = true;
 	}
 
-	const data = JSON.stringify(runningData, null, 4);
-	fs.writeFileSync('./data/RunningData.json', data);
+	if (dataChanged) {
+		const data = JSON.stringify(runningData, null, 4);
+		fs.writeFileSync('./data/RunningData.json', data);
+	}
 }, loopDelay);
 
 client.login(token);

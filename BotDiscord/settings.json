@@ -1,10 +1,13 @@
 {
-    "almanachMessageSchedule": 16,
-    "almanachAnswerSchedule": 16,
+    "almanachMessageSchedule": 7,
+    "almanachAnswerSchedule": 12,
     "almanachDataFiles": [
         "AlmanachCasseTete.json",
         "AlmanachFous.json",
         "AlmanachGeek.json",
         "AlmanachHumour.json"
-    ]
+    ],
+    "daysBeforePickableAgain": 180,
+    "upVoteReaction": "👍",
+    "downVoteReaction": "👎"
 }
