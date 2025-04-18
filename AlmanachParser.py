@@ -62,5 +62,5 @@ for fileInd,fileName in enumerate(os.listdir(AlmanachsLocation)):
             
         
         jsonName = fileName[:-3] + "json"
-        with open(ParsedDestination + "/" + jsonName, mode="x", encoding="utf-8") as jsonFile:
+        with open(ParsedDestination + "/" + jsonName, mode="w", encoding="utf-8") as jsonFile:
             json.dump(data, jsonFile, ensure_ascii=False, indent=2)

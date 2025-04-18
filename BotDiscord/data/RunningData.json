@@ -1,4 +1,29 @@
 {
-    "state": "startOfDay",
-    "lastMessages": []
+    "state": "answerSent",
+    "lastMessages": [
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 911,
+            "date": [
+                1744973880003
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1362743964767227946"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20921,
+            "date": [
+                1744966800007
+            ],
+            "upVotes": {
+                "136204947921436672": 1
+            },
+            "downVotes": {
+                "136204947921436672": 1
+            },
+            "messageId": "1362714268675346562"
+        }
+    ]
 }

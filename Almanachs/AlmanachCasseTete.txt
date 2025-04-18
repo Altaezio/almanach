@@ -1532,7 +1532,7 @@ Quelle carte remplace logiquement le point d'interrogation ?
 =====
 11/09
 Un homme lit dans le métro.
-Soudant, il y a une panne d'électricité. La rame est plongée dans le noir et on n'y voit plus rien.
+Soudain, il y a une panne d'électricité. La rame est plongée dans le noir et on n'y voit plus rien.
 Pourtant, il continue à lire.
 Comment est-ce possible ?
 > C'est un aveugle, qui lit en braille. (ou juste il lit sur son tel mdr)

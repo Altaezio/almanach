@@ -1,6 +1,7 @@
 const { token, guildId, almanachChannelId } = require('./config.json');
 const fs = require('node:fs');
 const path = require('node:path');
+const schedule = require('node-schedule');
 const {
 	Client,
 	Collection,
@@ -58,8 +59,7 @@ for (const file of eventFiles) {
 }
 
 // loop every loopDelay for sending the almanachs messages
-const loopDelay = 5; //30 * 60 * 1000; // 30min
-setInterval(async () => {
+const job = schedule.scheduleJob('0 * * * *', async function () {
 	const runningData = require('./data/RunningData.json');
 	let dataChanged = false;
 
@@ -91,12 +91,20 @@ setInterval(async () => {
 					const emojiName = reaction._emoji.name
 					const emojiCount = reaction.count
 					const reactionUsers = await reaction.users.fetch();
-					if (emojiName === upVoteReaction) {
-						lastMessageData.upVotes += emojiCount - 1;
-					}
-					else if (emojiName === downVoteReaction) {
-						lastMessageData.downVotes += emojiCount - 1;
-					}
+					reactionUsers
+						.filter(user => !user.bot)
+						.each((user) => {
+							if (emojiName === upVoteReaction) {
+								if (lastMessageData.upVotes[user.id] === undefined)
+									lastMessageData.upVotes[user.id] = 0;
+								lastMessageData.upVotes[user.id]++;
+							}
+							else if (emojiName === downVoteReaction) {
+								if (lastMessageData.downVotes[user.id] === undefined)
+									lastMessageData.downVotes[user.id] = 0;
+								lastMessageData.downVotes[user.id]++;
+							}
+						});
 				});
 			}
 		}
@@ -123,8 +131,8 @@ setInterval(async () => {
 				'file': almanachFile,
 				'dayId': chosenDay.id,
 				'date': [currentTime.getTime()],
-				'upVotes': 0,
-				'downVotes': 0
+				'upVotes': {},
+				'downVotes': {}
 			};
 		}
 		else {
@@ -209,6 +217,6 @@ setInterval(async () => {
 		const data = JSON.stringify(runningData, null, 4);
 		fs.writeFileSync('./data/RunningData.json', data);
 	}
-}, loopDelay);
+});
 
 client.login(token);
