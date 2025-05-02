@@ -59,22 +59,39 @@ for (const file of eventFiles) {
 }
 
 // loop every loopDelay for sending the almanachs messages
-const job = schedule.scheduleJob('0 * * * *', async function () {
+const job = schedule.scheduleJob('10 * * * *', async function () {
 	const runningData = require('./data/RunningData.json');
 	let dataChanged = false;
 
 	const currentTime = new Date();
 	const hour = currentTime.getHours();
-	if (hour == 0) {
-		dataChanged = true;
-		runningData.state = 'startOfDay';
+	if (runningData.state != 'startOfDay') {
+		let newDay = false;
+		if (runningData.lastMessages.length == 0) {
+			newDay = true;
+		}
+		else {
+			let lastMessageDate = new Date(runningData.lastMessages[0].date[0])
+			if (lastMessageDate.getDay() != currentTime.getDay()) {
+				newDay = true;
+			}
+		}
+
+		if (newDay) {
+			dataChanged = true;
+			runningData.state = 'startOfDay';
+			console.log('[' + Date.now().toUTCString() + ']: New day!');
+		}
 	}
+
 
 	if (runningData.state == 'startOfDay' && hour >= almanachMessageSchedule) {
 		const channel = client.channels.cache.get(almanachChannelId);
 		if (channel === undefined) {
 			return;
 		}
+
+		console.log('[' + Date.now().toUTCString() + ']: Sending message');
 
 		runningData.state = 'fetchingVotes';
 		const dataVotes = JSON.stringify(runningData, null, 4);
@@ -162,6 +179,7 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 		dataChanged = true;
 		runningData.lastMessages.unshift(lastMessageData); // prepend
 		runningData.state = 'messageSent';
+		console.log('[' + Date.now().toUTCString() + ']: Message sent');
 		if (chosenDay.type != 'enigma') {
 			runningData.state = 'answerSent';
 		}
@@ -172,9 +190,11 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 			return;
 		}
 		if (runningData.lastMessages.length <= 0) {
-			console.error('No last message but wanted an anwser');
+			console.error('[' + Date.now().toUTCString() + ']: No last message but wanted an anwser');
 			return;
 		}
+
+		console.log('[' + Date.now().toUTCString() + ']: Sending answer');
 
 		const todayData = runningData.lastMessages[0];
 		const todate = new Date(todayData.date[0]);
@@ -211,11 +231,15 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 		}
 		runningData.state = 'answerSent';
 		dataChanged = true;
+
+		console.log('[' + Date.now().toUTCString() + ']: Answer sent');
 	}
 
 	if (dataChanged) {
 		const data = JSON.stringify(runningData, null, 4);
 		fs.writeFileSync('./data/RunningData.json', data);
+
+		console.log('[' + Date.now().toUTCString() + ']: Data changed save it');
 	}
 });
 
