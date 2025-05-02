@@ -63,8 +63,11 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 	const runningData = require('./data/RunningData.json');
 	let dataChanged = false;
 
-	const currentTime = new Date();
-	const hour = currentTime.getHours();
+	const startExecTime = new Date();
+	const hour = startExecTime.getHours();
+
+	console.log('[' + startExecTime.toUTCString() + ']: New day!');
+
 	if (runningData.state != 'startOfDay') {
 		let newDay = false;
 		if (runningData.lastMessages.length == 0) {
@@ -72,7 +75,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 		}
 		else {
 			let lastMessageDate = new Date(runningData.lastMessages[0].date[0])
-			if (lastMessageDate.getDay() != currentTime.getDay()) {
+			if (lastMessageDate.getDay() != startExecTime.getDay()) {
 				newDay = true;
 			}
 		}
@@ -80,7 +83,8 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 		if (newDay) {
 			dataChanged = true;
 			runningData.state = 'startOfDay';
-			console.log('[' + Date.now().toUTCString() + ']: New day!');
+			const currentTime = new Date();
+			console.log('[' + currentTime.toUTCString() + ']: New day!');
 		}
 	}
 
@@ -91,7 +95,10 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 			return;
 		}
 
-		console.log('[' + Date.now().toUTCString() + ']: Sending message');
+		{
+			const currentTime = new Date();
+			console.log('[' + currentTime.toUTCString() + ']: Sending message');
+		}
 
 		runningData.state = 'fetchingVotes';
 		const dataVotes = JSON.stringify(runningData, null, 4);
@@ -136,7 +143,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 			lastMessageData = runningData.lastMessages.find(e => e.dayId == chosenDay.id);
 			if (lastMessageData !== undefined) {
 				const timeLastPicked = lastMessageData.date[0];
-				const daysSinceLastPicked = (timeLastPicked - currentTime.getTime()) / (1000 * 60 * 60 * 24);
+				const daysSinceLastPicked = (timeLastPicked - startExecTime.getTime()) / (1000 * 60 * 60 * 24);
 				if (daysSinceLastPicked < daysBeforePickableAgain) {
 					chosenDay = almanachData.days[Math.floor(almanachData.days.length * Math.random())];
 					alreadyPicked = true;
@@ -147,7 +154,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 			lastMessageData = {
 				'file': almanachFile,
 				'dayId': chosenDay.id,
-				'date': [currentTime.getTime()],
+				'date': [startExecTime.getTime()],
 				'upVotes': {},
 				'downVotes': {}
 			};
@@ -155,7 +162,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 		else {
 			console.assert(lastMessageData.file == almanachFile, "File changed");
 			console.assert(lastMessageData.dayId == chosenDay.id, "Id changed");
-			lastMessageData.date.unshift(currentTime.getTime());
+			lastMessageData.date.unshift(startExecTime.getTime());
 		}
 
 		if (chosenDay.type == 'citation') {
@@ -179,7 +186,10 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 		dataChanged = true;
 		runningData.lastMessages.unshift(lastMessageData); // prepend
 		runningData.state = 'messageSent';
-		console.log('[' + Date.now().toUTCString() + ']: Message sent');
+		{
+			const currentTime = new Date();
+			console.log('[' + currentTime.toUTCString() + ']: Message sent');
+		}
 		if (chosenDay.type != 'enigma') {
 			runningData.state = 'answerSent';
 		}
@@ -190,15 +200,19 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 			return;
 		}
 		if (runningData.lastMessages.length <= 0) {
-			console.error('[' + Date.now().toUTCString() + ']: No last message but wanted an anwser');
+			const currentTime = new Date();
+			console.error('[' + currentTime.toUTCString() + ']: No last message but wanted an anwser');
 			return;
 		}
 
-		console.log('[' + Date.now().toUTCString() + ']: Sending answer');
+		{
+			const currentTime = new Date();
+			console.log('[' + currentTime.toUTCString() + ']: Sending answer');
+		}
 
 		const todayData = runningData.lastMessages[0];
 		const todate = new Date(todayData.date[0]);
-		console.assert(currentTime.getDay() == todate.getDay(), 'not the same day');
+		console.assert(startExecTime.getDay() == todate.getDay(), 'not the same day');
 		const almanachData = require('./data/' + todayData.file);
 		today = almanachData.days.find((e) => e.id == todayData.dayId);
 		if (today === undefined) {
@@ -232,14 +246,20 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 		runningData.state = 'answerSent';
 		dataChanged = true;
 
-		console.log('[' + Date.now().toUTCString() + ']: Answer sent');
+		{
+			const currentTime = new Date();
+			console.log('[' + currentTime.toUTCString() + ']: Answer sent');
+		}
 	}
 
 	if (dataChanged) {
 		const data = JSON.stringify(runningData, null, 4);
 		fs.writeFileSync('./data/RunningData.json', data);
 
-		console.log('[' + Date.now().toUTCString() + ']: Data changed save it');
+		{
+			const currentTime = new Date();
+			console.log('[' + currentTime.toUTCString() + ']: Data changed save it');
+		}
 	}
 });
 
