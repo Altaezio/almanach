@@ -167,8 +167,8 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 
 		if (chosenDay.type == 'citation') {
 			const lines = chosenDay.text.split('\n');
-			lines.forEach(element => {
-				element = '> ' + element;
+			lines.forEach(function(element, index) {
+				this[index] = '> ' + element;
 			});
 			chosenDay.text = lines.join('\n');
 			chosenDay.text += chosenDay.author; // assumes last line ended with a line break
