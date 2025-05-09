@@ -59,14 +59,14 @@ for (const file of eventFiles) {
 }
 
 // loop every loopDelay for sending the almanachs messages
-const job = schedule.scheduleJob('10 * * * *', async function () {
+const job = schedule.scheduleJob('0 * * * *', async function () {
 	const runningData = require('./data/RunningData.json');
 	let dataChanged = false;
 
 	const startExecTime = new Date();
 	const hour = startExecTime.getHours();
 
-	console.log('[' + startExecTime.toUTCString() + ']: New day!');
+	console.log('[' + currentTime.toLocaleString('fr-FR') + ']: Current state: ${runningData.state}');
 
 	if (runningData.state != 'startOfDay') {
 		let newDay = false;
@@ -84,7 +84,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 			dataChanged = true;
 			runningData.state = 'startOfDay';
 			const currentTime = new Date();
-			console.log('[' + currentTime.toUTCString() + ']: New day!');
+			console.log('[' + currentTime.toLocaleString('fr-FR') + ']: New day!');
 		}
 	}
 
@@ -97,7 +97,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 
 		{
 			const currentTime = new Date();
-			console.log('[' + currentTime.toUTCString() + ']: Sending message');
+			console.log('[' + currentTime.toLocaleString('fr-FR') + ']: Sending message');
 		}
 
 		runningData.state = 'fetchingVotes';
@@ -167,8 +167,9 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 
 		if (chosenDay.type == 'citation') {
 			const lines = chosenDay.text.split('\n');
-			lines.forEach(function(element, index) {
-				this[index] = '> ' + element;
+			lines.forEach((element, index) => {
+				if (element.length > 0)
+					lines[index] = '> ' + element;
 			});
 			chosenDay.text = lines.join('\n');
 			chosenDay.text += chosenDay.author; // assumes last line ended with a line break
@@ -188,7 +189,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 		runningData.state = 'messageSent';
 		{
 			const currentTime = new Date();
-			console.log('[' + currentTime.toUTCString() + ']: Message sent');
+			console.log('[' + currentTime.toLocaleString('fr-FR') + ']: Message sent');
 		}
 		if (chosenDay.type != 'enigma') {
 			runningData.state = 'answerSent';
@@ -201,13 +202,13 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 		}
 		if (runningData.lastMessages.length <= 0) {
 			const currentTime = new Date();
-			console.error('[' + currentTime.toUTCString() + ']: No last message but wanted an anwser');
+			console.error('[' + currentTime.toLocaleString('fr-FR') + ']: No last message but wanted an anwser');
 			return;
 		}
 
 		{
 			const currentTime = new Date();
-			console.log('[' + currentTime.toUTCString() + ']: Sending answer');
+			console.log('[' + currentTime.toLocaleString('fr-FR') + ']: Sending answer');
 		}
 
 		const todayData = runningData.lastMessages[0];
@@ -248,7 +249,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 
 		{
 			const currentTime = new Date();
-			console.log('[' + currentTime.toUTCString() + ']: Answer sent');
+			console.log('[' + currentTime.toLocaleString('fr-FR') + ']: Answer sent');
 		}
 	}
 
@@ -258,7 +259,7 @@ const job = schedule.scheduleJob('10 * * * *', async function () {
 
 		{
 			const currentTime = new Date();
-			console.log('[' + currentTime.toUTCString() + ']: Data changed save it');
+			console.log('[' + currentTime.toLocaleString('fr-FR') + ']: Data changed save it');
 		}
 	}
 });
