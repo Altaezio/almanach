@@ -66,7 +66,7 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 	const startExecTime = new Date();
 	const hour = startExecTime.getHours();
 
-	console.log('[' + currentTime.toLocaleString('fr-FR') + ']: Current state: ${runningData.state}');
+	console.log('[' + startExecTime.toLocaleString('fr-FR') + ']: Current state: ${runningData.state}');
 
 	if (runningData.state != 'startOfDay') {
 		let newDay = false;
