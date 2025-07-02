@@ -1,6 +1,639 @@
 {
-    "state": "startOfDay",
+    "state": "messageSent",
     "lastMessages": [
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 21014,
+            "date": [
+                1751432400032
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1389832963096711199"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20204,
+            "date": [
+                1751346000036
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1389470575155740852"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10502,
+            "date": [
+                1751259600044
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1389108187491209226"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 923,
+            "date": [
+                1751173200009
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1388745799243927714"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30423,
+            "date": [
+                1751086800013
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1388383411613335653"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30721,
+            "date": [
+                1751000400023
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1388021023722704896"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30518,
+            "date": [
+                1750914000033
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1387658635802443886"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10905,
+            "date": [
+                1750827600004
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1387296247794368543"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30821,
+            "date": [
+                1750741200042
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1386933859974647961"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20721,
+            "date": [
+                1750654800009
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1386571472163573884"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 228,
+            "date": [
+                1750568400032
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1386209084440576140"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30713,
+            "date": [
+                1750482000029
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1385846696533033000"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10826,
+            "date": [
+                1750395600030
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1385484308587876494"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30907,
+            "date": [
+                1750309200034
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1385121920504303759"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 11003,
+            "date": [
+                1750222800034
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1384759533024313435"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30830,
+            "date": [
+                1750136400006
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1384397144802197587"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 607,
+            "date": [
+                1750050000019
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1384034757175672852"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 920,
+            "date": [
+                1749963600042
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1383672369293426718"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10507,
+            "date": [
+                1749877200020
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1383309981226635437"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 403,
+            "date": [
+                1749790800009
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1382947593490792538"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 21109,
+            "date": [
+                1749704400028
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1382585206334296187"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20414,
+            "date": [
+                1749618000009
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1382222817915047946"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30904,
+            "date": [
+                1749531600013
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1381860429826883726"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 11220,
+            "date": [
+                1749445200032
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1381498042594627616"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10608,
+            "date": [
+                1749358800006
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1381135654196346910"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 811,
+            "date": [
+                1749272400026
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1380773266322493490"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30704,
+            "date": [
+                1749186000044
+            ],
+            "upVotes": {
+                "136204947921436672": 1
+            },
+            "downVotes": {},
+            "messageId": "1380410878926655580"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 11203,
+            "date": [
+                1749099600020
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1380048490595487816"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10618,
+            "date": [
+                1749013200028
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1379686102696329278"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 31126,
+            "date": [
+                1748926800009
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1379323715090907166"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 21023,
+            "date": [
+                1748840400023
+            ],
+            "upVotes": {
+                "136204947921436672": 1
+            },
+            "downVotes": {},
+            "messageId": "1378961327065796618"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 21221,
+            "date": [
+                1748754000017
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1378598939082883143"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 21011,
+            "date": [
+                1748667600045
+            ],
+            "upVotes": {},
+            "downVotes": {
+                "136204947921436672": 1
+            },
+            "messageId": "1378236551011500043"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 822,
+            "date": [
+                1748581200004
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1377874163284447282"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20205,
+            "date": [
+                1748494800031
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1377511775624364114"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10305,
+            "date": [
+                1748408400032
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1377149387851042866"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10220,
+            "date": [
+                1748322000042
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1376786999876255866"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10427,
+            "date": [
+                1748235600009
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1376424611926900847"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 31214,
+            "date": [
+                1748149200013
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1376062223826423860"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 11130,
+            "date": [
+                1748062800043
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1375699836497821708"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30522,
+            "date": [
+                1747976400016
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1375337448342556783"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20423,
+            "date": [
+                1747890000018
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1374975061689106442"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10605,
+            "date": [
+                1747803600040
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1374612672657752124"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10731,
+            "date": [
+                1747717200011
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1374250284796346368"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 1230,
+            "date": [
+                1747630800022
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1373887896813309963"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20102,
+            "date": [
+                1747544400043
+            ],
+            "upVotes": {},
+            "downVotes": {
+                "136204947921436672": 1
+            },
+            "messageId": "1373525509153226865"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20425,
+            "date": [
+                1747458000038
+            ],
+            "upVotes": {},
+            "downVotes": {
+                "136204947921436672": 1
+            },
+            "messageId": "1373163121383964763"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10325,
+            "date": [
+                1747371600023
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1372800734311219220"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20311,
+            "date": [
+                1747285200044
+            ],
+            "upVotes": {},
+            "downVotes": {
+                "136204947921436672": 1
+            },
+            "messageId": "1372438345623404595"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10809,
+            "date": [
+                1747198800026
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1372075958005268640"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 31115,
+            "date": [
+                1747112400034
+            ],
+            "upVotes": {
+                "136204947921436672": 1
+            },
+            "downVotes": {},
+            "messageId": "1371713569716178944"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 1117,
+            "date": [
+                1747026000009
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1371351181410041877"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 907,
+            "date": [
+                1746939600006
+            ],
+            "upVotes": {},
+            "downVotes": {
+                "136204947921436672": 1
+            },
+            "messageId": "1370988795243135010"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30410,
+            "date": [
+                1746896400049
+            ],
+            "upVotes": {},
+            "downVotes": {
+                "136204947921436672": 1
+            },
+            "messageId": "1370807601809461268"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30806,
+            "date": [
+                1746767400015
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1370266534483722271"
+        },
+        {
+            "file": "AlmanachFous.json",
+            "dayId": 10101,
+            "date": [
+                1746681000015
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1369904146479714376"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20928,
+            "date": [
+                1746594600012
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1369541758723166209"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20211,
+            "date": [
+                1746508200019
+            ],
+            "upVotes": {
+                "136204947921436672": 1
+            },
+            "downVotes": {},
+            "messageId": "1369179371109355566"
+        },
+        {
+            "file": "AlmanachCasseTete.json",
+            "dayId": 408,
+            "date": [
+                1746421800044
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1368816983419785258"
+        },
+        {
+            "file": "AlmanachGeek.json",
+            "dayId": 20129,
+            "date": [
+                1746335400026
+            ],
+            "upVotes": {},
+            "downVotes": {
+                "136204947921436672": 1,
+                "225610801426202625": 1
+            },
+            "messageId": "1368454596326064190"
+        },
+        {
+            "file": "AlmanachHumour.json",
+            "dayId": 30714,
+            "date": [
+                1746249000042
+            ],
+            "upVotes": {},
+            "downVotes": {},
+            "messageId": "1368092209001533531"
+        },
         {
             "file": "AlmanachCasseTete.json",
             "dayId": 911,
@@ -8,7 +641,9 @@
                 1744973880003
             ],
             "upVotes": {},
-            "downVotes": {},
+            "downVotes": {
+                "136204947921436672": 1
+            },
             "messageId": "1362743964767227946"
         },
         {
