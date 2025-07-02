@@ -1598,7 +1598,7 @@ Quel était cet objet ?
 
 =====
 20/09
-> Que jour étions-nous avant-hier sachant que, le lendemain, nous nétions pas en week-end, alors que nous l'étions la veille, qui n'était pas le surlendemain de jeudi ?
+Que jour étions-nous avant-hier sachant que, le lendemain, nous nétions pas en week-end, alors que nous l'étions la veille, qui n'était pas le surlendemain de jeudi ?
 > Nous étions lundi. (c'était bien écrit "Que" et pas "Quel")
 
 =====

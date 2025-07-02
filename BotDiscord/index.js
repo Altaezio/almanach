@@ -100,39 +100,6 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 			console.log('[' + currentTime.toLocaleString('fr-FR') + ']: Sending message');
 		}
 
-		runningData.state = 'fetchingVotes';
-		const dataVotes = JSON.stringify(runningData, null, 4);
-		fs.writeFileSync('./data/RunningData.json', dataVotes);
-		if (runningData.lastMessages.length > 0) {
-			const lastMessageData = runningData.lastMessages[0];
-			let message = await channel.messages.fetch(lastMessageData.messageId);
-			if (typeof (message) !== 'Message' && Array.isArray(message)) {
-				message = message.find(e => e.id == lastMessageData.messageId);
-			}
-			if (message !== undefined) {
-				dataChanged = true;
-				await message.reactions.cache.forEach(async (reaction) => {
-					const emojiName = reaction._emoji.name
-					const emojiCount = reaction.count
-					const reactionUsers = await reaction.users.fetch();
-					reactionUsers
-						.filter(user => !user.bot)
-						.each((user) => {
-							if (emojiName === upVoteReaction) {
-								if (lastMessageData.upVotes[user.id] === undefined)
-									lastMessageData.upVotes[user.id] = 0;
-								lastMessageData.upVotes[user.id]++;
-							}
-							else if (emojiName === downVoteReaction) {
-								if (lastMessageData.downVotes[user.id] === undefined)
-									lastMessageData.downVotes[user.id] = 0;
-								lastMessageData.downVotes[user.id]++;
-							}
-						});
-				});
-			}
-		}
-
 		const almanachFile = almanachDataFiles[Math.floor(almanachDataFiles.length * Math.random())];
 		const almanachData = require('./data/' + almanachFile);
 		let chosenDay = almanachData.days[Math.floor(almanachData.days.length * Math.random())];
@@ -181,8 +148,6 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 		await channel.send(chosenDay.text)
 			.then((message) => {
 				lastMessageData.messageId = message.id;
-				message.react(upVoteReaction);
-				message.react(downVoteReaction);
 			});
 		dataChanged = true;
 		runningData.lastMessages.unshift(lastMessageData); // prepend

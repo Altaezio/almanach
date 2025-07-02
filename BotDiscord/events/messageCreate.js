@@ -8,14 +8,14 @@ module.exports = {
             return;
 
         // --- FEUR RESPONSE --- //
-        const quoiAnswer = ["feur", "fure", "feuse", "tron", "lity"];
+        const quoiAnswer = ['feur', 'fure', 'feuse', 'tron', 'lity'];
         // console.log(`received message ${message.content}`);
         const strippedMsg = message.content.toLowerCase().replaceAll(/<.+>/gu, '').replaceAll(/\W/gu, '');
         // console.log(`as ${strippedMsg}`);
-        if (strippedMsg.endsWith("quoi")) {
+        if (strippedMsg.endsWith('quoi')) {
             message.reply({ content: quoiAnswer[Math.floor(Math.random() * quoiAnswer.length)] });
             if (message.author.id == thowId)
-                message.reply({ content: "feur, tiens un de plus pour toi :angry:", flags: MessageFlags.Ephemeral });
+                message.reply({ content: 'feur, tiens un de plus pour toi :angry:', flags: MessageFlags.Ephemeral });
         }
         // --- //
     },
