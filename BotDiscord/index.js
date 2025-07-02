@@ -66,7 +66,7 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 	const startExecTime = new Date();
 	const hour = startExecTime.getHours();
 
-	console.log('[' + startExecTime.toLocaleString('fr-FR') + ']: Current state: ${runningData.state}');
+	console.log('[' + startExecTime.toLocaleString('fr-FR') + ']: Current state: ' + runningData.state);
 
 	if (runningData.state != 'startOfDay') {
 		let newDay = false;
@@ -127,8 +127,8 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 			};
 		}
 		else {
-			console.assert(lastMessageData.file == almanachFile, "File changed");
-			console.assert(lastMessageData.dayId == chosenDay.id, "Id changed");
+			console.assert(lastMessageData.file == almanachFile, 'File changed');
+			console.assert(lastMessageData.dayId == chosenDay.id, 'Id changed');
 			lastMessageData.date.unshift(startExecTime.getTime());
 		}
 
