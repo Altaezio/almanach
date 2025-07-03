@@ -142,7 +142,7 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 
 		runningData.state = 'messageSending';
 		const data = JSON.stringify(runningData, null, 4);
-		fs.writeFileSync(__dirname + './data/RunningData.json', data);
+		fs.writeFileSync(__dirname + '/data/RunningData.json', data);
 		await channel.send(chosenDay.text)
 			.then((message) => {
 				lastMessageData.messageId = message.id;
@@ -187,7 +187,7 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 
 		runningData.state = 'answerSending';
 		const data = JSON.stringify(runningData, null, 4);
-		fs.writeFileSync(__dirname + './data/RunningData.json', data);
+		fs.writeFileSync(__dirname + '/data/RunningData.json', data);
 		const m = await channel.messages.fetch(todayData.messageId);
 		if (typeof (m) === 'Message') {
 
@@ -218,7 +218,7 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 
 	if (dataChanged) {
 		const data = JSON.stringify(runningData, null, 4);
-		fs.writeFileSync(__dirname + './data/RunningData.json', data);
+		fs.writeFileSync(__dirname + '/data/RunningData.json', data);
 
 		{
 			const currentTime = new Date();
