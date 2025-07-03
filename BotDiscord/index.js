@@ -142,7 +142,7 @@ const job = schedule.scheduleJob('0 * * * *', async function () {
 
 		runningData.state = 'messageSending';
 		const data = JSON.stringify(runningData, null, 4);
-		fs.writeFileSync(__ dirname + './data/RunningData.json', data);
+		fs.writeFileSync(__dirname + './data/RunningData.json', data);
 		await channel.send(chosenDay.text)
 			.then((message) => {
 				lastMessageData.messageId = message.id;
